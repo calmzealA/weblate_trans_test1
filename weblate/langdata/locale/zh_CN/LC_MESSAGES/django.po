@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-08 10:12+0300\n"
-"PO-Revision-Date: 2018-09-17 06:06+0000\n"
+"PO-Revision-Date: 2018-09-17 06:08+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Chinese (Simplified) <http://169.44.92.169:8080/projects/"
 "weblate_trans_test/weblate_trans_test1git/zh_Hans/>\n"
@@ -22,7 +22,7 @@ msgstr "用户"
 
 #: actionlog/templates/object_action_list.html:8
 msgid "Action"
-msgstr "动作"
+msgstr "行为"
 
 #: foo/templates/bar.html:180
 msgid "{0} result"
