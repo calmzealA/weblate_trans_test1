@@ -1,0 +1,13223 @@
+#. extracted from /mnt/d/long/翻译平台/text_zh_CN.ini
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-25 14:22+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_Hant\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: [zh_CN]101200
+msgctxt "[zh_CN]101200"
+msgid "英雄"
+msgstr ""
+
+#: [zh_CN]101201
+msgid "布阵"
+msgstr ""
+
+#: [zh_CN]101202
+msgid "背包"
+msgstr ""
+
+#: [zh_CN]101203
+msgid "征召"
+msgstr ""
+
+#: [zh_CN]101204
+msgid "反馈"
+msgstr ""
+
+#: [zh_CN]101205
+msgctxt "[zh_CN]101205"
+msgid "邮件"
+msgstr ""
+
+#: [zh_CN]101206
+msgid "图鉴"
+msgstr ""
+
+#: [zh_CN]101207
+msgctxt "[zh_CN]101207"
+msgid "系统"
+msgstr ""
+
+#: [zh_CN]101208
+msgid "登陆奖励"
+msgstr ""
+
+#: [zh_CN]101209
+msgctxt "[zh_CN]101209"
+msgid "战斗"
+msgstr ""
+
+#: [zh_CN]101210
+msgid "领地"
+msgstr ""
+
+#: [zh_CN]101211
+msgid "礼包"
+msgstr ""
+
+#: [zh_CN]101212
+msgid "分享得奖励"
+msgstr ""
+
+#: [zh_CN]101213
+msgid "领取奖励"
+msgstr ""
+
+#: [zh_CN]101214
+msgid "凛冬将至"
+msgstr ""
+
+#: [zh_CN]101215
+msgid "伴随着冰原狼的出现，大量的异鬼开始袭击北方的长城，勇士们，拿起你的武器，消灭侵略者"
+msgstr ""
+
+#: [zh_CN]101216
+msgid "How to play"
+msgstr ""
+
+#: [zh_CN]101217
+msgid "推送通知"
+msgstr ""
+
+#: [zh_CN]101218
+msgid "设置"
+msgstr ""
+
+#: [zh_CN]101219
+msgid "已屏蔽用户"
+msgstr ""
+
+#: [zh_CN]101220
+msgid "想要对本游戏了解更多吗？点击How to Play即可"
+msgstr ""
+
+#: [zh_CN]101221
+msgid "获得金币"
+msgstr ""
+
+#: [zh_CN]101222
+msgid "Empire"
+msgstr ""
+
+#: [zh_CN]101223
+msgid "领主大人，支付功能暂未开放！"
+msgstr ""
+
+#: [zh_CN]101263
+msgctxt "[zh_CN]101263"
+msgid "改名"
+msgstr ""
+
+#: [zh_CN]101400
+msgid "战争守护"
+msgstr ""
+
+#: [zh_CN]101401
+msgid "攻击加成"
+msgstr ""
+
+#: [zh_CN]101402
+msgid "防御加成"
+msgstr ""
+
+#: [zh_CN]101403
+msgctxt "[zh_CN]101403"
+msgid "粮食消耗减少"
+msgstr ""
+
+#: [zh_CN]101404
+msgid "玩家经验加成"
+msgstr ""
+
+#: [zh_CN]101405
+msgid "反侦察"
+msgstr ""
+
+#: [zh_CN]101406
+msgid "采集速度加成"
+msgstr ""
+
+#: [zh_CN]101407
+msgid "木头生产速度加成"
+msgstr ""
+
+#: [zh_CN]101408
+msgid "秘银生产速度加成"
+msgstr ""
+
+#: [zh_CN]101409
+msgid "铁矿生产速度加成"
+msgstr ""
+
+#: [zh_CN]101410
+msgid "粮食生产速度加成"
+msgstr ""
+
+#: [zh_CN]101411
+msgid "银币生产速度加成"
+msgstr ""
+
+#: [zh_CN]101420
+msgid "保护您的城市不受其他玩家的攻击。当您侦查或进攻其他玩家时，战争保护会自动失效！"
+msgstr ""
+
+#: [zh_CN]101421
+msgid "增加您部队的攻击力，使其可以更有效的杀伤敌人！"
+msgstr ""
+
+#: [zh_CN]101422
+msgid "增加您部队的防御力，减少来自敌人的伤害！"
+msgstr ""
+
+#: [zh_CN]101423
+msgid "减少您部队的粮食消耗，让您可以维持更多的部队！"
+msgstr ""
+
+#: [zh_CN]101424
+msgid "增加您的经验获得，可以让您更快的提升自己的等级！"
+msgstr ""
+
+#: [zh_CN]101425
+msgid "保护您的城市不被其他玩家侦查！"
+msgstr ""
+
+#: [zh_CN]101426
+msgid "增加您部队采集资源的速度，让您可以更快从世界地图中获得资源！"
+msgstr ""
+
+#: [zh_CN]101427
+msgid "增加城市木头产量，使您获得更多的木头！"
+msgstr ""
+
+#: [zh_CN]101428
+msgid "增加城市秘银产量，使您获得更多的秘银！"
+msgstr ""
+
+#: [zh_CN]101429
+msgid "增加城市铁矿产量，使您获得更多的铁矿！"
+msgstr ""
+
+#: [zh_CN]101430
+msgid "增加城市粮食产量，使您获得更多的粮食！"
+msgstr ""
+
+#: [zh_CN]101431
+msgid "增加城市银币产量，使您获得更多的银币！"
+msgstr ""
+
+#: [zh_CN]101432
+msgid "领主大人，此状态不可叠加，若使用该道具，之前的状态将被覆盖！"
+msgstr ""
+
+#: [zh_CN]101433
+msgid "领主大人，您已有该状态，无法使用该状态道具！"
+msgstr ""
+
+#: [zh_CN]102000
+msgid "大本营"
+msgstr ""
+
+#: [zh_CN]102001
+msgctxt "[zh_CN]102001"
+msgid "市场"
+msgstr ""
+
+#: [zh_CN]102002
+msgid "大使馆"
+msgstr ""
+
+#: [zh_CN]102003
+msgid "学院"
+msgstr ""
+
+#: [zh_CN]102004
+msgid "仓库"
+msgstr ""
+
+#: [zh_CN]102005
+msgid "战争大厅"
+msgstr ""
+
+#: [zh_CN]102006
+msgid "监狱"
+msgstr ""
+
+#: [zh_CN]102007
+msgid "民居"
+msgstr ""
+
+#: [zh_CN]102008
+msgid "行军帐篷"
+msgstr ""
+
+#: [zh_CN]102009
+msgid "急救帐篷"
+msgstr ""
+
+#: [zh_CN]102010
+msgctxt "[zh_CN]102010"
+msgid "秘银矿场"
+msgstr ""
+
+#: [zh_CN]102011
+msgctxt "[zh_CN]102011"
+msgid "伐木场"
+msgstr ""
+
+#: [zh_CN]102012
+msgctxt "[zh_CN]102012"
+msgid "铁矿场"
+msgstr ""
+
+#: [zh_CN]102013
+msgctxt "[zh_CN]102013"
+msgid "农田"
+msgstr ""
+
+#: [zh_CN]102014
+msgid "战争堡垒"
+msgstr ""
+
+#: [zh_CN]102015
+msgid "瞭望塔"
+msgstr ""
+
+#: [zh_CN]102016
+msgid "箭塔"
+msgstr ""
+
+#: [zh_CN]102017
+msgid "城墙"
+msgstr ""
+
+#: [zh_CN]102018
+msgid "内政厅"
+msgstr ""
+
+#: [zh_CN]102019
+msgid "奇迹"
+msgstr ""
+
+#: [zh_CN]102020
+msgctxt "[zh_CN]102020"
+msgid "兵营"
+msgstr ""
+
+#: [zh_CN]102021
+msgid "马厩"
+msgstr ""
+
+#: [zh_CN]102022
+msgid "靶场"
+msgstr ""
+
+#: [zh_CN]102023
+msgid "战车工坊"
+msgstr ""
+
+#: [zh_CN]102024
+msgid "校场"
+msgstr ""
+
+#: [zh_CN]102025
+msgid "大本营提供您的帝国的总览，升级大本营可以解锁新的建筑和功能"
+msgstr ""
+
+#: [zh_CN]102026
+msgid "市场是联盟成员进行资源交易的地方，升级市场可以提高交易数额并降低税率"
+msgstr ""
+
+#: [zh_CN]102027
+msgid "大使馆提供联盟相关功能，联盟盟友之间互相提供帮助，影响自己接受帮助的次数上限以及被帮助的效果。"
+msgstr ""
+
+#: [zh_CN]102028
+msgid "学院是对您的帝国来说是很重要的建筑，里面研究的各种科技会全面提升您的帝国。"
+msgstr ""
+
+#: [zh_CN]102029
+msgctxt "[zh_CN]102029"
+msgid "仓库中存储的资源无法被其他人劫掠"
+msgstr ""
+
+#: [zh_CN]102030
+msgid "战争大厅用来集结你的盟友，你们可以组成一支强大的队伍对敌人发起攻击。升级战争大厅可以提升集结部队士兵数量上限。"
+msgstr ""
+
+#: [zh_CN]102031
+msgid "阴暗的监狱是关押敌人英雄的好地方，你可以将战斗中俘虏的英雄关押在这里"
+msgstr ""
+
+#: [zh_CN]102032
+msgid "民居可以给你带来丰厚的银币收入，升级民居可以获得更高的产量和存储量"
+msgstr ""
+
+#: [zh_CN]102033
+msgid "行军帐篷是您集结士兵的地方，升级行军帐篷可以获得更高的训练速度和训练量"
+msgstr ""
+
+#: [zh_CN]102034
+msgid "急救帐篷是您救治伤兵的地方，升级急救帐篷可以获得更多伤兵位置，以便治疗更多的伤兵"
+msgstr ""
+
+#: [zh_CN]102035
+msgid "秘银矿场是生产并存储秘银的地方，升级秘银矿场可以获得更高的产量和容量"
+msgstr ""
+
+#: [zh_CN]102036
+msgid "伐木场是生产并存储木头的地方，升级伐木场可以获得更高的产量和容量"
+msgstr ""
+
+#: [zh_CN]102037
+msgid "铁矿场是生产并存储铁矿的地方，升级铁矿场可以获得更高的产量和容量"
+msgstr ""
+
+#: [zh_CN]102038
+msgid "农田是生产并存储粮食的地方，升级农田可以获得更高的产量和容量"
+msgstr ""
+
+#: [zh_CN]102039
+msgid "战争堡垒是您建造防御设施的地方，升级战争堡垒可以制作更多的新陷阱"
+msgstr ""
+
+#: [zh_CN]102040
+msgid "瞭望塔的主要功能是侦查敌情，升级瞭望塔可以获得更详细的敌情报告"
+msgstr ""
+
+#: [zh_CN]102041
+msgid "箭塔是您的城防设施，可以在守城时攻击敌人，升级箭塔可以获得更高的属性"
+msgstr ""
+
+#: [zh_CN]102042
+msgid "城墙是您驻扎守城士兵的地方，升级城墙可以提升陷阱的容量"
+msgstr ""
+
+#: [zh_CN]102043
+msgid "内政厅是您处理政务事件的地方，升级内政厅可以增加政务事件的奖励"
+msgstr ""
+
+#: [zh_CN]102044
+msgctxt "[zh_CN]102044"
+msgid "奇迹暂未开放，敬请期待"
+msgstr ""
+
+#: [zh_CN]102045
+msgid "兵营是训练步兵的地方，升级兵营可以训练更多新的兵种"
+msgstr ""
+
+#: [zh_CN]102046
+msgid "马厩是训练骑兵的地方，升级马厩可以训练更多新的兵种"
+msgstr ""
+
+#: [zh_CN]102047
+msgid "靶场是训练弓兵的地方，升级靶场可以训练更多新的兵种"
+msgstr ""
+
+#: [zh_CN]102048
+msgid "战车工坊是制造攻城器械的地方，升级战车工坊可以制作更多新的攻城器械"
+msgstr ""
+
+#: [zh_CN]102049
+msgid "校场是士兵集结的地方，升级校场可以提高行军规模"
+msgstr ""
+
+#: [zh_CN]102050
+msgid "大本营提供您的帝国的总览"
+msgstr ""
+
+#: [zh_CN]102051
+msgid "市场是联盟成员进行资源交易的地方"
+msgstr ""
+
+#: [zh_CN]102052
+msgid "大使馆提供联盟相关功能"
+msgstr ""
+
+#: [zh_CN]102053
+msgid "学院里面可以研究的各种科技，来全面提升您的帝国"
+msgstr ""
+
+#: [zh_CN]102054
+msgctxt "[zh_CN]102054"
+msgid "仓库中存储的资源无法被其他人劫掠"
+msgstr ""
+
+#: [zh_CN]102055
+msgid "战争大厅用来集结你的盟友，你们可以组成一支强大的队伍对敌人发起攻击。"
+msgstr ""
+
+#: [zh_CN]102056
+msgid "阴暗的监狱是关押敌人英雄的好地方"
+msgstr ""
+
+#: [zh_CN]102057
+msgid "民居可以给你带来丰厚的银币收入"
+msgstr ""
+
+#: [zh_CN]102058
+msgid "行军帐篷可以提升你训练士兵的速度和数目"
+msgstr ""
+
+#: [zh_CN]102059
+msgid "急救帐篷是您救治伤兵的地方"
+msgstr ""
+
+#: [zh_CN]102060
+msgid "秘银矿场是生产并存储秘银的地方"
+msgstr ""
+
+#: [zh_CN]102061
+msgid "伐木场是生产并存储木头的地方"
+msgstr ""
+
+#: [zh_CN]102062
+msgid "铁矿场是生产并存储铁矿的地方"
+msgstr ""
+
+#: [zh_CN]102063
+msgid "农田是生产并存储粮食的地方"
+msgstr ""
+
+#: [zh_CN]102064
+msgid "战争堡垒是您建造防御设施的地方"
+msgstr ""
+
+#: [zh_CN]102065
+msgid "瞭望塔的主要功能是侦查敌情"
+msgstr ""
+
+#: [zh_CN]102066
+msgid "箭塔是您的城防设施，可以在守城时攻击敌人"
+msgstr ""
+
+#: [zh_CN]102067
+msgid "城墙是您驻扎守城士兵的地方"
+msgstr ""
+
+#: [zh_CN]102068
+msgid "内政厅是您处理政务事件的地方"
+msgstr ""
+
+#: [zh_CN]102069
+msgctxt "[zh_CN]102069"
+msgid "奇迹暂未开放，敬请期待"
+msgstr ""
+
+#: [zh_CN]102070
+msgid "兵营是训练步兵的地方"
+msgstr ""
+
+#: [zh_CN]102071
+msgid "马厩是训练骑兵的地方"
+msgstr ""
+
+#: [zh_CN]102072
+msgid "靶场是训练弓兵的地方"
+msgstr ""
+
+#: [zh_CN]102073
+msgid "战车工坊是制造攻城器械的地方"
+msgstr ""
+
+#: [zh_CN]102074
+msgid "校场是士兵集结的地方"
+msgstr ""
+
+#: [zh_CN]102075
+msgid "升级大本营可以增加出征士兵数、可出征队伍数和城防值"
+msgstr ""
+
+#: [zh_CN]102076
+msgid "升级市场可以提高交易数额并降低税率"
+msgstr ""
+
+#: [zh_CN]102077
+msgid "升级大使馆可以提升接受帮助的次数上限以及被帮助的效果"
+msgstr ""
+
+#: [zh_CN]102078
+msgctxt "[zh_CN]102078"
+msgid "升级学院可以解锁新的科技"
+msgstr ""
+
+#: [zh_CN]102079
+msgid "升级仓库可以提升仓库存储量"
+msgstr ""
+
+#: [zh_CN]102080
+msgid "升级战争大厅可以提升集结部队士兵数量上限"
+msgstr ""
+
+#: [zh_CN]102081
+msgid "升级监狱可以提升"
+msgstr ""
+
+#: [zh_CN]102082
+msgid "升级民居可以提升银币产量和存储量"
+msgstr ""
+
+#: [zh_CN]102083
+msgctxt "[zh_CN]102083"
+msgid "升级行军帐篷可以提升士兵的训练量和训练速度"
+msgstr ""
+
+#: [zh_CN]102084
+msgctxt "[zh_CN]102084"
+msgid "升级急救帐篷可以提升可收治伤兵的数目"
+msgstr ""
+
+#: [zh_CN]102085
+msgid "升级秘银矿场可以提升秘银的产量和容量"
+msgstr ""
+
+#: [zh_CN]102086
+msgid "升级伐木场可以提升木材的产量和容量"
+msgstr ""
+
+#: [zh_CN]102087
+msgid "升级铁矿场可以提升铁矿的产量和容量"
+msgstr ""
+
+#: [zh_CN]102088
+msgid "升级农田可以提升粮食的产量和容量"
+msgstr ""
+
+#: [zh_CN]102089
+msgid "升级战争堡垒可以解锁更多新陷阱"
+msgstr ""
+
+#: [zh_CN]102090
+msgid "升级瞭望塔可以获得更详细的敌情报告"
+msgstr ""
+
+#: [zh_CN]102091
+msgctxt "[zh_CN]102091"
+msgid "升级箭塔可以获得更高的属性"
+msgstr ""
+
+#: [zh_CN]102092
+msgid "升级城墙可以提升陷阱的容量"
+msgstr ""
+
+#: [zh_CN]102093
+msgid "升级内政厅可以增加政务事件的奖励"
+msgstr ""
+
+#: [zh_CN]102094
+msgctxt "[zh_CN]102094"
+msgid "奇迹暂未开放，敬请期待"
+msgstr ""
+
+#: [zh_CN]102095
+msgid "升级兵营可以解锁更多新的兵种"
+msgstr ""
+
+#: [zh_CN]102096
+msgid "升级马厩可以解锁更多新的兵种"
+msgstr ""
+
+#: [zh_CN]102097
+msgid "升级靶场可以解锁更多新的兵种"
+msgstr ""
+
+#: [zh_CN]102098
+msgid "升级战车工坊可以解锁新的攻城器械"
+msgstr ""
+
+#: [zh_CN]102099
+msgctxt "[zh_CN]102099"
+msgid "升级校场可以提高行军规模"
+msgstr ""
+
+#: [zh_CN]102100
+msgid "部队总数：{0}"
+msgstr ""
+
+#: [zh_CN]102101
+msgid "您没有选择守城英雄，城市处于无防守状态！"
+msgstr ""
+
+#: [zh_CN]102102
+msgid "立即研究"
+msgstr ""
+
+#: [zh_CN]102103
+msgid "当前建筑已达到最大等级，无法继续升级！"
+msgstr ""
+
+#: [zh_CN]102104
+msgctxt "[zh_CN]102104"
+msgid "升级"
+msgstr ""
+
+#: [zh_CN]102105
+msgid "更多信息"
+msgstr ""
+
+#: [zh_CN]102106
+msgid "领主大人，当前有士兵正在训练，您可以加速士兵训练！"
+msgstr ""
+
+#: [zh_CN]102107
+msgid "训练：{0}"
+msgstr ""
+
+#: [zh_CN]102108
+msgid "建造：{0}"
+msgstr ""
+
+#: [zh_CN]102109
+msgid "不再提示"
+msgstr ""
+
+#: [zh_CN]102110
+msgid "粮食消耗表示每小时会消耗一定数目的粮食来维持您的部队，您的部队数目越多，粮食消耗越高！"
+msgstr ""
+
+#: [zh_CN]102111
+msgid "容量表示您资源建筑可存储资源的上限，当资源建筑生产的资源达到容量时，您的资源建筑将不再生产资源，除非您收取了相应资源！"
+msgstr ""
+
+#: [zh_CN]102112
+msgid "领主大人，花费一定资源即可解锁该区域，以便建造更多的建筑！"
+msgstr ""
+
+#: [zh_CN]102113
+msgctxt "[zh_CN]102113"
+msgid "解锁"
+msgstr ""
+
+#: [zh_CN]102114
+msgid "正在治疗"
+msgstr ""
+
+#: [zh_CN]102115
+msgid "领主大人，{0}升级完成！"
+msgstr ""
+
+#: [zh_CN]102116
+msgid "领主大人，{0}建造完成！"
+msgstr ""
+
+#: [zh_CN]102117
+msgid "领主大人，{0}训练完成！"
+msgstr ""
+
+#: [zh_CN]102118
+msgid "领主大人，该区域将在大本营等级达到{0}时开放！"
+msgstr ""
+
+#: [zh_CN]102119
+msgid "该兵种将在{0}{1}级时解锁！"
+msgstr ""
+
+#: [zh_CN]102120
+msgid "领主大人，您一次只能升级一个建筑！花费一定金币即可加速正在升级的建筑！"
+msgstr ""
+
+#: [zh_CN]102121
+msgid "拆除"
+msgstr ""
+
+#: [zh_CN]102122
+msgid "每小时产量"
+msgstr ""
+
+#: [zh_CN]102123
+msgid "{0}容量"
+msgstr ""
+
+#: [zh_CN]102124
+msgid "每小时总产量"
+msgstr ""
+
+#: [zh_CN]102125
+msgid "总粮食消耗"
+msgstr ""
+
+#: [zh_CN]102126
+msgctxt "[zh_CN]102126"
+msgid "建造"
+msgstr ""
+
+#: [zh_CN]102127
+msgid "立即升级"
+msgstr ""
+
+#: [zh_CN]102128
+msgid "立即建造"
+msgstr ""
+
+#: [zh_CN]102129
+msgid "建筑列表"
+msgstr ""
+
+#: [zh_CN]102130
+msgctxt "[zh_CN]102130"
+msgid "要求"
+msgstr ""
+
+#: [zh_CN]102131
+msgctxt "[zh_CN]102131"
+msgid "训练"
+msgstr ""
+
+#: [zh_CN]102132
+msgid "立即训练"
+msgstr ""
+
+#: [zh_CN]102133
+msgid "你拥有"
+msgstr ""
+
+#: [zh_CN]102134
+msgid "每小时粮食消耗"
+msgstr ""
+
+#: [zh_CN]102135
+msgctxt "[zh_CN]102135"
+msgid "解雇"
+msgstr ""
+
+#: [zh_CN]102136
+msgid "属性"
+msgstr ""
+
+#: [zh_CN]102137
+msgctxt "[zh_CN]102137"
+msgid "使用"
+msgstr ""
+
+#: [zh_CN]102138
+msgctxt "[zh_CN]102138"
+msgid "要求"
+msgstr ""
+
+#: [zh_CN]102139
+msgctxt "[zh_CN]102139"
+msgid "奖励"
+msgstr ""
+
+#: [zh_CN]102140
+msgctxt "[zh_CN]102140"
+msgid "防御"
+msgstr ""
+
+#: [zh_CN]102141
+msgid "行军总计"
+msgstr ""
+
+#: [zh_CN]102142
+msgctxt "[zh_CN]102142"
+msgid "陷阱"
+msgstr ""
+
+#: [zh_CN]102143
+msgid "陷阱：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]102144
+msgid "受伤部队：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]102145
+msgid "全选"
+msgstr ""
+
+#: [zh_CN]102146
+msgid "立即治疗"
+msgstr ""
+
+#: [zh_CN]102147
+msgid "治疗"
+msgstr ""
+
+#: [zh_CN]102148
+msgid "获得"
+msgstr ""
+
+#: [zh_CN]102149
+msgid "部队总数"
+msgstr ""
+
+#: [zh_CN]102150
+msgid "时间"
+msgstr ""
+
+#: [zh_CN]102151
+msgid "领主大人，您的城市中现在没有士兵可以出征！"
+msgstr ""
+
+#: [zh_CN]102152
+msgid "队列已满"
+msgstr ""
+
+#: [zh_CN]102153
+msgid "获得更多"
+msgstr ""
+
+#: [zh_CN]102154
+msgid "点击即可更换防守英雄，防守英雄会带领您城市中说有的士兵抵御敌人"
+msgstr ""
+
+#: [zh_CN]102155
+msgid "领主大人，您是否要加速？"
+msgstr ""
+
+#: [zh_CN]102156
+msgid "领主大人，{0}正在训练{1}，无法升级！"
+msgstr ""
+
+#: [zh_CN]102157
+msgid "领主大人，学院正在研究{0}，无法升级！"
+msgstr ""
+
+#: [zh_CN]102158
+msgid "领主大人，急救帐篷正在治疗伤兵，无法升级！"
+msgstr ""
+
+#: [zh_CN]102159
+msgctxt "[zh_CN]102159"
+msgid "队列"
+msgstr ""
+
+#: [zh_CN]102160
+msgid "物品"
+msgstr ""
+
+#: [zh_CN]102161
+msgctxt "[zh_CN]102161"
+msgid "联盟"
+msgstr ""
+
+#: [zh_CN]102162
+msgid "更多"
+msgstr ""
+
+#: [zh_CN]102163
+msgctxt "[zh_CN]102163"
+msgid "战斗力"
+msgstr ""
+
+#: [zh_CN]102164
+msgid "刷新时间"
+msgstr ""
+
+#: [zh_CN]102165
+msgid "总伤兵容量表示您的急救帐篷一共可以收治多少伤兵，建造或升级急救帐篷可以有效提升总伤兵容量。"
+msgstr ""
+
+#: [zh_CN]102166
+msgid "在进行联盟交易时，你必须额外付出一部分资源来交税才可进行交易。"
+msgstr ""
+
+#: [zh_CN]102167
+msgid "可建造：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]102168
+msgid "王国：{0}"
+msgstr ""
+
+#: [zh_CN]102169
+msgid "位置：X{0} Y{1}"
+msgstr ""
+
+#: [zh_CN]102170
+msgid "城防值：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]102171
+msgid "修建"
+msgstr ""
+
+#: [zh_CN]102172
+msgctxt "[zh_CN]102172"
+msgid "战斗"
+msgstr ""
+
+#: [zh_CN]102173
+msgid "{0}/{1}"
+msgstr ""
+
+#: [zh_CN]102174
+msgid "雇佣"
+msgstr ""
+
+#: [zh_CN]102175
+msgid "免费刷新"
+msgstr ""
+
+#: [zh_CN]102176
+msgctxt "[zh_CN]102176"
+msgid "下一等级"
+msgstr ""
+
+#: [zh_CN]102177
+msgid "领主大人，您的资源不足以训练这么多士兵，是否继续训练？"
+msgstr ""
+
+#: [zh_CN]102178
+msgid "缺少资源："
+msgstr ""
+
+#: [zh_CN]102179
+msgid ""
+"如果您的城市被攻陷，就会燃起熊熊大火，同时城市会处于燃烧状态，在这个状态下您的城防值会持续降低，一旦降低为0您的城市就会被强制迁往其他随机地点，当然你可以"
+"通过重建功能来恢复城防值。"
+msgstr ""
+
+#: [zh_CN]102180
+msgid "领主大人，您的资源不足以建造这么多陷阱，是否继续建造？"
+msgstr ""
+
+#: [zh_CN]102181
+msgid "总训练量表示您一次最多可以训练这么多数目的士兵，建造或升级行军帐篷可以有效的提升总训练量。"
+msgstr ""
+
+#: [zh_CN]102182
+msgid "是否拆除建筑物，若拆除则会损失相应的战斗力！"
+msgstr ""
+
+#: [zh_CN]102183
+msgid "（最大）"
+msgstr ""
+
+#: [zh_CN]102184
+msgid "对不起，{0}尚未开启，需要您将大本营升级到{1}级才能开启！"
+msgstr ""
+
+#: [zh_CN]102185
+msgctxt "[zh_CN]102185"
+msgid "陷阱容量"
+msgstr ""
+
+#: [zh_CN]102186
+msgid "伤兵数"
+msgstr ""
+
+#: [zh_CN]102187
+msgid "我的部队"
+msgstr ""
+
+#: [zh_CN]102188
+msgid "我的陷阱"
+msgstr ""
+
+#: [zh_CN]102189
+msgid "VIP资源加成"
+msgstr ""
+
+#: [zh_CN]102190
+msgid "总资源加成"
+msgstr ""
+
+#: [zh_CN]102191
+msgid "细节"
+msgstr ""
+
+#: [zh_CN]102192
+msgid "功能未开启，敬请期待"
+msgstr ""
+
+#: [zh_CN]102193
+msgid "领主大人，您是否随军出征？"
+msgstr ""
+
+#: [zh_CN]102194
+msgid "负重大小决定了您的军队可以采集回来的资源数目，资源越稀有所需要的负重越多！"
+msgstr ""
+
+#: [zh_CN]102195
+msgid "取消队列会使您之前的工作白费，若您取消队列则会返还一半的资源！"
+msgstr ""
+
+#: [zh_CN]102196
+msgid "您的其他建筑未达到要求，无法升级该建筑！"
+msgstr ""
+
+#: [zh_CN]102197
+msgctxt "[zh_CN]102197"
+msgid "资源不足"
+msgstr ""
+
+#: [zh_CN]102198
+msgid "道具不足"
+msgstr ""
+
+#: [zh_CN]102199
+msgid "剩余治疗时间"
+msgstr ""
+
+#: [zh_CN]102200
+msgid "{0}"
+msgstr ""
+
+#: [zh_CN]102201
+msgid "/小时"
+msgstr ""
+
+#: [zh_CN]102202
+msgid "/容量"
+msgstr ""
+
+#: [zh_CN]102203
+msgctxt "[zh_CN]102203"
+msgid "等级"
+msgstr ""
+
+#: [zh_CN]102204
+msgid "经验奖励"
+msgstr ""
+
+#: [zh_CN]102205
+msgid "{0}%"
+msgstr ""
+
+#: [zh_CN]102206
+msgid "城防值"
+msgstr ""
+
+#: [zh_CN]102207
+msgctxt "[zh_CN]102207"
+msgid "行军部队数量"
+msgstr ""
+
+#: [zh_CN]102208
+msgctxt "[zh_CN]102208"
+msgid "秘银"
+msgstr ""
+
+#: [zh_CN]102209
+msgid "木材"
+msgstr ""
+
+#: [zh_CN]102210
+msgid "铁矿"
+msgstr ""
+
+#: [zh_CN]102211
+msgctxt "[zh_CN]102211"
+msgid "粮食"
+msgstr ""
+
+#: [zh_CN]102212
+msgctxt "[zh_CN]102212"
+msgid "银币"
+msgstr ""
+
+#: [zh_CN]102213
+msgid "训练量"
+msgstr ""
+
+#: [zh_CN]102214
+msgid "总训练量"
+msgstr ""
+
+#: [zh_CN]102215
+msgid "伤兵容量"
+msgstr ""
+
+#: [zh_CN]102216
+msgid "建造数量"
+msgstr ""
+
+#: [zh_CN]102217
+msgid "伤兵总数"
+msgstr ""
+
+#: [zh_CN]102218
+msgid "帮助次数"
+msgstr ""
+
+#: [zh_CN]102219
+msgid "商队负重上限"
+msgstr ""
+
+#: [zh_CN]102220
+msgid "税率"
+msgstr ""
+
+#: [zh_CN]102221
+msgid "帮助减少时间"
+msgstr ""
+
+#: [zh_CN]102222
+msgid "建造速度"
+msgstr ""
+
+#: [zh_CN]102223
+msgctxt "[zh_CN]102223"
+msgid "陷阱容量"
+msgstr ""
+
+#: [zh_CN]102224
+msgid "时间刷新时间（小时）"
+msgstr ""
+
+#: [zh_CN]102225
+msgid "基本奖励加成"
+msgstr ""
+
+#: [zh_CN]102226
+msgid "祝福加成"
+msgstr ""
+
+#: [zh_CN]102227
+msgid "集结部队士兵数量上限"
+msgstr ""
+
+#: [zh_CN]102228
+msgctxt "[zh_CN]102228"
+msgid "行军部队数量"
+msgstr ""
+
+#: [zh_CN]102229
+msgid "研究速度"
+msgstr ""
+
+#: [zh_CN]102230
+msgid "会告知向你行军的部队所属玩家名称"
+msgstr ""
+
+#: [zh_CN]102231
+msgid "可以侦查到对方的各种资源拥有数量"
+msgstr ""
+
+#: [zh_CN]102232
+msgid "会告知向你行军的部队来自什么坐标"
+msgstr ""
+
+#: [zh_CN]102233
+msgid "可以侦查到对方的玩家等级"
+msgstr ""
+
+#: [zh_CN]102234
+msgid "会告知你这支部队的行军目的"
+msgstr ""
+
+#: [zh_CN]102235
+msgid "可以侦查到对方城防设施的大概总数量"
+msgstr ""
+
+#: [zh_CN]102236
+msgid "会告知你这支部队的抵达时间"
+msgstr ""
+
+#: [zh_CN]102237
+msgid "可以侦查到对方参与防守的部队大概总数量"
+msgstr ""
+
+#: [zh_CN]102238
+msgid "会告知你这支部队的总兵力"
+msgstr ""
+
+#: [zh_CN]102239
+msgid "可以侦查到对方的箭塔等级"
+msgstr ""
+
+#: [zh_CN]102240
+msgid "会告知你这支部队里所有玩家的确切等级"
+msgstr ""
+
+#: [zh_CN]102241
+msgid "可以侦查到对方城防设施的类型以及各自大概数量"
+msgstr ""
+
+#: [zh_CN]102242
+msgid "会告知你这支部队里包含哪些兵种"
+msgstr ""
+
+#: [zh_CN]102243
+msgid "可以侦查到对方参与防守的部队类型和各自大概数量"
+msgstr ""
+
+#: [zh_CN]102244
+msgid "会告知你这支部队里所有兵种的详细数量"
+msgstr ""
+
+#: [zh_CN]102245
+msgid "可以侦查到对方城防设施的类型以及各自具体数量"
+msgstr ""
+
+#: [zh_CN]102246
+msgid "会告知你这支部队拥有者的战斗力"
+msgstr ""
+
+#: [zh_CN]102247
+msgid "可以侦查到对方参与防守的部队类型和各自具体数量"
+msgstr ""
+
+#: [zh_CN]102248
+msgid "会告知你这支部队拥有者的科技"
+msgstr ""
+
+#: [zh_CN]102249
+msgid "可以侦查到对方组队防守部队的玩家和等级"
+msgstr ""
+
+#: [zh_CN]102250
+msgid "会告知你这支部队拥有者的能力和天赋"
+msgstr ""
+
+#: [zh_CN]102251
+msgid "可以侦查到对方组队防守部队的兵种类型和各自大概数量"
+msgstr ""
+
+#: [zh_CN]102252
+msgid "可以侦查到对方组队防守部队的兵种类型和各自具体数量"
+msgstr ""
+
+#: [zh_CN]102253
+msgid "可以侦查到对方的科技"
+msgstr ""
+
+#: [zh_CN]102254
+msgid "可以侦查到对方的能力和技能"
+msgstr ""
+
+#: [zh_CN]102257
+msgid "瞭望塔效果"
+msgstr ""
+
+#: [zh_CN]102258
+msgid "防守英雄数目"
+msgstr ""
+
+#: [zh_CN]102259
+msgid "攻击提升"
+msgstr ""
+
+#: [zh_CN]102260
+msgid "攻速提升"
+msgstr ""
+
+#: [zh_CN]102261
+msgid "+{0}%"
+msgstr ""
+
+#: [zh_CN]102262
+msgid "将在{0}级时解锁{1}"
+msgstr ""
+
+#: [zh_CN]102263
+msgid "效果"
+msgstr ""
+
+#: [zh_CN]102264
+msgid "训练速度"
+msgstr ""
+
+#: [zh_CN]102270
+msgctxt "[zh_CN]102270"
+msgid "升级"
+msgstr ""
+
+#: [zh_CN]102271
+msgctxt "[zh_CN]102271"
+msgid "详情"
+msgstr ""
+
+#: [zh_CN]102272
+msgctxt "[zh_CN]102272"
+msgid "等级{0}"
+msgstr ""
+
+#: [zh_CN]102273
+msgid "{0}正在升级！"
+msgstr ""
+
+#: [zh_CN]102274
+msgid "{0}正在建造！"
+msgstr ""
+
+#: [zh_CN]102275
+msgctxt "[zh_CN]102275"
+msgid "研究"
+msgstr ""
+
+#: [zh_CN]102276
+msgctxt "[zh_CN]102276"
+msgid "训练"
+msgstr ""
+
+#: [zh_CN]102277
+msgctxt "[zh_CN]102277"
+msgid "建造"
+msgstr ""
+
+#: [zh_CN]102278
+msgid "军情"
+msgstr ""
+
+#: [zh_CN]102279
+msgctxt "[zh_CN]102279"
+msgid "防御"
+msgstr ""
+
+#: [zh_CN]102280
+msgctxt "[zh_CN]102280"
+msgid "交易"
+msgstr ""
+
+#: [zh_CN]102281
+msgid "城市信息"
+msgstr ""
+
+#: [zh_CN]102282
+msgid "城市增益"
+msgstr ""
+
+#: [zh_CN]102283
+msgid "领主大人，只需花费少量金币即可完成当前队列！"
+msgstr ""
+
+#: [zh_CN]102284
+msgid "领主大人，现在没有受伤部队"
+msgstr ""
+
+#: [zh_CN]102285
+msgid "领主大人，您有可以免费加速的建筑！快去免费吧！"
+msgstr ""
+
+#: [zh_CN]102286
+msgid "满"
+msgstr ""
+
+#: [zh_CN]102287
+msgid "领主大人，您部队的总负重是{0}，可以采集"
+msgstr ""
+
+#: [zh_CN]102288
+msgid "领主大人，您部队的总负重是{0}，负重大小决定了您的部队可以从敌人处掠夺的资源数目，资源越稀有所需要的负重越多！"
+msgstr ""
+
+#: [zh_CN]102289
+msgid "促进"
+msgstr ""
+
+#: [zh_CN]102290
+msgid "推高"
+msgstr ""
+
+#: [zh_CN]102291
+msgid "促进剩余时间"
+msgstr ""
+
+#: [zh_CN]102292
+msgctxt "[zh_CN]102292"
+msgid "收集"
+msgstr ""
+
+#: [zh_CN]102293
+msgid "提速"
+msgstr ""
+
+#: [zh_CN]102294
+msgid "确定在1天内加倍{0}产量么?"
+msgstr ""
+
+#: [zh_CN]102295
+msgid "可以去建造或升级建筑！"
+msgstr ""
+
+#: [zh_CN]102296
+msgid "领主大人，只需花费一些金币即可雇佣一个建筑工人为您工作2天！"
+msgstr ""
+
+#: [zh_CN]102297
+msgid "领主大人，您支付的工资不足以让建筑工人完成建筑升级，再花费点金币就可以让建筑工人多工作{0}天！"
+msgstr ""
+
+#: [zh_CN]102298
+msgid "结束于"
+msgstr ""
+
+#: [zh_CN]102400
+msgid "解锁民兵"
+msgstr ""
+
+#: [zh_CN]102401
+msgid "解锁步兵"
+msgstr ""
+
+#: [zh_CN]102402
+msgid "解锁矛手"
+msgstr ""
+
+#: [zh_CN]102403
+msgid "解锁剑士"
+msgstr ""
+
+#: [zh_CN]102404
+msgid "解锁枪兵"
+msgstr ""
+
+#: [zh_CN]102405
+msgid "解锁贵族剑士"
+msgstr ""
+
+#: [zh_CN]102406
+msgid "解锁近卫军"
+msgstr ""
+
+#: [zh_CN]102407
+msgid "解锁重装长枪兵"
+msgstr ""
+
+#: [zh_CN]102408
+msgid "解锁戟兵"
+msgstr ""
+
+#: [zh_CN]102409
+msgid "解锁狂战士"
+msgstr ""
+
+#: [zh_CN]102410
+msgid "解锁骑手"
+msgstr ""
+
+#: [zh_CN]102411
+msgid "解锁轻骑兵"
+msgstr ""
+
+#: [zh_CN]102412
+msgid "解锁重骑兵"
+msgstr ""
+
+#: [zh_CN]102413
+msgid "解锁弓骑兵"
+msgstr ""
+
+#: [zh_CN]102414
+msgid "解锁骑射手"
+msgstr ""
+
+#: [zh_CN]102415
+msgid "解锁圣殿骑士"
+msgstr ""
+
+#: [zh_CN]102416
+msgid "解锁重装骑射手"
+msgstr ""
+
+#: [zh_CN]102417
+msgid "解锁皇家骑士"
+msgstr ""
+
+#: [zh_CN]102418
+msgid "解锁突骑射手"
+msgstr ""
+
+#: [zh_CN]102419
+msgid "解锁战象"
+msgstr ""
+
+#: [zh_CN]102420
+msgid "解锁短弓手"
+msgstr ""
+
+#: [zh_CN]102421
+msgid "解锁长弓手"
+msgstr ""
+
+#: [zh_CN]102422
+msgid "解锁弩手"
+msgstr ""
+
+#: [zh_CN]102423
+msgid "解锁劲弩手"
+msgstr ""
+
+#: [zh_CN]102424
+msgid "解锁精锐长弓手"
+msgstr ""
+
+#: [zh_CN]102425
+msgid "解锁护卫射手"
+msgstr ""
+
+#: [zh_CN]102426
+msgid "解锁重弩手"
+msgstr ""
+
+#: [zh_CN]102427
+msgid "解锁雄鹰射手"
+msgstr ""
+
+#: [zh_CN]102428
+msgid "解锁巨弩手"
+msgstr ""
+
+#: [zh_CN]102429
+msgid "解锁神射手"
+msgstr ""
+
+#: [zh_CN]102430
+msgid "解锁投石器"
+msgstr ""
+
+#: [zh_CN]102431
+msgid "解锁冲车"
+msgstr ""
+
+#: [zh_CN]102432
+msgid "解锁投石车"
+msgstr ""
+
+#: [zh_CN]102433
+msgid "解锁攻城锤"
+msgstr ""
+
+#: [zh_CN]102434
+msgid "解锁重型投石车"
+msgstr ""
+
+#: [zh_CN]102435
+msgid "解锁攻城车"
+msgstr ""
+
+#: [zh_CN]102436
+msgid "解锁抛石机"
+msgstr ""
+
+#: [zh_CN]102437
+msgid "解锁弩炮"
+msgstr ""
+
+#: [zh_CN]102438
+msgid "解锁攻城塔"
+msgstr ""
+
+#: [zh_CN]102439
+msgid "解锁火炮"
+msgstr ""
+
+#: [zh_CN]102440
+msgid "解锁1级滚木"
+msgstr ""
+
+#: [zh_CN]102441
+msgid "解锁2级滚木"
+msgstr ""
+
+#: [zh_CN]102442
+msgid "解锁3级滚木"
+msgstr ""
+
+#: [zh_CN]102443
+msgid "解锁4级滚木"
+msgstr ""
+
+#: [zh_CN]102444
+msgid "解锁5级滚木"
+msgstr ""
+
+#: [zh_CN]102445
+msgid "解锁1级落石"
+msgstr ""
+
+#: [zh_CN]102446
+msgid "解锁2级落石"
+msgstr ""
+
+#: [zh_CN]102447
+msgid "解锁3级落石"
+msgstr ""
+
+#: [zh_CN]102448
+msgid "解锁4级落石"
+msgstr ""
+
+#: [zh_CN]102449
+msgid "解锁5级落石"
+msgstr ""
+
+#: [zh_CN]102450
+msgid "解锁1级火箭"
+msgstr ""
+
+#: [zh_CN]102451
+msgid "解锁2级火箭"
+msgstr ""
+
+#: [zh_CN]102452
+msgid "解锁3级火箭"
+msgstr ""
+
+#: [zh_CN]102453
+msgid "解锁4级火箭"
+msgstr ""
+
+#: [zh_CN]102454
+msgid "解锁5级火箭"
+msgstr ""
+
+#: [zh_CN]102455
+msgid "{0}秒"
+msgstr ""
+
+#: [zh_CN]102460
+msgid "大本营达到{0}级"
+msgstr ""
+
+#: [zh_CN]102461
+msgid "领取"
+msgstr ""
+
+#: [zh_CN]102462
+msgid "可建造"
+msgstr ""
+
+#: [zh_CN]102463
+msgid "新资源"
+msgstr ""
+
+#: [zh_CN]102464
+msgid "铁矿是一种较为稀有的资源！领主大人，您可以建造铁矿场来生产铁矿，也可以在世界中采集铁矿！"
+msgstr ""
+
+#: [zh_CN]102465
+msgid "秘银是一种很稀有的资源！领主大人，您可以建造秘银矿来生产秘银，也可以在世界中采集秘银！"
+msgstr ""
+
+#: [zh_CN]102466
+msgid "陷阱容量表示您最多可建造的陷阱数目，您可以升级城墙来提升陷阱容量！"
+msgstr ""
+
+#: [zh_CN]102467
+msgid "部队详情尚未开放"
+msgstr ""
+
+#: [zh_CN]102496
+msgid "{0}级解锁"
+msgstr ""
+
+#: [zh_CN]102497
+msgid "资源保护"
+msgstr ""
+
+#: [zh_CN]102903
+msgid "绑定奖励"
+msgstr ""
+
+#: [zh_CN]102904
+msgid "绑定Facebook或者Google+后可以获得金币奖励"
+msgstr ""
+
+#: [zh_CN]102996
+msgid "更新公告"
+msgstr ""
+
+#: [zh_CN]102997
+msgid "你当前的版本是{0}"
+msgstr ""
+
+#: [zh_CN]102998
+msgid "请更新到{0}"
+msgstr ""
+
+#: [zh_CN]102999
+msgid "更新"
+msgstr ""
+
+#: [zh_CN]103000
+msgctxt "[zh_CN]103000"
+msgid "VIP"
+msgstr ""
+
+#: [zh_CN]103001
+msgid "VIP{0}"
+msgstr ""
+
+#: [zh_CN]103002
+msgid "增加积分"
+msgstr ""
+
+#: [zh_CN]103003
+msgid "激活VIP"
+msgstr ""
+
+#: [zh_CN]103004
+msgid "VIP激活中"
+msgstr ""
+
+#: [zh_CN]103005
+msgctxt "[zh_CN]103005"
+msgid "天"
+msgstr ""
+
+#: [zh_CN]103006
+msgid "累计登陆："
+msgstr ""
+
+#: [zh_CN]103007
+msgid "天数"
+msgstr ""
+
+#: [zh_CN]103008
+msgid "下次登录："
+msgstr ""
+
+#: [zh_CN]103009
+msgid "VIP积分"
+msgstr ""
+
+#: [zh_CN]103021
+msgid "瞬间提速建设"
+msgstr ""
+
+#: [zh_CN]103022
+msgid "粮食生产"
+msgstr ""
+
+#: [zh_CN]103023
+msgid "木头生产"
+msgstr ""
+
+#: [zh_CN]103024
+msgid "秘银生产"
+msgstr ""
+
+#: [zh_CN]103025
+msgid "铁矿生产"
+msgstr ""
+
+#: [zh_CN]103026
+msgid "银币生产"
+msgstr ""
+
+#: [zh_CN]103027
+msgid "行军速度"
+msgstr ""
+
+#: [zh_CN]103028
+msgid "部队攻击增加"
+msgstr ""
+
+#: [zh_CN]103029
+msgid "部队生命增加"
+msgstr ""
+
+#: [zh_CN]103030
+msgid "部队防御增加"
+msgstr ""
+
+#: [zh_CN]103031
+msgid "增加政务"
+msgstr ""
+
+#: [zh_CN]103032
+msgid "增加联盟任务"
+msgstr ""
+
+#: [zh_CN]103033
+msgid "自动完成联盟任务"
+msgstr ""
+
+#: [zh_CN]103034
+msgid "立即建造加速：{0}分钟"
+msgstr ""
+
+#: [zh_CN]103035
+msgid "全部资源产量：+{0}%"
+msgstr ""
+
+#: [zh_CN]103036
+msgid "行军加速：+{0}%"
+msgstr ""
+
+#: [zh_CN]103037
+msgid "部队攻击增加：+{0}%"
+msgstr ""
+
+#: [zh_CN]103038
+msgid "部队防御增加：+{0}%"
+msgstr ""
+
+#: [zh_CN]103039
+msgid "部队生命增加：+{0}%"
+msgstr ""
+
+#: [zh_CN]103500
+msgid "民兵"
+msgstr ""
+
+#: [zh_CN]103501
+msgid "步兵"
+msgstr ""
+
+#: [zh_CN]103502
+msgid "矛手"
+msgstr ""
+
+#: [zh_CN]103503
+msgid "剑士"
+msgstr ""
+
+#: [zh_CN]103504
+msgid "枪兵"
+msgstr ""
+
+#: [zh_CN]103505
+msgid "贵族剑士"
+msgstr ""
+
+#: [zh_CN]103506
+msgid "近卫军"
+msgstr ""
+
+#: [zh_CN]103507
+msgid "重装长枪兵"
+msgstr ""
+
+#: [zh_CN]103508
+msgid "戟兵"
+msgstr ""
+
+#: [zh_CN]103509
+msgid "狂战士"
+msgstr ""
+
+#: [zh_CN]103510
+msgid "骑手"
+msgstr ""
+
+#: [zh_CN]103511
+msgid "轻骑兵"
+msgstr ""
+
+#: [zh_CN]103512
+msgid "重骑兵"
+msgstr ""
+
+#: [zh_CN]103513
+msgid "弓骑兵"
+msgstr ""
+
+#: [zh_CN]103514
+msgid "骑射手"
+msgstr ""
+
+#: [zh_CN]103515
+msgid "圣殿骑士"
+msgstr ""
+
+#: [zh_CN]103516
+msgid "重装骑射手"
+msgstr ""
+
+#: [zh_CN]103517
+msgid "皇家骑士"
+msgstr ""
+
+#: [zh_CN]103518
+msgid "突骑射手"
+msgstr ""
+
+#: [zh_CN]103519
+msgid "战象"
+msgstr ""
+
+#: [zh_CN]103520
+msgid "短弓手"
+msgstr ""
+
+#: [zh_CN]103521
+msgid "长弓手"
+msgstr ""
+
+#: [zh_CN]103522
+msgid "弩手"
+msgstr ""
+
+#: [zh_CN]103523
+msgid "劲弩手"
+msgstr ""
+
+#: [zh_CN]103524
+msgid "精锐长弓手"
+msgstr ""
+
+#: [zh_CN]103525
+msgid "护卫射手"
+msgstr ""
+
+#: [zh_CN]103526
+msgid "重弩手"
+msgstr ""
+
+#: [zh_CN]103527
+msgid "雄鹰射手"
+msgstr ""
+
+#: [zh_CN]103528
+msgid "巨弩手"
+msgstr ""
+
+#: [zh_CN]103529
+msgid "神射手"
+msgstr ""
+
+#: [zh_CN]103530
+msgid "投石器"
+msgstr ""
+
+#: [zh_CN]103531
+msgid "冲车"
+msgstr ""
+
+#: [zh_CN]103532
+msgid "投石车"
+msgstr ""
+
+#: [zh_CN]103533
+msgid "攻城锤"
+msgstr ""
+
+#: [zh_CN]103534
+msgid "重型投石车"
+msgstr ""
+
+#: [zh_CN]103535
+msgid "攻城车"
+msgstr ""
+
+#: [zh_CN]103536
+msgid "抛石机"
+msgstr ""
+
+#: [zh_CN]103537
+msgid "弩炮"
+msgstr ""
+
+#: [zh_CN]103538
+msgid "攻城塔"
+msgstr ""
+
+#: [zh_CN]103539
+msgid "火炮"
+msgstr ""
+
+#: [zh_CN]103550
+msgid "民兵，最基本的步兵单位，这些部队没有受过有效训练，但他们数量庞大！"
+msgstr ""
+
+#: [zh_CN]103551
+msgid "步兵，常备步兵单位，装备优良的盾牌，高防御且能克制弓兵和弩兵单位！"
+msgstr ""
+
+#: [zh_CN]103552
+msgid "矛手，常备枪兵单位，装备锋利的长矛，高暴击且能克制骑兵单位！"
+msgstr ""
+
+#: [zh_CN]103553
+msgid "剑士，步兵单位，经受过严格的训练，优秀的体质和装备使得剑士可以有效的杀伤弓兵和弩兵单位！"
+msgstr ""
+
+#: [zh_CN]103554
+msgid "枪兵，枪兵单位，手持长枪，高暴击几率，可以有效的抵御骑兵单位！"
+msgstr ""
+
+#: [zh_CN]103555
+msgid "贵族剑士，精锐步兵单位，他们因在战场上表现优异而被帝国授予贵族身份！"
+msgstr ""
+
+#: [zh_CN]103556
+msgid "近卫军，精锐步兵单位，您的直系卫队，高防御且能克制弓兵和弩兵单位！"
+msgstr ""
+
+#: [zh_CN]103557
+msgid "重装长枪兵，精锐枪兵单位，身披重甲手持长枪，在战场上是骑兵的噩梦！"
+msgstr ""
+
+#: [zh_CN]103558
+msgid "戟兵，传说级枪兵单位，手持重戟，强大的爆发能力使得他们所向披靡！"
+msgstr ""
+
+#: [zh_CN]103559
+msgid "狂战士，传说级步兵单位，没有人知道他们是如何训练而成，只知道他们所过之处血流成河！"
+msgstr ""
+
+#: [zh_CN]103560
+msgid "骑手，最基本的骑兵单位，尽管没有受过有效训练，但仍能克制步兵单位！"
+msgstr ""
+
+#: [zh_CN]103561
+msgid "轻骑兵，常备骑兵单位，行动迅速且能有效躲避敌人的攻击！"
+msgstr ""
+
+#: [zh_CN]103562
+msgid "重骑兵，常备骑兵单位，装备重甲，其迅猛单位冲锋一直是步兵单位的噩梦！"
+msgstr ""
+
+#: [zh_CN]103563
+msgid "弓骑兵，弓骑兵单位，行动迅速且攻击力不弱！"
+msgstr ""
+
+#: [zh_CN]103564
+msgid "骑射手，弓骑兵单位，受过良好的训练，在争夺资源时有很大的优势！"
+msgstr ""
+
+#: [zh_CN]103565
+msgid "圣殿骑士，精锐骑兵单位，坚定的信仰支撑他们勇猛战斗，能有效克制步兵单位！"
+msgstr ""
+
+#: [zh_CN]103566
+msgid "重装骑射手，精锐弓骑兵单位，行动迅速且在争夺资源时有很大的优势！"
+msgstr ""
+
+#: [zh_CN]103567
+msgid "皇家骑士，精锐骑兵单位，忠诚的守护着帝国，却是敌人挥之不去的噩梦！"
+msgstr ""
+
+#: [zh_CN]103568
+msgid "突骑射手，传说级弓骑兵单位，行动迅速且在争夺资源时有很大的优势！"
+msgstr ""
+
+#: [zh_CN]103569
+msgid "战象，传说级骑兵单位，庞大的身躯使得他们在战场上横行无忌！"
+msgstr ""
+
+#: [zh_CN]103570
+msgid "短弓手，最基本的弓兵单位，可以克制枪兵单位！"
+msgstr ""
+
+#: [zh_CN]103571
+msgid "长弓手，常备弓兵单位，装备长弓，攻击频率高且克制枪兵单位！"
+msgstr ""
+
+#: [zh_CN]103572
+msgid "弩手，常备弩兵单位，非常实用的守城单位，高攻击且高暴击！"
+msgstr ""
+
+#: [zh_CN]103573
+msgid "劲弩手，弩兵单位，装备改良过的劲弩，高攻击且高暴击！"
+msgstr ""
+
+#: [zh_CN]103574
+msgid "精锐长弓手，弓兵单位，攻击频率高且能有效克制枪兵单位！"
+msgstr ""
+
+#: [zh_CN]103575
+msgid "护卫射手，弓兵单位，您的直系卫队，攻击频率高且能有效克制枪兵单位！"
+msgstr ""
+
+#: [zh_CN]103576
+msgid "重弩手，精锐弩兵单位，装备重弩，高效的守城单位，高攻击且高暴击！"
+msgstr ""
+
+#: [zh_CN]103577
+msgid "雄鹰射手，精锐弓兵单位，攻击频率高且能有效克制枪兵单位！"
+msgstr ""
+
+#: [zh_CN]103578
+msgid "巨弩手，传说级弩兵单位，装备巨弩，他们防守的城市几乎无人能攻破！"
+msgstr ""
+
+#: [zh_CN]103579
+msgid "神射手，传说级弓兵单位，他们箭无虚发，是所有枪兵单位的噩梦！"
+msgstr ""
+
+#: [zh_CN]103580
+msgid "投石器，最简单的投石器械，尽管射速不高，但超过其他单位的射程使得其可以有效杀伤敌人！"
+msgstr ""
+
+#: [zh_CN]103581
+msgid "冲车，常备攻城器械，构造简单却实用的攻城武器！"
+msgstr ""
+
+#: [zh_CN]103582
+msgid "投石车，常备的投石器械，经久耐用，射程很远！"
+msgstr ""
+
+#: [zh_CN]103583
+msgid "攻城锤，攻城器械，非常实用的攻城武器！"
+msgstr ""
+
+#: [zh_CN]103584
+msgid "重型投石车，投石器械，稳定且射程很远！"
+msgstr ""
+
+#: [zh_CN]103585
+msgid "攻城车，精密攻城器械，非常实用的攻城武器！"
+msgstr ""
+
+#: [zh_CN]103586
+msgid "抛石机，精密投石器械，稳定且射程很远！"
+msgstr ""
+
+#: [zh_CN]103587
+msgid "弩炮，精密器械，稳定且射程很远！"
+msgstr ""
+
+#: [zh_CN]103588
+msgid "攻城塔，传说级攻城器械，是世界上最为强大的攻城武器！"
+msgstr ""
+
+#: [zh_CN]103589
+msgid "火炮，传说级器械，稳定且火力强大，绝对是敌人的噩梦！"
+msgstr ""
+
+#: [zh_CN]103600
+msgctxt "[zh_CN]103600"
+msgid "攻击"
+msgstr ""
+
+#: [zh_CN]103601
+msgctxt "[zh_CN]103601"
+msgid "防御"
+msgstr ""
+
+#: [zh_CN]103602
+msgid "速度"
+msgstr ""
+
+#: [zh_CN]103603
+msgid "攻击距离"
+msgstr ""
+
+#: [zh_CN]103604
+msgctxt "[zh_CN]103604"
+msgid "负重"
+msgstr ""
+
+#: [zh_CN]103605
+msgid "生命"
+msgstr ""
+
+#: [zh_CN]103606
+msgid "粮食消耗"
+msgstr ""
+
+#: [zh_CN]103620
+msgid "1级落石"
+msgstr ""
+
+#: [zh_CN]103621
+msgid "2级落石"
+msgstr ""
+
+#: [zh_CN]103622
+msgid "3级落石"
+msgstr ""
+
+#: [zh_CN]103623
+msgid "4级落石"
+msgstr ""
+
+#: [zh_CN]103624
+msgid "5级落石"
+msgstr ""
+
+#: [zh_CN]103625
+msgid "1级滚木"
+msgstr ""
+
+#: [zh_CN]103626
+msgid "2级滚木"
+msgstr ""
+
+#: [zh_CN]103627
+msgid "3级滚木"
+msgstr ""
+
+#: [zh_CN]103628
+msgid "4级滚木"
+msgstr ""
+
+#: [zh_CN]103629
+msgid "5级滚木"
+msgstr ""
+
+#: [zh_CN]103630
+msgid "1级火箭"
+msgstr ""
+
+#: [zh_CN]103631
+msgid "2级火箭"
+msgstr ""
+
+#: [zh_CN]103632
+msgid "3级火箭"
+msgstr ""
+
+#: [zh_CN]103633
+msgid "4级火箭"
+msgstr ""
+
+#: [zh_CN]103634
+msgid "5级火箭"
+msgstr ""
+
+#: [zh_CN]103635
+msgid "落石，守城利器，可以克制步兵和枪兵单位！"
+msgstr ""
+
+#: [zh_CN]103636
+msgid "火箭，守城利器，可以克制骑兵和弓骑兵单位！"
+msgstr ""
+
+#: [zh_CN]103637
+msgid "滚木，守城利器，可以克制弓兵和弩兵单位！"
+msgstr ""
+
+#: [zh_CN]103658
+msgid "跳转"
+msgstr ""
+
+#: [zh_CN]103672
+msgctxt "[zh_CN]103672"
+msgid "免费"
+msgstr ""
+
+#: [zh_CN]103673
+msgid "训练完成"
+msgstr ""
+
+#: [zh_CN]103674
+msgid "{0}完成训练"
+msgstr ""
+
+#: [zh_CN]103675
+msgid "建造完成"
+msgstr ""
+
+#: [zh_CN]103676
+msgid "{0}完成建造"
+msgstr ""
+
+#: [zh_CN]103677
+msgid "治疗完成"
+msgstr ""
+
+#: [zh_CN]103678
+msgid "伤兵完成治疗"
+msgstr ""
+
+#: [zh_CN]103679
+msgctxt "[zh_CN]103679"
+msgid "升级完成"
+msgstr ""
+
+#: [zh_CN]103680
+msgid "{0}完成升级"
+msgstr ""
+
+#: [zh_CN]103700
+msgid "最终击杀奖励"
+msgstr ""
+
+#: [zh_CN]103701
+msgctxt "[zh_CN]103701"
+msgid "攻击"
+msgstr ""
+
+#: [zh_CN]103702
+msgctxt "[zh_CN]103702"
+msgid "奖励"
+msgstr ""
+
+#: [zh_CN]103703
+msgid "-{0}点体力"
+msgstr ""
+
+#: [zh_CN]103704
+msgid "体力每{0}分钟恢复{1}点"
+msgstr ""
+
+#: [zh_CN]103705
+msgid "叛军"
+msgstr ""
+
+#: [zh_CN]103706
+msgid "你找死！"
+msgstr ""
+
+#: [zh_CN]103707
+msgid "来吧，我的随从们，让这个变节者得到应有的惩罚！"
+msgstr ""
+
+#: [zh_CN]103708
+msgid "感受一下我积累了一万年的怒火吧！"
+msgstr ""
+
+#: [zh_CN]103709
+msgid "你知道，有些鸟儿是注定不会被关在牢笼里的，它们的每一片羽毛都闪耀着自由的光辉。"
+msgstr ""
+
+#: [zh_CN]103710
+msgid "就这些能耐么，凡人？这就是你们的怒火的程度么？"
+msgstr ""
+
+#: [zh_CN]103711
+msgid "内心的寂寞是必不可少的"
+msgstr ""
+
+#: [zh_CN]103712
+msgid "没人能在我面前指手画脚"
+msgstr ""
+
+#: [zh_CN]103713
+msgid "你的痛苦.. 将会载入史册"
+msgstr ""
+
+#: [zh_CN]103714
+msgid "我肯定会让你吃点苦头的"
+msgstr ""
+
+#: [zh_CN]103715
+msgid "叛军报告"
+msgstr ""
+
+#: [zh_CN]103716
+msgid "强盗"
+msgstr ""
+
+#: [zh_CN]103717
+msgid "游骑兵"
+msgstr ""
+
+#: [zh_CN]103718
+msgid "如果不留活路给我，我会拉着你一起下地狱！"
+msgstr ""
+
+#: [zh_CN]103719
+msgid "这是一个人吃人的世界，想要活下去就要比别人更狠！"
+msgstr ""
+
+#: [zh_CN]103720
+msgid "来吧！杀掉我！然后我的一切财宝就都归你了！就像我常做的那样！"
+msgstr ""
+
+#: [zh_CN]103721
+msgid "可悲的命运！为何如此对我？"
+msgstr ""
+
+#: [zh_CN]103722
+msgid "闪开！不然就杀掉你！"
+msgstr ""
+
+#: [zh_CN]103723
+msgid "我只是为了吃顿饱饭而已！"
+msgstr ""
+
+#: [zh_CN]103724
+msgid "我的家人都死于战乱，现在我终于快和他们团聚了！"
+msgstr ""
+
+#: [zh_CN]103725
+msgid "权利？金钱？一切的一切都是那么可笑！"
+msgstr ""
+
+#: [zh_CN]103726
+msgid "我们俩之间只能活一个！"
+msgstr ""
+
+#: [zh_CN]104000
+msgid "1分钟加速"
+msgstr ""
+
+#: [zh_CN]104001
+msgid "15分钟加速"
+msgstr ""
+
+#: [zh_CN]104002
+msgid "60分钟加速"
+msgstr ""
+
+#: [zh_CN]104003
+msgid "3小时加速"
+msgstr ""
+
+#: [zh_CN]104004
+msgid "8小时加速"
+msgstr ""
+
+#: [zh_CN]104005
+msgid "15小时加速"
+msgstr ""
+
+#: [zh_CN]104006
+msgid "1天加速"
+msgstr ""
+
+#: [zh_CN]104007
+msgid "3天加速"
+msgstr ""
+
+#: [zh_CN]104008
+msgid "减少计时器中1分钟剩余时间"
+msgstr ""
+
+#: [zh_CN]104009
+msgid "减少计时器中15分钟剩余时间"
+msgstr ""
+
+#: [zh_CN]104010
+msgid "减少计时器中60分钟剩余时间"
+msgstr ""
+
+#: [zh_CN]104011
+msgid "减少计时器中3小时剩余时间"
+msgstr ""
+
+#: [zh_CN]104012
+msgid "减少计时器中8小时剩余时间"
+msgstr ""
+
+#: [zh_CN]104013
+msgid "减少计时器中15小时剩余时间"
+msgstr ""
+
+#: [zh_CN]104014
+msgid "减少计时器中24小时剩余时间"
+msgstr ""
+
+#: [zh_CN]104015
+msgid "减少计时器中3天剩余时间"
+msgstr ""
+
+#: [zh_CN]104016
+msgid "7天加速"
+msgstr ""
+
+#: [zh_CN]104017
+msgid "建筑契约-8小时"
+msgstr ""
+
+#: [zh_CN]104018
+msgid "建筑契约-7天"
+msgstr ""
+
+#: [zh_CN]104019
+msgid "减少计时器中7天剩余时间"
+msgstr ""
+
+#: [zh_CN]104020
+msgid "雇佣建筑工人为你工作8小时"
+msgstr ""
+
+#: [zh_CN]104021
+msgid "租用2号队列7天"
+msgstr ""
+
+#: [zh_CN]104022
+msgid "事件刷新"
+msgstr ""
+
+#: [zh_CN]104023
+msgid "使用事件刷新可以刷新内政事件，并有机会提升事件的品质！"
+msgstr ""
+
+#: [zh_CN]104024
+msgid "5,000,000 木头"
+msgstr ""
+
+#: [zh_CN]104025
+msgid "200,000 秘银"
+msgstr ""
+
+#: [zh_CN]104026
+msgid "800,000 铁矿"
+msgstr ""
+
+#: [zh_CN]104027
+msgid "5,000,000 粮食"
+msgstr ""
+
+#: [zh_CN]104028
+msgid "2,000,000 银币"
+msgstr ""
+
+#: [zh_CN]104030
+msgid "酒杯"
+msgstr ""
+
+#: [zh_CN]104031
+msgid "使用酒杯后可以增加一次免费刷新英雄的次数！"
+msgstr ""
+
+#: [zh_CN]104036
+msgid "随机迁城"
+msgstr ""
+
+#: [zh_CN]104037
+msgid "高级迁城"
+msgstr ""
+
+#: [zh_CN]104038
+msgid "活动迁城"
+msgstr ""
+
+#: [zh_CN]104039
+msgid "行军召回"
+msgstr ""
+
+#: [zh_CN]104040
+msgid "行军加速25%"
+msgstr ""
+
+#: [zh_CN]104041
+msgid "行军加速50%"
+msgstr ""
+
+#: [zh_CN]104042
+msgid "战争守护8小时"
+msgstr ""
+
+#: [zh_CN]104043
+msgid "战争守护24小时"
+msgstr ""
+
+#: [zh_CN]104044
+msgid "随机将您的城市迁往本国的任意位置"
+msgstr ""
+
+#: [zh_CN]104045
+msgid "将您的城市迁往世界地图的任意位置"
+msgstr ""
+
+#: [zh_CN]104046
+msgid "可以在活动期间将您的城市迁往战争地带，只可以在活动期间使用"
+msgstr ""
+
+#: [zh_CN]104047
+msgid "召回您已经出征的部队，只对正在前往目的地的部队生效"
+msgstr ""
+
+#: [zh_CN]104048
+msgid "加快部队的行军速度25%"
+msgstr ""
+
+#: [zh_CN]104049
+msgid "加快部队的行军速度50%"
+msgstr ""
+
+#: [zh_CN]104050
+msgid "使您的城市获得8小时的和平状态，保护您的城市不会被他人攻击"
+msgstr ""
+
+#: [zh_CN]104051
+msgid "使您的城市获得24小时的和平状态，保护您的城市不会被他人攻击"
+msgstr ""
+
+#: [zh_CN]104052
+msgid "战争守护3天"
+msgstr ""
+
+#: [zh_CN]104053
+msgid "使您的城市获得3天的和平状态，保护您的城市不会被他人攻击"
+msgstr ""
+
+#: [zh_CN]104054
+msgid "50 VIP点数"
+msgstr ""
+
+#: [zh_CN]104055
+msgid "增加50 VIP点数来提升您的VIP等级"
+msgstr ""
+
+#: [zh_CN]104056
+msgid "250 VIP点数"
+msgstr ""
+
+#: [zh_CN]104057
+msgid "增加250 VIP点数来提升您的VIP等级"
+msgstr ""
+
+#: [zh_CN]104058
+msgid "500 VIP点数"
+msgstr ""
+
+#: [zh_CN]104059
+msgid "增加500 VIP点数来提升您的VIP等级"
+msgstr ""
+
+#: [zh_CN]104060
+msgid "12小时攻击加成"
+msgstr ""
+
+#: [zh_CN]104061
+msgid "在12小时内增加您所有的单位20%攻击力"
+msgstr ""
+
+#: [zh_CN]104062
+msgid "24小时攻击加成"
+msgstr ""
+
+#: [zh_CN]104063
+msgid "在24小时内增加您所有的单位20%攻击力"
+msgstr ""
+
+#: [zh_CN]104064
+msgid "12小时防御加成"
+msgstr ""
+
+#: [zh_CN]104065
+msgid "在12小时内增加您所有的单位20%防御力"
+msgstr ""
+
+#: [zh_CN]104066
+msgid "24小时防御加成"
+msgstr ""
+
+#: [zh_CN]104067
+msgid "在24小时内增加您所有的单位20%防御力"
+msgstr ""
+
+#: [zh_CN]104068
+msgid "24小时少量粮食消耗减少"
+msgstr ""
+
+#: [zh_CN]104069
+msgid "24小时内减少25%的粮食消耗"
+msgstr ""
+
+#: [zh_CN]104070
+msgid "5天少量粮食消耗减少"
+msgstr ""
+
+#: [zh_CN]104071
+msgid "5天内减少25%的粮食消耗"
+msgstr ""
+
+#: [zh_CN]104072
+msgid "24小时大量粮食消耗减少"
+msgstr ""
+
+#: [zh_CN]104073
+msgid "24小时内减少50%的粮食消耗"
+msgstr ""
+
+#: [zh_CN]104074
+msgid "5天大量粮食消耗减少"
+msgstr ""
+
+#: [zh_CN]104075
+msgid "5天内减少50%的粮食消耗"
+msgstr ""
+
+#: [zh_CN]104076
+msgid "25%玩家经验加成"
+msgstr ""
+
+#: [zh_CN]104077
+msgid "24小时内玩家获得经验增加25%"
+msgstr ""
+
+#: [zh_CN]104078
+msgid "反侦察24小时"
+msgstr ""
+
+#: [zh_CN]104079
+msgid "24小时内阻止敌人侦察您的城市"
+msgstr ""
+
+#: [zh_CN]104080
+msgid "反侦察7天"
+msgstr ""
+
+#: [zh_CN]104081
+msgid "7天内阻止敌人侦察您的城市"
+msgstr ""
+
+#: [zh_CN]104084
+msgid "采集加成"
+msgstr ""
+
+#: [zh_CN]104085
+msgid "24小时内增加50%的资源采集速度"
+msgstr ""
+
+#: [zh_CN]104086
+msgid "24小时木头加成"
+msgstr ""
+
+#: [zh_CN]104087
+msgid "24小时内增加25%的木头产量"
+msgstr ""
+
+#: [zh_CN]104088
+msgid "24小时秘银加成"
+msgstr ""
+
+#: [zh_CN]104089
+msgid "24小时内增加25%的秘银产量"
+msgstr ""
+
+#: [zh_CN]104090
+msgid "24小时铁矿加成"
+msgstr ""
+
+#: [zh_CN]104091
+msgid "24小时内增加25%的铁矿产量"
+msgstr ""
+
+#: [zh_CN]104092
+msgid "24小时粮食加成"
+msgstr ""
+
+#: [zh_CN]104093
+msgid "24小时内增加25%的粮食产量"
+msgstr ""
+
+#: [zh_CN]104094
+msgid "24小时银币加成"
+msgstr ""
+
+#: [zh_CN]104095
+msgid "24小时内增加25%的银币产量"
+msgstr ""
+
+#: [zh_CN]104096
+msgid "VIP1天"
+msgstr ""
+
+#: [zh_CN]104097
+msgid "激活VIP特权1天"
+msgstr ""
+
+#: [zh_CN]104098
+msgid "VIP7天"
+msgstr ""
+
+#: [zh_CN]104099
+msgid "激活VIP特权7天"
+msgstr ""
+
+#: [zh_CN]104100
+msgid "VIP30天"
+msgstr ""
+
+#: [zh_CN]104101
+msgid "激活VIP特权30天"
+msgstr ""
+
+#: [zh_CN]104103
+msgid "领主技能重置"
+msgstr ""
+
+#: [zh_CN]104104
+msgid "使用这个来重置领主技能"
+msgstr ""
+
+#: [zh_CN]104105
+msgid "30天加速"
+msgstr ""
+
+#: [zh_CN]104106
+msgid "租用队列（3号）3天"
+msgstr ""
+
+#: [zh_CN]104107
+msgid "租用队列（3号）7天"
+msgstr ""
+
+#: [zh_CN]104108
+msgid "减少计时器中30天剩余时间"
+msgstr ""
+
+#: [zh_CN]104109
+msgid "租用3号计时器3天"
+msgstr ""
+
+#: [zh_CN]104110
+msgid "租用3号计时器7天"
+msgstr ""
+
+#: [zh_CN]104111
+msgid "10,000 木头"
+msgstr ""
+
+#: [zh_CN]104112
+msgid "50,000 木头"
+msgstr ""
+
+#: [zh_CN]104113
+msgid "150,000 木头"
+msgstr ""
+
+#: [zh_CN]104114
+msgid "500,000 木头"
+msgstr ""
+
+#: [zh_CN]104115
+msgid "1,500,000 木头"
+msgstr ""
+
+#: [zh_CN]104116
+msgid "400 秘银"
+msgstr ""
+
+#: [zh_CN]104117
+msgid "2,000 秘银"
+msgstr ""
+
+#: [zh_CN]104118
+msgid "6,250 秘银"
+msgstr ""
+
+#: [zh_CN]104119
+msgid "20,000 秘银"
+msgstr ""
+
+#: [zh_CN]104120
+msgid "625,000 秘银"
+msgstr ""
+
+#: [zh_CN]104121
+msgid "1,600 铁矿"
+msgstr ""
+
+#: [zh_CN]104122
+msgid "8,000 铁矿"
+msgstr ""
+
+#: [zh_CN]104123
+msgid "25,000 铁矿"
+msgstr ""
+
+#: [zh_CN]104124
+msgid "80,000 铁矿"
+msgstr ""
+
+#: [zh_CN]104125
+msgid "250,000 铁矿"
+msgstr ""
+
+#: [zh_CN]104126
+msgid "10,000 粮食"
+msgstr ""
+
+#: [zh_CN]104127
+msgid "50,000 粮食"
+msgstr ""
+
+#: [zh_CN]104128
+msgid "150,000 粮食"
+msgstr ""
+
+#: [zh_CN]104129
+msgid "500,000 粮食"
+msgstr ""
+
+#: [zh_CN]104130
+msgid "1,500,000 粮食"
+msgstr ""
+
+#: [zh_CN]104131
+msgid "3,000 银币"
+msgstr ""
+
+#: [zh_CN]104132
+msgid "15,000 银币"
+msgstr ""
+
+#: [zh_CN]104133
+msgid "50,000 银币"
+msgstr ""
+
+#: [zh_CN]104134
+msgid "200,000 银币"
+msgstr ""
+
+#: [zh_CN]104135
+msgid "600,000 银币"
+msgstr ""
+
+#: [zh_CN]104136
+msgid "联盟刷新"
+msgstr ""
+
+#: [zh_CN]104137
+msgid "使用该道具可以刷新您的联盟任务，刷新联盟任务也可以提升任务品质！"
+msgstr ""
+
+#: [zh_CN]104138
+msgid "黄金箭"
+msgstr ""
+
+#: [zh_CN]104139
+msgid "用来升级箭塔"
+msgstr ""
+
+#: [zh_CN]104140
+msgid "黄金锁"
+msgstr ""
+
+#: [zh_CN]104141
+msgid "用来升级金库"
+msgstr ""
+
+#: [zh_CN]104142
+msgid "铁镣铐"
+msgstr ""
+
+#: [zh_CN]104143
+msgid "用来升级监狱"
+msgstr ""
+
+#: [zh_CN]104144
+msgid "神之石"
+msgstr ""
+
+#: [zh_CN]104145
+msgctxt "[zh_CN]104145"
+msgid "用来升级奇迹"
+msgstr ""
+
+#: [zh_CN]104146
+msgid "战争守护30天"
+msgstr ""
+
+#: [zh_CN]104147
+msgid "使您的城市获得30天的和平状态，保护您的城市不会被他人攻击"
+msgstr ""
+
+#: [zh_CN]104148
+msgid "战争法典"
+msgstr ""
+
+#: [zh_CN]104149
+msgctxt "[zh_CN]104149"
+msgid "用来升级奇迹"
+msgstr ""
+
+#: [zh_CN]104150
+msgid "25%玩家经验加成7天"
+msgstr ""
+
+#: [zh_CN]104151
+msgid "7天内玩家获得经验增加25%"
+msgstr ""
+
+#: [zh_CN]104152
+msgctxt "[zh_CN]104152"
+msgid "玩家改名"
+msgstr ""
+
+#: [zh_CN]104153
+msgid "使用该道具可以修改您的昵称"
+msgstr ""
+
+#: [zh_CN]104154
+msgid "基本资源宝箱"
+msgstr ""
+
+#: [zh_CN]104155
+msgid "资源宝箱"
+msgstr ""
+
+#: [zh_CN]104156
+msgid "专家资源宝箱"
+msgstr ""
+
+#: [zh_CN]104157
+msgid "一个小型资源宝箱"
+msgstr ""
+
+#: [zh_CN]104158
+msgid "一个中型资源宝箱"
+msgstr ""
+
+#: [zh_CN]104159
+msgid "一个大型资源宝箱"
+msgstr ""
+
+#: [zh_CN]104160
+msgid "基本加速宝箱"
+msgstr ""
+
+#: [zh_CN]104161
+msgid "加速宝箱"
+msgstr ""
+
+#: [zh_CN]104162
+msgid "高级加速宝箱"
+msgstr ""
+
+#: [zh_CN]104163
+msgid "一个小型加速宝箱"
+msgstr ""
+
+#: [zh_CN]104164
+msgid "一个中型加速宝箱"
+msgstr ""
+
+#: [zh_CN]104165
+msgid "一个大型加速宝箱"
+msgstr ""
+
+#: [zh_CN]104166
+msgid "基本防御宝箱"
+msgstr ""
+
+#: [zh_CN]104167
+msgid "防御宝箱"
+msgstr ""
+
+#: [zh_CN]104168
+msgid "一个小型防御宝箱"
+msgstr ""
+
+#: [zh_CN]104169
+msgid "一个中型防御宝箱"
+msgstr ""
+
+#: [zh_CN]104170
+msgid "基本攻击宝箱"
+msgstr ""
+
+#: [zh_CN]104171
+msgid "攻击宝箱"
+msgstr ""
+
+#: [zh_CN]104172
+msgid "一个小型攻击宝箱"
+msgstr ""
+
+#: [zh_CN]104173
+msgid "一个中型攻击宝箱"
+msgstr ""
+
+#: [zh_CN]104174
+msgid "基本逃脱宝箱"
+msgstr ""
+
+#: [zh_CN]104175
+msgid "逃脱宝箱"
+msgstr ""
+
+#: [zh_CN]104176
+msgid "高级逃脱宝箱"
+msgstr ""
+
+#: [zh_CN]104177
+msgid "一个小型逃脱宝箱"
+msgstr ""
+
+#: [zh_CN]104178
+msgid "一个中型逃脱宝箱"
+msgstr ""
+
+#: [zh_CN]104179
+msgid "一个大型逃脱宝箱"
+msgstr ""
+
+#: [zh_CN]104180
+msgid "加速研究联盟科技"
+msgstr ""
+
+#: [zh_CN]104181
+msgid "联盟科技研究速度提高100%，持续1小时"
+msgstr ""
+
+#: [zh_CN]104182
+msgctxt "[zh_CN]104182"
+msgid "新手迁城"
+msgstr ""
+
+#: [zh_CN]104183
+msgid "在大本营等级升到6级之前，可以使用这个道具迁往任意地区"
+msgstr ""
+
+#: [zh_CN]104184
+msgid "VIP30分钟"
+msgstr ""
+
+#: [zh_CN]104185
+msgid "激活VIP特权30分钟"
+msgstr ""
+
+#: [zh_CN]104186
+msgid "VIP60分钟"
+msgstr ""
+
+#: [zh_CN]104187
+msgid "激活VIP特权60分钟"
+msgstr ""
+
+#: [zh_CN]104188
+msgid "1,000 粮食"
+msgstr ""
+
+#: [zh_CN]104189
+msgid "2,000 粮食"
+msgstr ""
+
+#: [zh_CN]104190
+msgid "4,000 粮食"
+msgstr ""
+
+#: [zh_CN]104191
+msgid "1,000 木头"
+msgstr ""
+
+#: [zh_CN]104192
+msgid "2,000 木头"
+msgstr ""
+
+#: [zh_CN]104193
+msgid "4,000 木头"
+msgstr ""
+
+#: [zh_CN]104194
+msgid "40 秘银"
+msgstr ""
+
+#: [zh_CN]104195
+msgid "80 秘银"
+msgstr ""
+
+#: [zh_CN]104196
+msgid "160 秘银"
+msgstr ""
+
+#: [zh_CN]104197
+msgid "150 铁矿"
+msgstr ""
+
+#: [zh_CN]104198
+msgid "300 铁矿"
+msgstr ""
+
+#: [zh_CN]104199
+msgid "600 铁矿"
+msgstr ""
+
+#: [zh_CN]104200
+msgid "300 银币"
+msgstr ""
+
+#: [zh_CN]104201
+msgid "600 银币"
+msgstr ""
+
+#: [zh_CN]104202
+msgid "1,200 银币"
+msgstr ""
+
+#: [zh_CN]104203
+msgid "5金币"
+msgstr ""
+
+#: [zh_CN]104204
+msgid "10金币"
+msgstr ""
+
+#: [zh_CN]104205
+msgid "20金币"
+msgstr ""
+
+#: [zh_CN]104206
+msgid "50金币"
+msgstr ""
+
+#: [zh_CN]104207
+msgid "100金币"
+msgstr ""
+
+#: [zh_CN]104208
+msgid "200金币"
+msgstr ""
+
+#: [zh_CN]104209
+msgid "3分钟加速"
+msgstr ""
+
+#: [zh_CN]104210
+msgid "5分钟加速"
+msgstr ""
+
+#: [zh_CN]104211
+msgid "10分钟加速"
+msgstr ""
+
+#: [zh_CN]104212
+msgid "减少计时器中3分钟剩余时间"
+msgstr ""
+
+#: [zh_CN]104213
+msgid "减少计时器中5分钟剩余时间"
+msgstr ""
+
+#: [zh_CN]104214
+msgid "减少计时器中10分钟剩余时间"
+msgstr ""
+
+#: [zh_CN]104215
+msgid "30,000 粮食"
+msgstr ""
+
+#: [zh_CN]104216
+msgid "30,000 木头"
+msgstr ""
+
+#: [zh_CN]104217
+msgid "1,250 秘银"
+msgstr ""
+
+#: [zh_CN]104218
+msgid "5,000 铁矿"
+msgstr ""
+
+#: [zh_CN]104219
+msgid "9,000 银币"
+msgstr ""
+
+#: [zh_CN]104220
+msgid "绿色许可"
+msgstr ""
+
+#: [zh_CN]104221
+msgid "神庙中开放额外一个祷告位置"
+msgstr ""
+
+#: [zh_CN]104222
+msgid "蓝色许可"
+msgstr ""
+
+#: [zh_CN]104223
+msgid "神庙中开放1.5倍经验的祷告位置"
+msgstr ""
+
+#: [zh_CN]104224
+msgid "紫色许可"
+msgstr ""
+
+#: [zh_CN]104225
+msgid "神庙中开放2倍经验的祷告位置"
+msgstr ""
+
+#: [zh_CN]104226
+msgid "神庙租令"
+msgstr ""
+
+#: [zh_CN]104227
+msgid "开启神庙中的3倍经验的祷告位置，持续3天"
+msgstr ""
+
+#: [zh_CN]104228
+msgid "祷告加速1分钟"
+msgstr ""
+
+#: [zh_CN]104229
+msgid "减少1分钟祷告时间"
+msgstr ""
+
+#: [zh_CN]104230
+msgid "祷告加速10分钟"
+msgstr ""
+
+#: [zh_CN]104231
+msgid "减少10分钟祷告时间"
+msgstr ""
+
+#: [zh_CN]104232
+msgid "祷告加速1小时"
+msgstr ""
+
+#: [zh_CN]104233
+msgid "减少1小时祷告时间"
+msgstr ""
+
+#: [zh_CN]104234
+msgid "祷告加速8小时"
+msgstr ""
+
+#: [zh_CN]104235
+msgid "减少8小时祷告时间"
+msgstr ""
+
+#: [zh_CN]104236
+msgid "打开后有几率获得各种资源和道具"
+msgstr ""
+
+#: [zh_CN]104237
+msgid "1级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104238
+msgid "2级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104239
+msgid "3级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104240
+msgid "4级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104241
+msgid "5级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104242
+msgid "6级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104243
+msgid "7级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104244
+msgid "8级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104245
+msgid "9级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104246
+msgid "10级野人击杀礼包"
+msgstr ""
+
+#: [zh_CN]104247
+msgid "队列租用（2号）-1天"
+msgstr ""
+
+#: [zh_CN]104248
+msgid "租用2号队列1天"
+msgstr ""
+
+#: [zh_CN]104249
+msgid "更换形象"
+msgstr ""
+
+#: [zh_CN]104250
+msgid "使用该道具可以修改您的领主形象"
+msgstr ""
+
+#: [zh_CN]104251
+msgid "1级资源宝箱"
+msgstr ""
+
+#: [zh_CN]104252
+msgid "2级资源宝箱"
+msgstr ""
+
+#: [zh_CN]104253
+msgid "3级资源宝箱"
+msgstr ""
+
+#: [zh_CN]104254
+msgid "4级资源宝箱"
+msgstr ""
+
+#: [zh_CN]104255
+msgid "拥有少量木头和粮食"
+msgstr ""
+
+#: [zh_CN]104256
+msgid "拥有少量木头、粮食和铁矿"
+msgstr ""
+
+#: [zh_CN]104257
+msgid "拥有中量木头、粮食、铁矿和秘银"
+msgstr ""
+
+#: [zh_CN]104258
+msgid "拥有大量木头、粮食、铁矿和秘银"
+msgstr ""
+
+#: [zh_CN]104259
+msgid "拥有1,000木头和1,000粮食"
+msgstr ""
+
+#: [zh_CN]104260
+msgid "拥有2,800木头、2,800粮食和400铁矿"
+msgstr ""
+
+#: [zh_CN]104261
+msgid "拥有4,000木头、4,000粮食、400铁矿和400秘银"
+msgstr ""
+
+#: [zh_CN]104262
+msgid "拥有20,000木头、20,000粮食、2,000铁矿和2,000秘银"
+msgstr ""
+
+#: [zh_CN]104900
+msgid "商城"
+msgstr ""
+
+#: [zh_CN]104901
+msgid "我的物品"
+msgstr ""
+
+#: [zh_CN]104902
+msgid "战争"
+msgstr ""
+
+#: [zh_CN]104903
+msgctxt "[zh_CN]104903"
+msgid "加速"
+msgstr ""
+
+#: [zh_CN]104904
+msgctxt "[zh_CN]104904"
+msgid "资源"
+msgstr ""
+
+#: [zh_CN]104905
+msgid "其他"
+msgstr ""
+
+#: [zh_CN]104906
+msgid "获得&使用"
+msgstr ""
+
+#: [zh_CN]104907
+msgid "拥有：{0}"
+msgstr ""
+
+#: [zh_CN]104908
+msgid "成功！"
+msgstr ""
+
+#: [zh_CN]104909
+msgid "{0}生效！"
+msgstr ""
+
+#: [zh_CN]104910
+msgid "购买物品"
+msgstr ""
+
+#: [zh_CN]104911
+msgid "{0}需要：{1}/{2}"
+msgstr ""
+
+#: [zh_CN]104912
+msgid "领主大人，您的金币不足，赶快去购买一些吧！"
+msgstr ""
+
+#: [zh_CN]104913
+msgid "领主大人，你获得了{0}!"
+msgstr ""
+
+#: [zh_CN]104914
+msgid "1级叛军击杀礼包"
+msgstr ""
+
+#: [zh_CN]104915
+msgid "2级叛军击杀礼包"
+msgstr ""
+
+#: [zh_CN]104916
+msgid "3级叛军击杀礼包"
+msgstr ""
+
+#: [zh_CN]104917
+msgid "领主大人，你的大本营等级不足Lv{0}，暂时无法使用{1}"
+msgstr ""
+
+#: [zh_CN]104918
+msgid "您购买了{0}！"
+msgstr ""
+
+#: [zh_CN]105000
+msgid "用户资料"
+msgstr ""
+
+#: [zh_CN]105001
+msgid "杀人数"
+msgstr ""
+
+#: [zh_CN]105002
+msgctxt "[zh_CN]105002"
+msgid "VIP"
+msgstr ""
+
+#: [zh_CN]105003
+msgctxt "[zh_CN]105003"
+msgid "联盟积分"
+msgstr ""
+
+#: [zh_CN]105004
+msgid "天赋：{0}"
+msgstr ""
+
+#: [zh_CN]105005
+msgid "送礼"
+msgstr ""
+
+#: [zh_CN]105006
+msgctxt "[zh_CN]105006"
+msgid "管理"
+msgstr ""
+
+#: [zh_CN]105007
+msgid "评论"
+msgstr ""
+
+#: [zh_CN]105010
+msgid "战斗状态"
+msgstr ""
+
+#: [zh_CN]105011
+msgid "战斗胜利数："
+msgstr ""
+
+#: [zh_CN]105012
+msgid "战斗失败数："
+msgstr ""
+
+#: [zh_CN]105013
+msgid "进攻胜利数："
+msgstr ""
+
+#: [zh_CN]105014
+msgid "进攻失败数："
+msgstr ""
+
+#: [zh_CN]105015
+msgid "防御胜利数："
+msgstr ""
+
+#: [zh_CN]105016
+msgid "战斗胜败比："
+msgstr ""
+
+#: [zh_CN]105017
+msgid "侦查数："
+msgstr ""
+
+#: [zh_CN]105018
+msgid "击杀部队数："
+msgstr ""
+
+#: [zh_CN]105019
+msgid "部队损失数："
+msgstr ""
+
+#: [zh_CN]105020
+msgid "部队治疗数："
+msgstr ""
+
+#: [zh_CN]105021
+msgid "城市摧毁数："
+msgstr ""
+
+#: [zh_CN]105022
+msgid "玩家战斗力"
+msgstr ""
+
+#: [zh_CN]105023
+msgid "英雄战斗力"
+msgstr ""
+
+#: [zh_CN]105024
+msgid "部队战斗力"
+msgstr ""
+
+#: [zh_CN]105025
+msgid "建筑战斗力"
+msgstr ""
+
+#: [zh_CN]105026
+msgid "科技战斗力"
+msgstr ""
+
+#: [zh_CN]105027
+msgid "陷阱战斗力"
+msgstr ""
+
+#: [zh_CN]105028
+msgid "任务战斗力"
+msgstr ""
+
+#: [zh_CN]105029
+msgid "未尝败绩"
+msgstr ""
+
+#: [zh_CN]105030
+msgid "败多胜少"
+msgstr ""
+
+#: [zh_CN]105031
+msgid "技能点"
+msgstr ""
+
+#: [zh_CN]105032
+msgid "技能点：{0}"
+msgstr ""
+
+#: [zh_CN]105033
+msgid "开启新能力"
+msgstr ""
+
+#: [zh_CN]105112
+msgid "没有选择出征的士兵"
+msgstr ""
+
+#: [zh_CN]105114
+msgctxt "[zh_CN]105114"
+msgid "奖励"
+msgstr ""
+
+#: [zh_CN]105117
+msgid "战斗胜利"
+msgstr ""
+
+#: [zh_CN]105118
+msgid "战斗失败"
+msgstr ""
+
+#: [zh_CN]105123
+msgid "攻"
+msgstr ""
+
+#: [zh_CN]105124
+msgid "守"
+msgstr ""
+
+#: [zh_CN]105146
+msgid "全部取消"
+msgstr ""
+
+#: [zh_CN]105147
+msgid "领主出阵"
+msgstr ""
+
+#: [zh_CN]105148
+msgid "负重：{0}"
+msgstr ""
+
+#: [zh_CN]105149
+msgid "快速选择"
+msgstr ""
+
+#: [zh_CN]105150
+msgctxt "[zh_CN]105150"
+msgid "出征"
+msgstr ""
+
+#: [zh_CN]105200
+msgid "选择势力"
+msgstr ""
+
+#: [zh_CN]105201
+msgid "登陆"
+msgstr ""
+
+#: [zh_CN]105202
+msgid "意见反馈"
+msgstr ""
+
+#: [zh_CN]105203
+msgid "感谢您对游戏的支持，我们需要您宝贵的意见！一些好的建议我们将及时采纳并通过邮件给予一定的奖励！"
+msgstr ""
+
+#: [zh_CN]105204
+msgid "谢谢，我们已经收到您的意见！"
+msgstr ""
+
+#: [zh_CN]105205
+msgid "点击输入"
+msgstr ""
+
+#: [zh_CN]105206
+msgid "输入反馈内容"
+msgstr ""
+
+#: [zh_CN]105211
+msgid "当前服务器"
+msgstr ""
+
+#: [zh_CN]105212
+msgid "切换服务器"
+msgstr ""
+
+#: [zh_CN]105213
+msgid "选择服务器"
+msgstr ""
+
+#: [zh_CN]105214
+msgid "输入昵称"
+msgstr ""
+
+#: [zh_CN]105220
+msgctxt "[zh_CN]105220"
+msgid "玩家改名"
+msgstr ""
+
+#: [zh_CN]105221
+msgctxt "[zh_CN]105221"
+msgid "改名"
+msgstr ""
+
+#: [zh_CN]105222
+msgid "Tips：玩家名称只包含字母、数字和空格"
+msgstr ""
+
+#: [zh_CN]105223
+msgid "至少3个字符"
+msgstr ""
+
+#: [zh_CN]105224
+msgid "还剩{0}字符"
+msgstr ""
+
+#: [zh_CN]105225
+msgid "领主大人，您需要修改昵称才能聊天！"
+msgstr ""
+
+#: [zh_CN]105226
+msgid "角色选择"
+msgstr ""
+
+#: [zh_CN]105227
+msgid "改名成功！"
+msgstr ""
+
+#: [zh_CN]105228
+msgid "该形象为玩家当前形象，请选择其他形象。"
+msgstr ""
+
+#: [zh_CN]105242
+msgid "音乐"
+msgstr ""
+
+#: [zh_CN]105243
+msgid "声音"
+msgstr ""
+
+#: [zh_CN]105244
+msgid "On"
+msgstr ""
+
+#: [zh_CN]105245
+msgid "Off"
+msgstr ""
+
+#: [zh_CN]105246
+msgid "FaceBook"
+msgstr ""
+
+#: [zh_CN]105247
+msgid "Google+登录"
+msgstr ""
+
+#: [zh_CN]105248
+msgid "昵称"
+msgstr ""
+
+#: [zh_CN]105249
+msgid "绑定成功！"
+msgstr ""
+
+#: [zh_CN]105250
+msgid "您在{0}有{1} Lv{2}的角色"
+msgstr ""
+
+#: [zh_CN]105251
+msgid "昵称重复"
+msgstr ""
+
+#: [zh_CN]105253
+msgid "账号"
+msgstr ""
+
+#: [zh_CN]105254
+msgid "付费提示"
+msgstr ""
+
+#: [zh_CN]105255
+msgid "使用Google+或facebook登录来保护您的进度和在多台设备上玩游戏.完成登录奖励10"
+msgstr ""
+
+#: [zh_CN]105256
+msgid "已断开"
+msgstr ""
+
+#: [zh_CN]105257
+msgid "已连接"
+msgstr ""
+
+#: [zh_CN]105258
+msgid "在其他设备上输入Google+或facebook账号即可使用被绑定的游戏进度"
+msgstr ""
+
+#: [zh_CN]105259
+msgid "强大的军队是帝国的根本，而士兵越多军队越强大！"
+msgstr ""
+
+#: [zh_CN]105260
+msgid "怎么建设帝国"
+msgstr ""
+
+#: [zh_CN]105261
+msgid "1、您一次只能建造或升级一个建筑！"
+msgstr ""
+
+#: [zh_CN]105262
+msgid "2、当建造或升级时间小于五分钟时，您会看到建筑顶上出现晃动的按钮，点击按钮即可免费加速完成建造或升级！"
+msgstr ""
+
+#: [zh_CN]105263
+msgid "3、大本营是您帝国中最重要的建筑，升级大本营可以解锁新的建筑，提高其他建筑的等级上限！"
+msgstr ""
+
+#: [zh_CN]105264
+msgid "怎么发展实力"
+msgstr ""
+
+#: [zh_CN]105265
+msgid "1、你训练的军队越多您的实力越强！"
+msgstr ""
+
+#: [zh_CN]105266
+msgid "2、您可以建造或升级行军帐篷来提升您一次可以训练士兵的数目，以便一次可以训练更多的士兵！"
+msgstr ""
+
+#: [zh_CN]105267
+msgid "如何快速获得资源"
+msgstr ""
+
+#: [zh_CN]105268
+msgid "1、去世界中派出军队采集资源是快速获得资源的重要途径，你派出的军队越多能采集到的资源越多！"
+msgstr ""
+
+#: [zh_CN]105300
+msgid "国家"
+msgstr ""
+
+#: [zh_CN]105302
+msgid "发送"
+msgstr ""
+
+#: [zh_CN]105305
+msgctxt "[zh_CN]105305"
+msgid "系统"
+msgstr ""
+
+#: [zh_CN]105304
+msgid "复制"
+msgstr ""
+
+#: [zh_CN]105307
+msgid "您发布的聊天消息过于频繁，请稍等！"
+msgstr ""
+
+#: [zh_CN]105308
+msgid "发送邮件"
+msgstr ""
+
+#: [zh_CN]105309
+msgid "查看玩家"
+msgstr ""
+
+#: [zh_CN]105310
+msgid "点击这里可以聊天"
+msgstr ""
+
+#: [zh_CN]105311
+msgid "请输入聊天信息"
+msgstr ""
+
+#: [zh_CN]105312
+msgid "屏蔽"
+msgstr ""
+
+#: [zh_CN]105313
+msgid "是否要屏蔽{0}，屏蔽后你将不会受到该玩家的任何聊天信息和邮件，但是你可以通过设置来解除对该玩家的屏蔽。"
+msgstr ""
+
+#: [zh_CN]105314
+msgid "屏蔽数量已达到上限，请通过设置来清理屏蔽列表。"
+msgstr ""
+
+#: [zh_CN]105315
+msgid "解除屏蔽"
+msgstr ""
+
+#: [zh_CN]105316
+msgid "聊天"
+msgstr ""
+
+#: [zh_CN]105317
+msgid "下拉以更新"
+msgstr ""
+
+#: [zh_CN]105318
+msgid "释放以更新"
+msgstr ""
+
+#: [zh_CN]105319
+msgid "您已屏蔽{0}"
+msgstr ""
+
+#: [zh_CN]105320
+msgid "已解除对{0}的屏蔽"
+msgstr ""
+
+#: [zh_CN]105400
+msgctxt "[zh_CN]105400"
+msgid "英雄"
+msgstr ""
+
+#: [zh_CN]105401
+msgid "攻击："
+msgstr ""
+
+#: [zh_CN]105402
+msgid "防御："
+msgstr ""
+
+#: [zh_CN]105403
+msgid "统帅："
+msgstr ""
+
+#: [zh_CN]105404
+msgid "技能"
+msgstr ""
+
+#: [zh_CN]105405
+msgid "等级{0}开放"
+msgstr ""
+
+#: [zh_CN]105406
+msgid "你还未拥有英雄，建造酒馆可雇佣英雄。"
+msgstr ""
+
+#: [zh_CN]105411
+msgid "阶级"
+msgstr ""
+
+#: [zh_CN]105412
+msgid "在酒馆中，再次刷出已拥有的武将，可获得他的灵魂石"
+msgstr ""
+
+#: [zh_CN]105413
+msgid "新技能"
+msgstr ""
+
+#: [zh_CN]105414
+msgid "技能没有变化"
+msgstr ""
+
+#: [zh_CN]105415
+msgid "灵魂石"
+msgstr ""
+
+#: [zh_CN]105416
+msgid "升阶"
+msgstr ""
+
+#: [zh_CN]105420
+msgctxt "[zh_CN]105420"
+msgid "等级{0}"
+msgstr ""
+
+#: [zh_CN]105430
+msgctxt "[zh_CN]105430"
+msgid "英雄"
+msgstr ""
+
+#: [zh_CN]105431
+msgid "数量{0}/{1}"
+msgstr ""
+
+#: [zh_CN]105432
+msgid "点击招募英雄"
+msgstr ""
+
+#: [zh_CN]105433
+msgid "花费{0}开放英雄位"
+msgstr ""
+
+#: [zh_CN]105434
+msgid "酒馆等级{0}开放英雄位"
+msgstr ""
+
+#: [zh_CN]105435
+msgctxt "[zh_CN]105435"
+msgid "详情"
+msgstr ""
+
+#: [zh_CN]105436
+msgctxt "[zh_CN]105436"
+msgid "解雇"
+msgstr ""
+
+#: [zh_CN]105437
+msgid "确认解雇{0}？"
+msgstr ""
+
+#: [zh_CN]105438
+msgid "建造酒馆后，可招募武将。"
+msgstr ""
+
+#: [zh_CN]105439
+msgctxt "[zh_CN]105439"
+msgid "能力"
+msgstr ""
+
+#: [zh_CN]105440
+msgid "点击获取新能力"
+msgstr ""
+
+#: [zh_CN]105441
+msgid "{0}等级可以获得新能力"
+msgstr ""
+
+#: [zh_CN]105442
+msgid "升阶后获得新能力"
+msgstr ""
+
+#: [zh_CN]105443
+msgid "可用技能点"
+msgstr ""
+
+#: [zh_CN]105444
+msgid "恭喜您获得了新能力"
+msgstr ""
+
+#: [zh_CN]105445
+msgid "学习"
+msgstr ""
+
+#: [zh_CN]105446
+msgid "更换"
+msgstr ""
+
+#: [zh_CN]105447
+msgid "重置点数"
+msgstr ""
+
+#: [zh_CN]105448
+msgid "遗忘能力"
+msgstr ""
+
+#: [zh_CN]105449
+msgid "投入点数"
+msgstr ""
+
+#: [zh_CN]105450
+msgid "需要前置技能{0}{1}级"
+msgstr ""
+
+#: [zh_CN]105451
+msgid "需要在本能力树里共投入{0}点技能点"
+msgstr ""
+
+#: [zh_CN]105452
+msgid "是否更换两个新能力以供选择？更新能力需要花费金币"
+msgstr ""
+
+#: [zh_CN]105453
+msgid "是否重置当前能力下投入的技能点数？重置点数需要花费金币"
+msgstr ""
+
+#: [zh_CN]105454
+msgid "是否遗忘这个能力？遗忘后会返回所有已经投入的技能点。遗忘能力需要花费金币"
+msgstr ""
+
+#: [zh_CN]105455
+msgid "当前等级"
+msgstr ""
+
+#: [zh_CN]105456
+msgctxt "[zh_CN]105456"
+msgid "下一等级"
+msgstr ""
+
+#: [zh_CN]105457
+msgid "您需要在随机出的两个新能力中选择一个进行学习，点击叹号可以查看简要说明"
+msgstr ""
+
+#: [zh_CN]105458
+msgid "您必须选择一个能力才能进行学习"
+msgstr ""
+
+#: [zh_CN]105500
+msgid "邮箱"
+msgstr ""
+
+#: [zh_CN]105501
+msgctxt "[zh_CN]105501"
+msgid "系统"
+msgstr ""
+
+#: [zh_CN]105502
+msgctxt "[zh_CN]105502"
+msgid "保存"
+msgstr ""
+
+#: [zh_CN]105503
+msgid "标题"
+msgstr ""
+
+#: [zh_CN]105504
+msgid "内容"
+msgstr ""
+
+#: [zh_CN]105505
+msgid "收件人"
+msgstr ""
+
+#: [zh_CN]105506
+msgid "回复"
+msgstr ""
+
+#: [zh_CN]105509
+msgid "您输入的收件人不存在！"
+msgstr ""
+
+#: [zh_CN]105510
+msgid "收件箱已满，请及时清理否则将无法收到邮件！"
+msgstr ""
+
+#: [zh_CN]105511
+msgid "Re：{0}"
+msgstr ""
+
+#: [zh_CN]105512
+msgid "请领取奖励后再删除邮件！"
+msgstr ""
+
+#: [zh_CN]105513
+msgctxt "[zh_CN]105513"
+msgid "邮件"
+msgstr ""
+
+#: [zh_CN]105514
+msgid "无消息"
+msgstr ""
+
+#: [zh_CN]105515
+msgid "邮箱：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]105516
+msgid "资源采集报告"
+msgstr ""
+
+#: [zh_CN]105517
+msgid "您的部队从{0}携带资源返回"
+msgstr ""
+
+#: [zh_CN]105518
+msgid "战争发生在（X：{0} Y：{1}）"
+msgstr ""
+
+#: [zh_CN]105519
+msgid "战报"
+msgstr ""
+
+#: [zh_CN]105520
+msgid "资源抢夺"
+msgstr ""
+
+#: [zh_CN]105521
+msgid "X：{0} Y：{1}"
+msgstr ""
+
+#: [zh_CN]105522
+msgctxt "[zh_CN]105522"
+msgid "侦查报告"
+msgstr ""
+
+#: [zh_CN]105523
+msgid "你的城市被侦查"
+msgstr ""
+
+#: [zh_CN]105524
+msgid "被{0}侦查"
+msgstr ""
+
+#: [zh_CN]105525
+msgid "侦查报告（X：{0} Y：{1}）"
+msgstr ""
+
+#: [zh_CN]105526
+msgid "VS{0}"
+msgstr ""
+
+#: [zh_CN]105527
+msgid "侦查成功！"
+msgstr ""
+
+#: [zh_CN]105528
+msgid "城市防御"
+msgstr ""
+
+#: [zh_CN]105529
+msgctxt "[zh_CN]105529"
+msgid "陷阱"
+msgstr ""
+
+#: [zh_CN]105530
+msgid "防御部队"
+msgstr ""
+
+#: [zh_CN]105531
+msgid "援助部队"
+msgstr ""
+
+#: [zh_CN]105532
+msgid "科技"
+msgstr ""
+
+#: [zh_CN]105533
+msgctxt "[zh_CN]105533"
+msgid "能力"
+msgstr ""
+
+#: [zh_CN]105534
+msgid "暂时无法查看战斗细节"
+msgstr ""
+
+#: [zh_CN]105535
+msgid "由于您的实力与敌人差距过大，您的部队被全部杀死，战斗结果没有被送回来！"
+msgstr ""
+
+#: [zh_CN]105536
+msgid "占领报告"
+msgstr ""
+
+#: [zh_CN]105537
+msgid "占领成功！"
+msgstr ""
+
+#: [zh_CN]105538
+msgid "您成功占领了{0}（X：{1} Y：{2}）"
+msgstr ""
+
+#: [zh_CN]105539
+msgid "击杀野怪后会获得巨额奖励！"
+msgstr ""
+
+#: [zh_CN]105540
+msgid "领主大人，您没有输入邮件内容，邮件无法发送！"
+msgstr ""
+
+#: [zh_CN]105541
+msgid "领主大人，您没有输入邮件标题，邮件无法发送！"
+msgstr ""
+
+#: [zh_CN]105542
+msgid "总部队数"
+msgstr ""
+
+#: [zh_CN]105543
+msgid "击杀"
+msgstr ""
+
+#: [zh_CN]105544
+msgid "损失"
+msgstr ""
+
+#: [zh_CN]105545
+msgid "受伤"
+msgstr ""
+
+#: [zh_CN]105546
+msgid "剩余"
+msgstr ""
+
+#: [zh_CN]105547
+msgid "{0}攻击{1}"
+msgstr ""
+
+#: [zh_CN]105548
+msgid "战斗结果：{0}"
+msgstr ""
+
+#: [zh_CN]105549
+msgid "平手"
+msgstr ""
+
+#: [zh_CN]105550
+msgid "收治伤兵"
+msgstr ""
+
+#: [zh_CN]105551
+msgid "领主大人，因为医院伤兵上限不足，仅收治了{0}伤兵，有{1}伤兵死亡！"
+msgstr ""
+
+#: [zh_CN]105552
+msgid "发送成功"
+msgstr ""
+
+#: [zh_CN]105553
+msgid "邮件已发送给{0}"
+msgstr ""
+
+#: [zh_CN]105554
+msgid "您被{0}侦查，但由于您使用了反侦察道具，所以对方侦查失败！"
+msgstr ""
+
+#: [zh_CN]105555
+msgid "陷阱损失"
+msgstr ""
+
+#: [zh_CN]105556
+msgid "领主能力"
+msgstr ""
+
+#: [zh_CN]105557
+msgid "名称"
+msgstr ""
+
+#: [zh_CN]105558
+msgid "数目"
+msgstr ""
+
+#: [zh_CN]105559
+msgid "进攻方"
+msgstr ""
+
+#: [zh_CN]105560
+msgid "防守方"
+msgstr ""
+
+#: [zh_CN]105561
+msgid "您的部队完成{0}探险后从{1}返回！"
+msgstr ""
+
+#: [zh_CN]105562
+msgid "战利品"
+msgstr ""
+
+#: [zh_CN]105563
+msgid "探险损失部队"
+msgstr ""
+
+#: [zh_CN]105564
+msgid "全体联盟成员"
+msgstr ""
+
+#: [zh_CN]105565
+msgid "系统公告"
+msgstr ""
+
+#: [zh_CN]105566
+msgid "扎营报告"
+msgstr ""
+
+#: [zh_CN]105567
+msgid "领主大人，您的邮箱空空如也。"
+msgstr ""
+
+#: [zh_CN]105568
+msgid "报告"
+msgstr ""
+
+#: [zh_CN]105569
+msgid "公告"
+msgstr ""
+
+#: [zh_CN]105570
+msgid "您真的要删除该邮件吗？"
+msgstr ""
+
+#: [zh_CN]105571
+msgid "亲爱的玩家，您的{0}邮箱已满，请及时删除该邮箱内邮件。"
+msgstr ""
+
+#: [zh_CN]105572
+msgid "收取"
+msgstr ""
+
+#: [zh_CN]105573
+msgctxt "[zh_CN]105573"
+msgid "解锁"
+msgstr ""
+
+#: [zh_CN]105574
+msgid "锁住"
+msgstr ""
+
+#: [zh_CN]105575
+msgid "邮件已锁定。"
+msgstr ""
+
+#: [zh_CN]105576
+msgid "邮件已解锁。"
+msgstr ""
+
+#: [zh_CN]105577
+msgid "采集返回"
+msgstr ""
+
+#: [zh_CN]105578
+msgid "攻城胜利"
+msgstr ""
+
+#: [zh_CN]105579
+msgid "守城胜利"
+msgstr ""
+
+#: [zh_CN]105580
+msgid "守城失败"
+msgstr ""
+
+#: [zh_CN]105581
+msgid "守城大败"
+msgstr ""
+
+#: [zh_CN]105582
+msgid "攻城失败"
+msgstr ""
+
+#: [zh_CN]105583
+msgid "攻城大败"
+msgstr ""
+
+#: [zh_CN]105584
+msgid "对手的资源都储存在仓库里了，我们没有抢到任何资源。"
+msgstr ""
+
+#: [zh_CN]105585
+msgid "由于实力悬殊，您的部队被全灭了。"
+msgstr ""
+
+#: [zh_CN]105586
+msgid "提升仓库等级，可以保护更多的资源。"
+msgstr ""
+
+#: [zh_CN]105587
+msgid "提升瞭望塔等级，可以使你获得更多详细的信息。"
+msgstr ""
+
+#: [zh_CN]105588
+msgid "占领失败"
+msgstr ""
+
+#: [zh_CN]105589
+msgid "（全体）"
+msgstr ""
+
+#: [zh_CN]105590
+msgctxt "[zh_CN]105590"
+msgid "分钟"
+msgstr ""
+
+#: [zh_CN]105591
+msgid "小时"
+msgstr ""
+
+#: [zh_CN]105592
+msgctxt "[zh_CN]105592"
+msgid "天"
+msgstr ""
+
+#: [zh_CN]105593
+msgid "之前"
+msgstr ""
+
+#: [zh_CN]105594
+msgid "您成功的防守住了{0}的进攻"
+msgstr ""
+
+#: [zh_CN]105595
+msgid "野外遭遇战，胜利"
+msgstr ""
+
+#: [zh_CN]105596
+msgid "野外遭遇战，失败"
+msgstr ""
+
+#: [zh_CN]105597
+msgid "提高瞭望塔的等级可以使您侦查到更为详尽的信息！"
+msgstr ""
+
+#: [zh_CN]105598
+msgid "感谢您的反馈"
+msgstr ""
+
+#: [zh_CN]105599
+msgid "您的反馈我们已经收到，感谢您对我们游戏的支持和喜爱，为了表示感谢下面这些请你收下吧！"
+msgstr ""
+
+#: [zh_CN]105600
+msgctxt "[zh_CN]105600"
+msgid "队列"
+msgstr ""
+
+#: [zh_CN]105601
+msgid "世界地图"
+msgstr ""
+
+#: [zh_CN]105602
+msgctxt "[zh_CN]105602"
+msgid "联盟"
+msgstr ""
+
+#: [zh_CN]105603
+msgid "加成"
+msgstr ""
+
+#: [zh_CN]105604
+msgid "社交"
+msgstr ""
+
+#: [zh_CN]105605
+msgctxt "[zh_CN]105605"
+msgid "活动"
+msgstr ""
+
+#: [zh_CN]105630
+msgid "以下动作会收到推送通知：建筑升级，部队完成训练，部队完成治疗，陷阱完成建造，内政/联盟事件完成，神秘礼物到达，研究完成"
+msgstr ""
+
+#: [zh_CN]105631
+msgid "以下动作会收到推送通知：攻击，侦查"
+msgstr ""
+
+#: [zh_CN]105632
+msgid "以下动作会收到推送通知：联盟礼物"
+msgstr ""
+
+#: [zh_CN]105633
+msgid "以下动作会收到推送通知：加成到期"
+msgstr ""
+
+#: [zh_CN]105634
+msgid "以下动作会收到推送通知：邮件"
+msgstr ""
+
+#: [zh_CN]105635
+msgid "以下动作会收到推送通知：活动开启"
+msgstr ""
+
+#: [zh_CN]105690
+msgctxt "[zh_CN]105690"
+msgid "关闭"
+msgstr ""
+
+#: [zh_CN]105691
+msgid "文本"
+msgstr ""
+
+#: [zh_CN]105692
+msgid "声音/文本"
+msgstr ""
+
+#: [zh_CN]105800
+msgctxt "[zh_CN]105800"
+msgid "活动"
+msgstr ""
+
+#: [zh_CN]105801
+msgid "参加活动赢取免费礼品！赢得活动即可获得大量奖励！"
+msgstr ""
+
+#: [zh_CN]105802
+msgid "联盟活动"
+msgstr ""
+
+#: [zh_CN]105803
+msgid "个人活动"
+msgstr ""
+
+#: [zh_CN]105804
+msgid "结束于：{0}"
+msgstr ""
+
+#: [zh_CN]105805
+msgid "我的积分"
+msgstr ""
+
+#: [zh_CN]105806
+msgid "个人活动意味着只能由你来完成。在活动期间，完成特定的动作可以获得积分。如果你获得活动中的最后一个奖励，你将有资格获得积分榜奖励！"
+msgstr ""
+
+#: [zh_CN]105807
+msgid "成为活动领导者并赢取高额的积分榜奖励！"
+msgstr ""
+
+#: [zh_CN]105808
+msgid "如何获得积分"
+msgstr ""
+
+#: [zh_CN]105809
+msgid "在活动期间完成下列的任意动作即可获得相应积分。得到足够的积分即可获得奖励！"
+msgstr ""
+
+#: [zh_CN]105810
+msgctxt "[zh_CN]105810"
+msgid "奖励"
+msgstr ""
+
+#: [zh_CN]105811
+msgid "获得足够的积分即可获得下面的奖励！"
+msgstr ""
+
+#: [zh_CN]105812
+msgid "状态"
+msgstr ""
+
+#: [zh_CN]105813
+msgid "上述奖励会通过邮件发放给你！"
+msgstr ""
+
+#: [zh_CN]105814
+msgid "活动领袖"
+msgstr ""
+
+#: [zh_CN]105815
+msgid "注意：你必须获得最后一个活动奖励才有资格进入积分榜"
+msgstr ""
+
+#: [zh_CN]105816
+msgid "如果你的积分最多，你将获得积分榜奖励。下面是积分榜第一名的奖励。点击（查看所有奖励）可以查看所有的积分榜奖励。"
+msgstr ""
+
+#: [zh_CN]105817
+msgid "第{0}名奖励"
+msgstr ""
+
+#: [zh_CN]105818
+msgid "查看所有奖励"
+msgstr ""
+
+#: [zh_CN]105819
+msgid "历史"
+msgstr ""
+
+#: [zh_CN]105820
+msgid ""
+"联盟活动是由你所在联盟的所有成员共同完成的。在活动期间，联盟成员完成特定的动作即可获得积分。如果你的联盟获得活动中的最后一个奖励，你的联盟将有资格获得积分"
+"榜奖励！"
+msgstr ""
+
+#: [zh_CN]105821
+msgid "在活动期间联盟成员完成下列的任意动作即可获得相应积分。得到足够的积分即可获得奖励！"
+msgstr ""
+
+#: [zh_CN]105822
+msgid "上述奖励会通过邮件发放给每个联盟成员！"
+msgstr ""
+
+#: [zh_CN]105823
+msgctxt "[zh_CN]105823"
+msgid "联盟积分"
+msgstr ""
+
+#: [zh_CN]105900
+msgid "训练1个士兵"
+msgstr ""
+
+#: [zh_CN]105901
+msgid "杀死1个士兵"
+msgstr ""
+
+#: [zh_CN]105902
+msgid "建造1个陷阱"
+msgstr ""
+
+#: [zh_CN]105903
+msgid "摧毁1个陷阱"
+msgstr ""
+
+#: [zh_CN]106000
+msgid "attack ＋{0}"
+msgstr ""
+
+#: [zh_CN]106001
+msgid "defence ＋{0}"
+msgstr ""
+
+#: [zh_CN]106002
+msgid "soldier ＋{0}"
+msgstr ""
+
+#: [zh_CN]106003
+msgid "command ＋{0}"
+msgstr ""
+
+#: [zh_CN]106004
+msgid "intelligence ＋{0}"
+msgstr ""
+
+#: [zh_CN]107500
+msgid "任务"
+msgstr ""
+
+#: [zh_CN]107501
+msgctxt "[zh_CN]107501"
+msgid "奖励："
+msgstr ""
+
+#: [zh_CN]107502
+msgid "恭喜！"
+msgstr ""
+
+#: [zh_CN]107503
+msgid "任务:{0}"
+msgstr ""
+
+#: [zh_CN]107504
+msgid "已达成"
+msgstr ""
+
+#: [zh_CN]107505
+msgid "资源产出"
+msgstr ""
+
+#: [zh_CN]107506
+msgid "杂项"
+msgstr ""
+
+#: [zh_CN]107507
+msgid "任务详情"
+msgstr ""
+
+#: [zh_CN]107508
+msgid "任务奖励"
+msgstr ""
+
+#: [zh_CN]107509
+msgid "领主经验"
+msgstr ""
+
+#: [zh_CN]107510
+msgctxt "[zh_CN]107510"
+msgid "战斗力"
+msgstr ""
+
+#: [zh_CN]107511
+msgid "木头"
+msgstr ""
+
+#: [zh_CN]107512
+msgctxt "[zh_CN]107512"
+msgid "秘银"
+msgstr ""
+
+#: [zh_CN]107513
+msgid "铁"
+msgstr ""
+
+#: [zh_CN]107514
+msgctxt "[zh_CN]107514"
+msgid "粮食"
+msgstr ""
+
+#: [zh_CN]107515
+msgctxt "[zh_CN]107515"
+msgid "银币"
+msgstr ""
+
+#: [zh_CN]107516
+msgid "领奖"
+msgstr ""
+
+#: [zh_CN]107517
+msgid "已完成任务"
+msgstr ""
+
+#: [zh_CN]107518
+msgid "金币"
+msgstr ""
+
+#: [zh_CN]107519
+msgid "成就完成"
+msgstr ""
+
+#: [zh_CN]107520
+msgid "任务领奖成功"
+msgstr ""
+
+#: [zh_CN]107521
+msgid "推荐使者"
+msgstr ""
+
+#: [zh_CN]107522
+msgid "财政大臣"
+msgstr ""
+
+#: [zh_CN]107523
+msgid "大将军"
+msgstr ""
+
+#: [zh_CN]107524
+msgid "内务大臣"
+msgstr ""
+
+#: [zh_CN]107525
+msgid "大学士"
+msgstr ""
+
+#: [zh_CN]107526
+msgid "完成度："
+msgstr ""
+
+#: [zh_CN]107527
+msgid "提示"
+msgstr ""
+
+#: [zh_CN]108000
+msgid "不管您的部队是否在城内，都会消耗粮食！"
+msgstr ""
+
+#: [zh_CN]108001
+msgid "升级行军帐篷，可以提高训练部队的速度！"
+msgstr ""
+
+#: [zh_CN]108002
+msgid "建造或升级建筑时间少于5分钟时，可以免费加速建造或升级！"
+msgstr ""
+
+#: [zh_CN]108003
+msgid "城市建设中最核心的就是升级大本营"
+msgstr ""
+
+#: [zh_CN]108004
+msgid "在世界中可以采集各种资源，用来城市发展"
+msgstr ""
+
+#: [zh_CN]108005
+msgid "训练越多的士兵，你的部队就越强大"
+msgstr ""
+
+#: [zh_CN]108006
+msgid "大本营6级前可以使用赠送的新手迁城迁往世界任意地方"
+msgstr ""
+
+#: [zh_CN]108007
+msgid "去城堡遗迹探险可以获得你想要的一切"
+msgstr ""
+
+#: [zh_CN]108008
+msgid "知己知彼百战百胜，攻击他人前请先侦察一下"
+msgstr ""
+
+#: [zh_CN]108009
+msgid "提高负重可以让你的部队一次性采集更多的资源"
+msgstr ""
+
+#: [zh_CN]108010
+msgid "领主拥有数十种能力，但是你最多只能掌握其中的8个"
+msgstr ""
+
+#: [zh_CN]108011
+msgid "每一种能力下都有不同的技能树"
+msgstr ""
+
+#: [zh_CN]108012
+msgid "领主等级提升可以获得大量的技能点"
+msgstr ""
+
+#: [zh_CN]108013
+msgid "士兵越多，您的实力越强大，但是粮食消耗也越多"
+msgstr ""
+
+#: [zh_CN]108500
+msgid "家园"
+msgstr ""
+
+#: [zh_CN]108501
+msgid "添加收藏"
+msgstr ""
+
+#: [zh_CN]108502
+msgid "坐标：X:{0} Y:{1}"
+msgstr ""
+
+#: [zh_CN]108503
+msgid "点击修改名称"
+msgstr ""
+
+#: [zh_CN]108504
+msgid "选择收藏类型"
+msgstr ""
+
+#: [zh_CN]108505
+msgid "喜爱"
+msgstr ""
+
+#: [zh_CN]108506
+msgid "朋友"
+msgstr ""
+
+#: [zh_CN]108520
+msgid "敌人"
+msgstr ""
+
+#: [zh_CN]108521
+msgid "收藏夹"
+msgstr ""
+
+#: [zh_CN]108522
+msgid "全部"
+msgstr ""
+
+#: [zh_CN]108523
+msgid "删除"
+msgstr ""
+
+#: [zh_CN]108524
+msgctxt "[zh_CN]108524"
+msgid "编辑"
+msgstr ""
+
+#: [zh_CN]108525
+msgctxt "[zh_CN]108525"
+msgid "前往"
+msgstr ""
+
+#: [zh_CN]108526
+msgid "你确定要删除这个收藏点吗？"
+msgstr ""
+
+#: [zh_CN]108527
+msgctxt "[zh_CN]108527"
+msgid "搜索"
+msgstr ""
+
+#: [zh_CN]108528
+msgid "输入坐标"
+msgstr ""
+
+#: [zh_CN]108529
+msgid "x："
+msgstr ""
+
+#: [zh_CN]108530
+msgid "y："
+msgstr ""
+
+#: [zh_CN]108531
+msgctxt "[zh_CN]108531"
+msgid "前往"
+msgstr ""
+
+#: [zh_CN]108532
+msgctxt "[zh_CN]108532"
+msgid "取消"
+msgstr ""
+
+#: [zh_CN]108533
+msgid "国家："
+msgstr ""
+
+#: [zh_CN]108534
+msgid "坐标："
+msgstr ""
+
+#: [zh_CN]108535
+msgctxt "[zh_CN]108535"
+msgid "迁城"
+msgstr ""
+
+#: [zh_CN]108536
+msgctxt "[zh_CN]108536"
+msgid "出征"
+msgstr ""
+
+#: [zh_CN]108537
+msgctxt "[zh_CN]108537"
+msgid "信息"
+msgstr ""
+
+#: [zh_CN]108538
+msgid "家"
+msgstr ""
+
+#: [zh_CN]108539
+msgctxt "[zh_CN]108539"
+msgid "侦查"
+msgstr ""
+
+#: [zh_CN]108540
+msgctxt "[zh_CN]108540"
+msgid "进入城市"
+msgstr ""
+
+#: [zh_CN]108541
+msgctxt "[zh_CN]108541"
+msgid "帮助"
+msgstr ""
+
+#: [zh_CN]108542
+msgctxt "[zh_CN]108542"
+msgid "支援"
+msgstr ""
+
+#: [zh_CN]108543
+msgid "容量："
+msgstr ""
+
+#: [zh_CN]108544
+msgid "金币容量："
+msgstr ""
+
+#: [zh_CN]108545
+msgid "木材容量："
+msgstr ""
+
+#: [zh_CN]108546
+msgid "粮食容量："
+msgstr ""
+
+#: [zh_CN]108547
+msgid "铁矿容量："
+msgstr ""
+
+#: [zh_CN]108548
+msgid "银币容量："
+msgstr ""
+
+#: [zh_CN]108549
+msgid "拥有者："
+msgstr ""
+
+#: [zh_CN]108550
+msgid "没有被占领"
+msgstr ""
+
+#: [zh_CN]108551
+msgid "负重："
+msgstr ""
+
+#: [zh_CN]108552
+msgid "用户详情"
+msgstr ""
+
+#: [zh_CN]108553
+msgid "战斗力："
+msgstr ""
+
+#: [zh_CN]108554
+msgid "击杀："
+msgstr ""
+
+#: [zh_CN]108555
+msgid "联盟："
+msgstr ""
+
+#: [zh_CN]108556
+msgid "召回"
+msgstr ""
+
+#: [zh_CN]108557
+msgid "部队"
+msgstr ""
+
+#: [zh_CN]108558
+msgctxt "[zh_CN]108558"
+msgid "加速"
+msgstr ""
+
+#: [zh_CN]108559
+msgid "所属玩家："
+msgstr ""
+
+#: [zh_CN]108560
+msgid "采集资源"
+msgstr ""
+
+#: [zh_CN]108561
+msgid "扎营"
+msgstr ""
+
+#: [zh_CN]108562
+msgctxt "[zh_CN]108562"
+msgid "出征"
+msgstr ""
+
+#: [zh_CN]108563
+msgid "侦查花费"
+msgstr ""
+
+#: [zh_CN]108564
+msgid "高级迁城可以将您的城市迁往指定地点"
+msgstr ""
+
+#: [zh_CN]108565
+msgid "召回令可以使您已经出征的部队立即开始返回"
+msgstr ""
+
+#: [zh_CN]108566
+msgid "城防值："
+msgstr ""
+
+#: [zh_CN]108567
+msgctxt "[zh_CN]108567"
+msgid "重建"
+msgstr ""
+
+#: [zh_CN]108568
+msgid "和平时间："
+msgstr ""
+
+#: [zh_CN]108569
+msgid "争夺时间"
+msgstr ""
+
+#: [zh_CN]108570
+msgid "下一次攻击时间："
+msgstr ""
+
+#: [zh_CN]108571
+msgid "前往:x:{0}y:{1}"
+msgstr ""
+
+#: [zh_CN]108572
+msgid "返回"
+msgstr ""
+
+#: [zh_CN]108573
+msgid "您的城池坚如磐石"
+msgstr ""
+
+#: [zh_CN]108574
+msgid "您的城池正在着火"
+msgstr ""
+
+#: [zh_CN]108575
+msgid "您的城池需要修理"
+msgstr ""
+
+#: [zh_CN]108576
+msgid "木材场"
+msgstr ""
+
+#: [zh_CN]108577
+msgid "秘银矿"
+msgstr ""
+
+#: [zh_CN]108578
+msgctxt "[zh_CN]108578"
+msgid "铁矿场"
+msgstr ""
+
+#: [zh_CN]108579
+msgid "农场"
+msgstr ""
+
+#: [zh_CN]108580
+msgid "银矿"
+msgstr ""
+
+#: [zh_CN]108581
+msgid "金矿"
+msgstr ""
+
+#: [zh_CN]108582
+msgid "组队攻击"
+msgstr ""
+
+#: [zh_CN]108583
+msgid "资源帮助"
+msgstr ""
+
+#: [zh_CN]108584
+msgid "邀请加入联盟"
+msgstr ""
+
+#: [zh_CN]108585
+msgctxt "[zh_CN]108585"
+msgid "部队详情"
+msgstr ""
+
+#: [zh_CN]108586
+msgctxt "[zh_CN]108586"
+msgid "支援"
+msgstr ""
+
+#: [zh_CN]108587
+msgid "拾取"
+msgstr ""
+
+#: [zh_CN]108588
+msgid "大本营开始升到{0}级会结束您的新手旅程，您的新手免战状态和新手迁城道具将被回收，是否继续？"
+msgstr ""
+
+#: [zh_CN]108589
+msgid "您的攻击行为会导致您的免战状态提前结束，是否继续？"
+msgstr ""
+
+#: [zh_CN]108590
+msgctxt "[zh_CN]108590"
+msgid "使用"
+msgstr ""
+
+#: [zh_CN]108591
+msgid "购买"
+msgstr ""
+
+#: [zh_CN]108592
+msgctxt "[zh_CN]108592"
+msgid "{0}正在向你行军"
+msgstr ""
+
+#: [zh_CN]108593
+msgctxt "[zh_CN]108593"
+msgid "{0}正在向你行军"
+msgstr ""
+
+#: [zh_CN]108594
+msgid "{0}正在{1}你"
+msgstr ""
+
+#: [zh_CN]108595
+msgid "玩家名称：{0}{1}"
+msgstr ""
+
+#: [zh_CN]108596
+msgid "联盟：{0}"
+msgstr ""
+
+#: [zh_CN]108597
+msgid "坐标：{0}"
+msgstr ""
+
+#: [zh_CN]108598
+msgid "行军类型：{0}"
+msgstr ""
+
+#: [zh_CN]108599
+msgid "抵达时间：{0}"
+msgstr ""
+
+#: [zh_CN]108600
+msgid "总兵力：{0}"
+msgstr ""
+
+#: [zh_CN]108601
+msgid "英雄：{0}"
+msgstr ""
+
+#: [zh_CN]108602
+msgctxt "[zh_CN]108602"
+msgid "战斗力：{0}"
+msgstr ""
+
+#: [zh_CN]108603
+msgid "能力与技能：{0}"
+msgstr ""
+
+#: [zh_CN]108604
+msgid "个人科技：{0}"
+msgstr ""
+
+#: [zh_CN]108605
+msgctxt "[zh_CN]108605"
+msgid "侦查"
+msgstr ""
+
+#: [zh_CN]108606
+msgctxt "[zh_CN]108606"
+msgid "交易"
+msgstr ""
+
+#: [zh_CN]108607
+msgctxt "[zh_CN]108607"
+msgid "攻击"
+msgstr ""
+
+#: [zh_CN]108608
+msgid "组队战斗"
+msgstr ""
+
+#: [zh_CN]108609
+msgid "组队防御"
+msgstr ""
+
+#: [zh_CN]108610
+msgid "野人洞穴"
+msgstr ""
+
+#: [zh_CN]108611
+msgid "野人离开时间"
+msgstr ""
+
+#: [zh_CN]108612
+msgid "可攻击次数："
+msgstr ""
+
+#: [zh_CN]108613
+msgid "兵力："
+msgstr ""
+
+#: [zh_CN]108614
+msgid "推荐战斗力：{0}"
+msgstr ""
+
+#: [zh_CN]108615
+msgctxt "[zh_CN]108615"
+msgid "奖励："
+msgstr ""
+
+#: [zh_CN]108616
+msgid "在倒计时结束时，这个怪物营地将会消失，您的击杀进度也会一起消失，您必须抓紧时间在有限的攻击次数内消灭掉某一只怪物，这样才能获得最终的击杀大奖。"
+msgstr ""
+
+#: [zh_CN]108617
+msgid "平原"
+msgstr ""
+
+#: [zh_CN]108618
+msgctxt "[zh_CN]108618"
+msgid "森林"
+msgstr ""
+
+#: [zh_CN]108619
+msgid "水域"
+msgstr ""
+
+#: [zh_CN]108620
+msgid "山脉"
+msgstr ""
+
+#: [zh_CN]108621
+msgid "战争区域"
+msgstr ""
+
+#: [zh_CN]108622
+msgid "禁区"
+msgstr ""
+
+#: [zh_CN]108623
+msgid "该玩家处于保护状态中，不能发起进攻或进行侦查"
+msgstr ""
+
+#: [zh_CN]108624
+msgid "没有"
+msgstr ""
+
+#: [zh_CN]108625
+msgid ""
+"您必须在这个洞穴里的野人们撤离前击败他们，但是你只有限定的攻击次数，所以请选择适合您难度的野人进行攻击，每次消灭掉野人的兵力都可以获得英雄经验值，而且当你"
+"完全击败某一支野人部队时，你可以获得击杀大礼包，有可能开出金币、资源等等珍稀道具。"
+msgstr ""
+
+#: [zh_CN]108626
+msgid "需要击杀："
+msgstr ""
+
+#: [zh_CN]108627
+msgid "只有完全击杀过{0}后，才能开启这个挑战"
+msgstr ""
+
+#: [zh_CN]108628
+msgid "您确定花费{0}金币购买一次攻击次数吗？"
+msgstr ""
+
+#: [zh_CN]108629
+msgid ""
+"当您的部队出征并占领这个资源点后，将会开始采集这种资源。如果采集的资源达到你的负重上限，你的部队就会开始返回，并将采集的资源带回来。你可以通过增加部队数量"
+"或者研究某些科技来提升负重或者采集速度，这样将提高您部队的工作效率。资源点的等级越高，其容量也会更高。"
+msgstr ""
+
+#: [zh_CN]108630
+msgid "占领这个资源点并开始采集资源，如果它已经被其他玩家占领，那么你需要击败他才能开始采集。"
+msgstr ""
+
+#: [zh_CN]108631
+msgid ""
+"占领这个金矿后可以开始采集金币，每1点金币需要消耗1000点负重来进行采集，同时每采集1点金币需要耗时20分钟，当然你可以通过相应的科技来加快这个采集速度"
+"。如果您的出征部队不足1000负重，则无法获得任何的金币。"
+msgstr ""
+
+#: [zh_CN]108632
+msgid "营地"
+msgstr ""
+
+#: [zh_CN]108633
+msgctxt "[zh_CN]108633"
+msgid "英雄"
+msgstr ""
+
+#: [zh_CN]108634
+msgctxt "[zh_CN]108634"
+msgid "等级"
+msgstr ""
+
+#: [zh_CN]108635
+msgctxt "[zh_CN]108635"
+msgid "兵种"
+msgstr ""
+
+#: [zh_CN]108636
+msgid "士兵数"
+msgstr ""
+
+#: [zh_CN]108637
+msgid "部队详细"
+msgstr ""
+
+#: [zh_CN]108638
+msgid "士兵总数"
+msgstr ""
+
+#: [zh_CN]108639
+msgctxt "[zh_CN]108639"
+msgid "伐木场"
+msgstr ""
+
+#: [zh_CN]108640
+msgctxt "[zh_CN]108640"
+msgid "秘银矿场"
+msgstr ""
+
+#: [zh_CN]108641
+msgctxt "[zh_CN]108641"
+msgid "铁矿场"
+msgstr ""
+
+#: [zh_CN]108642
+msgctxt "[zh_CN]108642"
+msgid "农田"
+msgstr ""
+
+#: [zh_CN]108643
+msgid "银币厂"
+msgstr ""
+
+#: [zh_CN]108644
+msgid "金矿场"
+msgstr ""
+
+#: [zh_CN]108645
+msgid "查看部队"
+msgstr ""
+
+#: [zh_CN]108646
+msgid "加入联盟后才能使用市场进行资源交易"
+msgstr ""
+
+#: [zh_CN]108647
+msgid "当前没有攻击你的信息"
+msgstr ""
+
+#: [zh_CN]108648
+msgid "加入联盟后才能使用战争大厅进行组队攻击或者组队防守"
+msgstr ""
+
+#: [zh_CN]108649
+msgid "您当前没有在外出征的部队"
+msgstr ""
+
+#: [zh_CN]108650
+msgid "必须完全击杀任意营地的{0}级野人后才能解锁这个难度"
+msgstr ""
+
+#: [zh_CN]108651
+msgid "当前野人洞穴的可攻击次数已耗尽，您可以购买额外的次数或者寻找其他野人洞穴"
+msgstr ""
+
+#: [zh_CN]108652
+msgid "当前野人洞穴的可购买攻击次数已经用完，您可以尝试攻击其他野人洞穴内的野人。"
+msgstr ""
+
+#: [zh_CN]108653
+msgid "公里"
+msgstr ""
+
+#: [zh_CN]108654
+msgid "粮食不足，不能发起侦查"
+msgstr ""
+
+#: [zh_CN]108655
+msgid "城堡遗迹"
+msgstr ""
+
+#: [zh_CN]108656
+msgid "这是一座废弃的城堡，传说地下埋藏着巨大的宝藏，前赴后继的寻宝者们都倒在了遗迹守卫的剑下，勇敢的领主大人是否愿意一试？"
+msgstr ""
+
+#: [zh_CN]108657
+msgid "遗迹消失：{0}"
+msgstr ""
+
+#: [zh_CN]108658
+msgid "您的部队正在探险中"
+msgstr ""
+
+#: [zh_CN]108659
+msgid "剩余时间："
+msgstr ""
+
+#: [zh_CN]108660
+msgid "提前撤退"
+msgstr ""
+
+#: [zh_CN]108661
+msgid "你消灭了遗迹守卫，"
+msgstr ""
+
+#: [zh_CN]108662
+msgid "你没能战胜遗迹守卫，但是赶跑了他们，"
+msgstr ""
+
+#: [zh_CN]108663
+msgid "获得了{1}点经验值"
+msgstr ""
+
+#: [zh_CN]108664
+msgid "幸运的发现了宝藏：{0}"
+msgstr ""
+
+#: [zh_CN]108665
+msgid "您的部队踩到了陷阱，损失：{0}"
+msgstr ""
+
+#: [zh_CN]108666
+msgid "需要大本营等级达到{0}级，才可以采集{1}。"
+msgstr ""
+
+#: [zh_CN]108667
+msgid "提前结束探险不会影响已经获得的战利品，是否提前撤退？"
+msgstr ""
+
+#: [zh_CN]108668
+msgid "同一时间只能派遣一支部队进行探险"
+msgstr ""
+
+#: [zh_CN]108669
+msgid "简单（{0}分钟）"
+msgstr ""
+
+#: [zh_CN]108670
+msgid "普通（{0}小时）"
+msgstr ""
+
+#: [zh_CN]108671
+msgid "困难（{0}小时）"
+msgstr ""
+
+#: [zh_CN]108672
+msgid "地狱（{0}小时）"
+msgstr ""
+
+#: [zh_CN]108673
+msgid "探险时间"
+msgstr ""
+
+#: [zh_CN]108674
+msgid "事件{0}："
+msgstr ""
+
+#: [zh_CN]108675
+msgid "城堡遗迹探险报告"
+msgstr ""
+
+#: [zh_CN]108676
+msgid "丘陵"
+msgstr ""
+
+#: [zh_CN]108677
+msgid "洼地"
+msgstr ""
+
+#: [zh_CN]108678
+msgid "我的城堡"
+msgstr ""
+
+#: [zh_CN]108679
+msgid "您的城堡遭到了敌人持续的进攻，人民已经流离失所，点击重建将会在新的坐标重新开始。（这样做不会降低您的城堡规模）"
+msgstr ""
+
+#: [zh_CN]108680
+msgctxt "[zh_CN]108680"
+msgid "重建"
+msgstr ""
+
+#: [zh_CN]108681
+msgid "您的部队已经返回"
+msgstr ""
+
+#: [zh_CN]108682
+msgid "您的部队已经抵达{0}，开始采集"
+msgstr ""
+
+#: [zh_CN]108683
+msgid "您的部队已经抵达{0}，发生战斗"
+msgstr ""
+
+#: [zh_CN]108684
+msgid "您的部队已经抵达{0}，扎营成功"
+msgstr ""
+
+#: [zh_CN]108685
+msgid "您的部队已经抵达{0}，侦查成功"
+msgstr ""
+
+#: [zh_CN]108686
+msgid "您的部队已经抵达{0}，交易成功"
+msgstr ""
+
+#: [zh_CN]108687
+msgid "{0}的商队正在向你行军"
+msgstr ""
+
+#: [zh_CN]108688
+msgid "{0}的援兵正在向你行军"
+msgstr ""
+
+#: [zh_CN]108689
+msgid "{0}的部队正在向你集结"
+msgstr ""
+
+#: [zh_CN]108690
+msgid "您与{0}的部队存在行军冲突"
+msgstr ""
+
+#: [zh_CN]108691
+msgid "部队数量：{0}"
+msgstr ""
+
+#: [zh_CN]108692
+msgid "资源数量"
+msgstr ""
+
+#: [zh_CN]108693
+msgid "部队详细情况"
+msgstr ""
+
+#: [zh_CN]108694
+msgid "{0}的部队正在向你发起攻击"
+msgstr ""
+
+#: [zh_CN]108695
+msgid "{0}率领一支军团向你发起攻击"
+msgstr ""
+
+#: [zh_CN]108696
+msgid "{0}对你发起了侦查"
+msgstr ""
+
+#: [zh_CN]108697
+msgid "您的瞭望塔等级较低，无法获得全部详情"
+msgstr ""
+
+#: [zh_CN]108698
+msgid "战斗属性加成总览"
+msgstr ""
+
+#: [zh_CN]108699
+msgid "领主能力与技能"
+msgstr ""
+
+#: [zh_CN]108700
+msgid "队员情况"
+msgstr ""
+
+#: [zh_CN]108701
+msgid "瞭望塔升到2级可以查看对方城市拥有的各类资源数量"
+msgstr ""
+
+#: [zh_CN]108702
+msgid "瞭望塔升到4级可以查看对方的领主是否在场"
+msgstr ""
+
+#: [zh_CN]108703
+msgid "瞭望塔升到6级可以查看对方的防守部队总数"
+msgstr ""
+
+#: [zh_CN]108704
+msgid "瞭望塔升到8级可以查看对方防守部队的类型和各自数量"
+msgstr ""
+
+#: [zh_CN]108705
+msgid "瞭望塔升到10级可以查看对方城防陷阱的总数"
+msgstr ""
+
+#: [zh_CN]108706
+msgid "瞭望塔升到13级可以查看对方城防陷阱的类型和各自数量"
+msgstr ""
+
+#: [zh_CN]108707
+msgid "瞭望塔升到16级可以查看对方箭塔的等级"
+msgstr ""
+
+#: [zh_CN]108708
+msgid "瞭望塔升到19级可以查看对方已经集结的部队总数"
+msgstr ""
+
+#: [zh_CN]108709
+msgid "瞭望塔升到23级可以查看对方已经集结的部队类型和各自数量"
+msgstr ""
+
+#: [zh_CN]108710
+msgid "瞭望塔升到27级可以查看对方领主的属性加成总览"
+msgstr ""
+
+#: [zh_CN]108711
+msgid "瞭望塔升到29级可以查看对方领主的能力和技能"
+msgstr ""
+
+#: [zh_CN]108712
+msgid "城市资源量"
+msgstr ""
+
+#: [zh_CN]108713
+msgid "防守领主"
+msgstr ""
+
+#: [zh_CN]108714
+msgid "无"
+msgstr ""
+
+#: [zh_CN]108715
+msgid "防守部队"
+msgstr ""
+
+#: [zh_CN]108716
+msgid "陷阱数量"
+msgstr ""
+
+#: [zh_CN]108717
+msgid "集结部队（目标：{0}）"
+msgstr ""
+
+#: [zh_CN]108718
+msgid "箭塔等级"
+msgstr ""
+
+#: [zh_CN]108719
+msgctxt "[zh_CN]108719"
+msgid "迁城"
+msgstr ""
+
+#: [zh_CN]108720
+msgid "占领"
+msgstr ""
+
+#: [zh_CN]108721
+msgid "用户信息"
+msgstr ""
+
+#: [zh_CN]108722
+msgctxt "[zh_CN]108722"
+msgid "侦查"
+msgstr ""
+
+#: [zh_CN]108723
+msgctxt "[zh_CN]108723"
+msgid "攻击"
+msgstr ""
+
+#: [zh_CN]108724
+msgctxt "[zh_CN]108724"
+msgid "部队详情"
+msgstr ""
+
+#: [zh_CN]108725
+msgid "回家"
+msgstr ""
+
+#: [zh_CN]108726
+msgid "宣战"
+msgstr ""
+
+#: [zh_CN]108727
+msgctxt "[zh_CN]108727"
+msgid "进入城市"
+msgstr ""
+
+#: [zh_CN]108728
+msgctxt "[zh_CN]108728"
+msgid "士兵援助"
+msgstr ""
+
+#: [zh_CN]108729
+msgid "资源援助"
+msgstr ""
+
+#: [zh_CN]108730
+msgid "说明"
+msgstr ""
+
+#: [zh_CN]108731
+msgid "探险"
+msgstr ""
+
+#: [zh_CN]108732
+msgid "这里不能迁城，请尝试其他位置"
+msgstr ""
+
+#: [zh_CN]108733
+msgid "这里不能占领"
+msgstr ""
+
+#: [zh_CN]108734
+msgid "这里不能攻击"
+msgstr ""
+
+#: [zh_CN]108735
+msgid "采集中"
+msgstr ""
+
+#: [zh_CN]108736
+msgid "探险中"
+msgstr ""
+
+#: [zh_CN]108737
+msgid "扎营中"
+msgstr ""
+
+#: [zh_CN]108800
+msgid "闪电塔"
+msgstr ""
+
+#: [zh_CN]108801
+msgid "缠绕塔"
+msgstr ""
+
+#: [zh_CN]108802
+msgctxt "[zh_CN]108802"
+msgid "兵营"
+msgstr ""
+
+#: [zh_CN]108803
+msgid "全攻"
+msgstr ""
+
+#: [zh_CN]108804
+msgid "全防"
+msgstr ""
+
+#: [zh_CN]108805
+msgid "全速"
+msgstr ""
+
+#: [zh_CN]108806
+msgid "步兵能力"
+msgstr ""
+
+#: [zh_CN]108807
+msgid "弓兵能力"
+msgstr ""
+
+#: [zh_CN]108808
+msgid "枪兵能力"
+msgstr ""
+
+#: [zh_CN]108809
+msgid "骑兵能力"
+msgstr ""
+
+#: [zh_CN]108810
+msgid "车兵能力"
+msgstr ""
+
+#: [zh_CN]108811
+msgid "弩兵能力"
+msgstr ""
+
+#: [zh_CN]108812
+msgid "法师能力"
+msgstr ""
+
+#: [zh_CN]108813
+msgid "闪电塔的说明"
+msgstr ""
+
+#: [zh_CN]108814
+msgid "缠绕塔的说明"
+msgstr ""
+
+#: [zh_CN]108815
+msgid "兵营的说明"
+msgstr ""
+
+#: [zh_CN]108816
+msgid "全攻的说明"
+msgstr ""
+
+#: [zh_CN]108817
+msgid "全防的说明"
+msgstr ""
+
+#: [zh_CN]108818
+msgid "全速的说明"
+msgstr ""
+
+#: [zh_CN]108819
+msgid "步兵能力的说明"
+msgstr ""
+
+#: [zh_CN]108820
+msgid "弓兵能力的说明"
+msgstr ""
+
+#: [zh_CN]108821
+msgid "枪兵能力的说明"
+msgstr ""
+
+#: [zh_CN]108822
+msgid "骑兵能力的说明"
+msgstr ""
+
+#: [zh_CN]108823
+msgid "车兵能力的说明"
+msgstr ""
+
+#: [zh_CN]108824
+msgid "弩兵能力的说明"
+msgstr ""
+
+#: [zh_CN]108825
+msgid "法师能力的说明"
+msgstr ""
+
+#: [zh_CN]108862
+msgid "不能迁往这个地方"
+msgstr ""
+
+#: [zh_CN]108863
+msgid "您的出征部队已满，最大为：{0}！您可以通过升级“{1}”科技来提升出征队列的数目！"
+msgstr ""
+
+#: [zh_CN]108864
+msgctxt "[zh_CN]108864"
+msgid "等级"
+msgstr ""
+
+#: [zh_CN]108865
+msgid "前往学院"
+msgstr ""
+
+#: [zh_CN]108866
+msgid "您还没有建造学院，请建造学院并研究相关科技！"
+msgstr ""
+
+#: [zh_CN]108867
+msgid "您的出征部队已满，最大为：{0}！"
+msgstr ""
+
+#: [zh_CN]108900
+msgid "王位"
+msgstr ""
+
+#: [zh_CN]108901
+msgid "1号领主"
+msgstr ""
+
+#: [zh_CN]108902
+msgid "2号领主"
+msgstr ""
+
+#: [zh_CN]108903
+msgid "3号领主"
+msgstr ""
+
+#: [zh_CN]108904
+msgid "4号领主"
+msgstr ""
+
+#: [zh_CN]108905
+msgid "5号领主"
+msgstr ""
+
+#: [zh_CN]108906
+msgid "6号领主"
+msgstr ""
+
+#: [zh_CN]108907
+msgid "7号领主"
+msgstr ""
+
+#: [zh_CN]108908
+msgid "8号领主"
+msgstr ""
+
+#: [zh_CN]108909
+msgid "9号领主"
+msgstr ""
+
+#: [zh_CN]108910
+msgid "10号领主"
+msgstr ""
+
+#: [zh_CN]108911
+msgid "11号领主"
+msgstr ""
+
+#: [zh_CN]108912
+msgid "12号领主"
+msgstr ""
+
+#: [zh_CN]108913
+msgid "13号领主"
+msgstr ""
+
+#: [zh_CN]108914
+msgid "14号领主"
+msgstr ""
+
+#: [zh_CN]108915
+msgid "15号领主"
+msgstr ""
+
+#: [zh_CN]108916
+msgid "16号领主"
+msgstr ""
+
+#: [zh_CN]108917
+msgid "17号领主"
+msgstr ""
+
+#: [zh_CN]108918
+msgid "18号领主"
+msgstr ""
+
+#: [zh_CN]108919
+msgid "19号领主"
+msgstr ""
+
+#: [zh_CN]108920
+msgid "20号领主"
+msgstr ""
+
+#: [zh_CN]108921
+msgid "21号领主"
+msgstr ""
+
+#: [zh_CN]108922
+msgid "22号领主"
+msgstr ""
+
+#: [zh_CN]108923
+msgid "23号领主"
+msgstr ""
+
+#: [zh_CN]108924
+msgid "24号领主"
+msgstr ""
+
+#: [zh_CN]108925
+msgid "25号领主"
+msgstr ""
+
+#: [zh_CN]108926
+msgid "26号领主"
+msgstr ""
+
+#: [zh_CN]108927
+msgid "27号领主"
+msgstr ""
+
+#: [zh_CN]108928
+msgid "28号领主"
+msgstr ""
+
+#: [zh_CN]108929
+msgid "29号领主"
+msgstr ""
+
+#: [zh_CN]108930
+msgid "30号领主"
+msgstr ""
+
+#: [zh_CN]108931
+msgid "王位的说明"
+msgstr ""
+
+#: [zh_CN]108932
+msgid "1号领主的说明"
+msgstr ""
+
+#: [zh_CN]108933
+msgid "2号领主的说明"
+msgstr ""
+
+#: [zh_CN]108934
+msgid "3号领主的说明"
+msgstr ""
+
+#: [zh_CN]108935
+msgid "4号领主的说明"
+msgstr ""
+
+#: [zh_CN]108936
+msgid "5号领主的说明"
+msgstr ""
+
+#: [zh_CN]108937
+msgid "6号领主的说明"
+msgstr ""
+
+#: [zh_CN]108938
+msgid "7号领主的说明"
+msgstr ""
+
+#: [zh_CN]108939
+msgid "8号领主的说明"
+msgstr ""
+
+#: [zh_CN]108940
+msgid "9号领主的说明"
+msgstr ""
+
+#: [zh_CN]108941
+msgid "10号领主的说明"
+msgstr ""
+
+#: [zh_CN]108942
+msgid "11号领主的说明"
+msgstr ""
+
+#: [zh_CN]108943
+msgid "12号领主的说明"
+msgstr ""
+
+#: [zh_CN]108944
+msgid "13号领主的说明"
+msgstr ""
+
+#: [zh_CN]108945
+msgid "14号领主的说明"
+msgstr ""
+
+#: [zh_CN]108946
+msgid "15号领主的说明"
+msgstr ""
+
+#: [zh_CN]108947
+msgid "16号领主的说明"
+msgstr ""
+
+#: [zh_CN]108948
+msgid "17号领主的说明"
+msgstr ""
+
+#: [zh_CN]108949
+msgid "18号领主的说明"
+msgstr ""
+
+#: [zh_CN]108950
+msgid "19号领主的说明"
+msgstr ""
+
+#: [zh_CN]108951
+msgid "20号领主的说明"
+msgstr ""
+
+#: [zh_CN]108952
+msgid "21号领主的说明"
+msgstr ""
+
+#: [zh_CN]108953
+msgid "22号领主的说明"
+msgstr ""
+
+#: [zh_CN]108954
+msgid "23号领主的说明"
+msgstr ""
+
+#: [zh_CN]108955
+msgid "24号领主的说明"
+msgstr ""
+
+#: [zh_CN]108956
+msgid "25号领主的说明"
+msgstr ""
+
+#: [zh_CN]108957
+msgid "26号领主的说明"
+msgstr ""
+
+#: [zh_CN]108958
+msgid "27号领主的说明"
+msgstr ""
+
+#: [zh_CN]108959
+msgid "28号领主的说明"
+msgstr ""
+
+#: [zh_CN]108960
+msgid "29号领主的说明"
+msgstr ""
+
+#: [zh_CN]108961
+msgid "30号领主的说明"
+msgstr ""
+
+#: [zh_CN]114000
+msgid "绑定Google+成功"
+msgstr ""
+
+#: [zh_CN]114001
+msgid ""
+"恭喜您的账号已经成功和Google+账号绑定。使用其他设备玩游戏或重新安装游戏后，可以使用Google+账号恢复您的进度。您还可以绑定facebook，同"
+"样也能达到绑定账号的效果。绑定facebook还可以与好友一起玩游戏、分享游戏内容。"
+msgstr ""
+
+#: [zh_CN]114002
+msgid "绑定Facebook成功"
+msgstr ""
+
+#: [zh_CN]114003
+msgid ""
+"恭喜您的账号已经成功和Facebook账号绑定。使用其他设备玩游戏或重新安装游戏后，可以使用Facebook账号恢复您的进度。您还可以绑定Google+，"
+"同样也能达到绑定账号的效果。绑定facebook还可以与好友一起玩游戏、分享游戏内容。"
+msgstr ""
+
+#: [zh_CN]114004
+msgctxt "[zh_CN]114004"
+msgid "侦查报告"
+msgstr ""
+
+#: [zh_CN]114005
+msgid "对方使用了反侦察道具，无法获得侦查信息"
+msgstr ""
+
+#: [zh_CN]114006
+msgid "野人击杀奖励"
+msgstr ""
+
+#: [zh_CN]114007
+msgid "恭喜您击杀了野人，获得了击杀奖励礼包"
+msgstr ""
+
+#: [zh_CN]114008
+msgid "扎营失败"
+msgstr ""
+
+#: [zh_CN]114009
+msgid "扎营失败，部队已返回"
+msgstr ""
+
+#: [zh_CN]114010
+msgctxt "[zh_CN]114010"
+msgid "新手迁城"
+msgstr ""
+
+#: [zh_CN]114011
+msgid ""
+"恭喜您的城市升级了，您获得了两个新手迁城道具作为奖励，在您的大本营等级提升至6级前，可以使用该道具迁城到世界地图的任意地方，赶快去寻找您的朋友吧。不过在您"
+"的大本营开始升6级时，这两个道具会被回收。"
+msgstr ""
+
+#: [zh_CN]114012
+msgctxt "[zh_CN]114012"
+msgid "入盟申请"
+msgstr ""
+
+#: [zh_CN]114013
+msgid "{0}申请加入您的联盟，请前往联盟成员列表进行处理。"
+msgstr ""
+
+#: [zh_CN]114014
+msgid "新的盟友"
+msgstr ""
+
+#: [zh_CN]114015
+msgid "{0}已加入了您的联盟。"
+msgstr ""
+
+#: [zh_CN]114016
+msgid "新的入盟邀请"
+msgstr ""
+
+#: [zh_CN]114017
+msgid "您收到了一份来自联盟“{0}”的邀请，您可以查看他们的联盟信息并决定是否加入他们！"
+msgstr ""
+
+#: [zh_CN]114018
+msgid "恭喜您获得了一个改名卡和一个更换形象。快到领主信息中选择您 喜爱的角色，并且定制您的个性名称吧。"
+msgstr ""
+
+#: [zh_CN]114019
+msgid "新手奖励"
+msgstr ""
+
+#: [zh_CN]114100
+msgid "野外遭遇战，大败"
+msgstr ""
+
+#: [zh_CN]114101
+msgid "您已经侦查到对手的一些信息。"
+msgstr ""
+
+#: [zh_CN]114102
+msgid "侦查失败"
+msgstr ""
+
+#: [zh_CN]114103
+msgid "陷阱总数"
+msgstr ""
+
+#: [zh_CN]114104
+msgid "您已经被对方屏蔽，无法通信。"
+msgstr ""
+
+#: [zh_CN]114105
+msgid "{0}的邮件"
+msgstr ""
+
+#: [zh_CN]114106
+msgid "由于您的版本过低，暂时无法领取奖励。"
+msgstr ""
+
+#: [zh_CN]114107
+msgid "{0}版本更新公告"
+msgstr ""
+
+#: [zh_CN]114108
+msgid "更新内容"
+msgstr ""
+
+#: [zh_CN]114109
+msgid "更新奖励"
+msgstr ""
+
+#: [zh_CN]114110
+msgid "加载中..."
+msgstr ""
+
+#: [zh_CN]115000
+msgctxt "[zh_CN]115000"
+msgid "联盟"
+msgstr ""
+
+#: [zh_CN]115001
+msgctxt "[zh_CN]115001"
+msgid "加入联盟"
+msgstr ""
+
+#: [zh_CN]115002
+msgid "和志同道合的朋友们一起打败敌人"
+msgstr ""
+
+#: [zh_CN]115003
+msgid "使用联盟帮助互相加速建筑物的建造和科技研究（功能暂未开放）"
+msgstr ""
+
+#: [zh_CN]115004
+msgid "研究联盟科技来使自己变得更加强大（功能暂未开放）"
+msgstr ""
+
+#: [zh_CN]115005
+msgid "领取免费的联盟礼物，获得丰厚的奖励（功能暂未开放）"
+msgstr ""
+
+#: [zh_CN]115006
+msgid "在联盟商店里购买更多的道具（功能暂未开放）"
+msgstr ""
+
+#: [zh_CN]115007
+msgid "创建联盟"
+msgstr ""
+
+#: [zh_CN]115008
+msgctxt "[zh_CN]115008"
+msgid "加入联盟"
+msgstr ""
+
+#: [zh_CN]115009
+msgid "输入联盟名称"
+msgstr ""
+
+#: [zh_CN]115010
+msgid "只能输入3~20个字符，可以是字母、数字和空格"
+msgstr ""
+
+#: [zh_CN]115011
+msgid "联盟创建成功"
+msgstr ""
+
+#: [zh_CN]115012
+msgid "恭喜你，你现在成为了{0}联盟的盟主"
+msgstr ""
+
+#: [zh_CN]115013
+msgctxt "[zh_CN]115013"
+msgid "搜索"
+msgstr ""
+
+#: [zh_CN]115014
+msgid "筛选"
+msgstr ""
+
+#: [zh_CN]115015
+msgid "盟主：{0}"
+msgstr ""
+
+#: [zh_CN]115016
+msgid "成员数：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]115017
+msgid "联盟战斗力：{0}"
+msgstr ""
+
+#: [zh_CN]115018
+msgctxt "[zh_CN]115018"
+msgid "查看"
+msgstr ""
+
+#: [zh_CN]115019
+msgid "申请"
+msgstr ""
+
+#: [zh_CN]115020
+msgid "加入"
+msgstr ""
+
+#: [zh_CN]115021
+msgid "撤销申请"
+msgstr ""
+
+#: [zh_CN]115022
+msgid "申请成功"
+msgstr ""
+
+#: [zh_CN]115023
+msgid "您已经成功发送申请，如果您的申请被接受，你将会成为{0}的一员"
+msgstr ""
+
+#: [zh_CN]115024
+msgid "您成功的加入了联盟{0}"
+msgstr ""
+
+#: [zh_CN]115025
+msgid "查看联盟信息"
+msgstr ""
+
+#: [zh_CN]115026
+msgid "联系盟主"
+msgstr ""
+
+#: [zh_CN]115027
+msgid "联盟成员"
+msgstr ""
+
+#: [zh_CN]115028
+msgid "名称：{0}"
+msgstr ""
+
+#: [zh_CN]115029
+msgctxt "[zh_CN]115029"
+msgid "战斗力：{0}"
+msgstr ""
+
+#: [zh_CN]115030
+msgctxt "[zh_CN]115030"
+msgid "邮件"
+msgstr ""
+
+#: [zh_CN]115031
+msgctxt "[zh_CN]115031"
+msgid "全体邮件"
+msgstr ""
+
+#: [zh_CN]115032
+msgid "联盟信息变更"
+msgstr ""
+
+#: [zh_CN]115033
+msgid "联盟公告"
+msgstr ""
+
+#: [zh_CN]115034
+msgctxt "[zh_CN]115034"
+msgid "编辑"
+msgstr ""
+
+#: [zh_CN]115035
+msgctxt "[zh_CN]115035"
+msgid "保存"
+msgstr ""
+
+#: [zh_CN]115036
+msgid "您刚刚编辑了联盟公告，但是没有保存，是否需要保存本次修改？"
+msgstr ""
+
+#: [zh_CN]115037
+msgctxt "[zh_CN]115037"
+msgid "解散联盟"
+msgstr ""
+
+#: [zh_CN]115038
+msgctxt "[zh_CN]115038"
+msgid "踢出联盟"
+msgstr ""
+
+#: [zh_CN]115039
+msgctxt "[zh_CN]115039"
+msgid "退出联盟"
+msgstr ""
+
+#: [zh_CN]115040
+msgid "解散联盟后所有的联盟数据都将删除，不可恢复，是否继续？"
+msgstr ""
+
+#: [zh_CN]115041
+msgid "是否将{0}踢出联盟？"
+msgstr ""
+
+#: [zh_CN]115042
+msgid "是否退出联盟？"
+msgstr ""
+
+#: [zh_CN]115043
+msgctxt "[zh_CN]115043"
+msgid "入盟申请"
+msgstr ""
+
+#: [zh_CN]115044
+msgctxt "[zh_CN]115044"
+msgid "同意"
+msgstr ""
+
+#: [zh_CN]115045
+msgctxt "[zh_CN]115045"
+msgid "拒绝"
+msgstr ""
+
+#: [zh_CN]115046
+msgctxt "[zh_CN]115046"
+msgid "修改联盟宣言"
+msgstr ""
+
+#: [zh_CN]115047
+msgid "修改联盟公开招募"
+msgstr ""
+
+#: [zh_CN]115048
+msgctxt "[zh_CN]115048"
+msgid "修改联盟名称"
+msgstr ""
+
+#: [zh_CN]115049
+msgctxt "[zh_CN]115049"
+msgid "修改联盟旗帜"
+msgstr ""
+
+#: [zh_CN]115050
+msgid "联盟宣言可以在其他玩家查看你的联盟时看到，您最多可以输入200个字符。"
+msgstr ""
+
+#: [zh_CN]115051
+msgid "开启公开招募后，所有玩家不需要申请就可以立即加入您的联盟。"
+msgstr ""
+
+#: [zh_CN]115052
+msgid "开启"
+msgstr ""
+
+#: [zh_CN]115053
+msgctxt "[zh_CN]115053"
+msgid "关闭"
+msgstr ""
+
+#: [zh_CN]115054
+msgid "联盟宣言"
+msgstr ""
+
+#: [zh_CN]115055
+msgid "公开招募"
+msgstr ""
+
+#: [zh_CN]115056
+msgid "申请中"
+msgstr ""
+
+#: [zh_CN]115057
+msgid "有新的入盟申请，点击查看"
+msgstr ""
+
+#: [zh_CN]115058
+msgctxt "[zh_CN]115058"
+msgid "修改联盟简称"
+msgstr ""
+
+#: [zh_CN]115059
+msgid "输入新的联盟简称"
+msgstr ""
+
+#: [zh_CN]115060
+msgid "只能输入3个以内的字符，仅限字母和数字"
+msgstr ""
+
+#: [zh_CN]115061
+msgid "修改"
+msgstr ""
+
+#: [zh_CN]115062
+msgctxt "[zh_CN]115062"
+msgid "免费"
+msgstr ""
+
+#: [zh_CN]115064
+msgid "联盟简称修改成功"
+msgstr ""
+
+#: [zh_CN]115065
+msgid "输入新的联盟名称"
+msgstr ""
+
+#: [zh_CN]115066
+msgctxt "[zh_CN]115066"
+msgid "市场"
+msgstr ""
+
+#: [zh_CN]115067
+msgid "您需要加入一个联盟才能使用市场的资源交易功能"
+msgstr ""
+
+#: [zh_CN]115068
+msgid "立即加入"
+msgstr ""
+
+#: [zh_CN]115069
+msgctxt "[zh_CN]115069"
+msgid "交易"
+msgstr ""
+
+#: [zh_CN]115070
+msgid "资源交易"
+msgstr ""
+
+#: [zh_CN]115071
+msgid "我的城市"
+msgstr ""
+
+#: [zh_CN]115072
+msgid "税率：{0}"
+msgstr ""
+
+#: [zh_CN]115073
+msgid "{0}获得"
+msgstr ""
+
+#: [zh_CN]115074
+msgid "车辆负重：{0}"
+msgstr ""
+
+#: [zh_CN]115075
+msgid "需要建造市场才能使用资源交易的功能"
+msgstr ""
+
+#: [zh_CN]115076
+msgid "{0}帮助了你"
+msgstr ""
+
+#: [zh_CN]115077
+msgctxt "[zh_CN]115077"
+msgid "联盟帮助"
+msgstr ""
+
+#: [zh_CN]115078
+msgctxt "[zh_CN]115078"
+msgid "帮助"
+msgstr ""
+
+#: [zh_CN]115079
+msgid "帮助所有"
+msgstr ""
+
+#: [zh_CN]115080
+msgid "帮助我研究{0}"
+msgstr ""
+
+#: [zh_CN]115081
+msgid "帮助我恢复伤兵"
+msgstr ""
+
+#: [zh_CN]115082
+msgid "帮助我建造{0}级{1}"
+msgstr ""
+
+#: [zh_CN]115083
+msgid "对方没有开启这种资源，不能进行交易"
+msgstr ""
+
+#: [zh_CN]115084
+msgid "联盟名称修改成功"
+msgstr ""
+
+#: [zh_CN]115085
+msgid "您需要有其他联盟成员才能进行交易"
+msgstr ""
+
+#: [zh_CN]115086
+msgid "点击编辑按钮进行修改"
+msgstr ""
+
+#: [zh_CN]115087
+msgid "您的联盟盟主很懒，什么也没有写"
+msgstr ""
+
+#: [zh_CN]115088
+msgid "您尚未开启这种资源，不能进行交易"
+msgstr ""
+
+#: [zh_CN]115089
+msgid "交易开始，您的商队已出发"
+msgstr ""
+
+#: [zh_CN]115090
+msgid "交易开始，由于您的粮食减少，只发送了{0}粮食"
+msgstr ""
+
+#: [zh_CN]115091
+msgid "暂时没有需要帮助的项目"
+msgstr ""
+
+#: [zh_CN]115092
+msgid "{0}帮助你研究{1}"
+msgstr ""
+
+#: [zh_CN]115093
+msgid "{0}帮助你恢复伤兵"
+msgstr ""
+
+#: [zh_CN]115094
+msgid "{0}帮助你建造{1}级{2}"
+msgstr ""
+
+#: [zh_CN]115095
+msgid "已经向全体盟友请求帮助"
+msgstr ""
+
+#: [zh_CN]115096
+msgid "需要加入联盟才能使用联盟帮助的功能"
+msgstr ""
+
+#: [zh_CN]115097
+msgid "您的联盟已经解散"
+msgstr ""
+
+#: [zh_CN]115098
+msgid "您被踢出了联盟"
+msgstr ""
+
+#: [zh_CN]115099
+msgid "成功退出联盟"
+msgstr ""
+
+#: [zh_CN]115100
+msgid "联盟阶级1"
+msgstr ""
+
+#: [zh_CN]115101
+msgid "联盟阶级2"
+msgstr ""
+
+#: [zh_CN]115102
+msgid "联盟阶级3"
+msgstr ""
+
+#: [zh_CN]115103
+msgid "联盟阶级4"
+msgstr ""
+
+#: [zh_CN]115104
+msgid "联盟阶级5"
+msgstr ""
+
+#: [zh_CN]115105
+msgctxt "[zh_CN]115105"
+msgid "管理"
+msgstr ""
+
+#: [zh_CN]115106
+msgid "成员管理"
+msgstr ""
+
+#: [zh_CN]115107
+msgctxt "[zh_CN]115107"
+msgid "邮件"
+msgstr ""
+
+#: [zh_CN]115108
+msgctxt "[zh_CN]115108"
+msgid "盟主转让"
+msgstr ""
+
+#: [zh_CN]115109
+msgid "提升阶级"
+msgstr ""
+
+#: [zh_CN]115110
+msgid "降低阶级"
+msgstr ""
+
+#: [zh_CN]115111
+msgctxt "[zh_CN]115111"
+msgid "踢出联盟"
+msgstr ""
+
+#: [zh_CN]115112
+msgid "确定要将盟主转让给{0}？"
+msgstr ""
+
+#: [zh_CN]115113
+msgid "{0}把{1}联盟的盟主转让给了{2}"
+msgstr ""
+
+#: [zh_CN]115114
+msgid "是否将{0}的权限等级由R{1}调整为R{2}"
+msgstr ""
+
+#: [zh_CN]115115
+msgid "您的权限等级由{0}调整为R{1}"
+msgstr ""
+
+#: [zh_CN]115116
+msgctxt "[zh_CN]115116"
+msgid "修改联盟旗帜"
+msgstr ""
+
+#: [zh_CN]115117
+msgid "旧的旗帜"
+msgstr ""
+
+#: [zh_CN]115118
+msgid "新的旗帜"
+msgstr ""
+
+#: [zh_CN]115119
+msgid "修改联盟阶级称谓"
+msgstr ""
+
+#: [zh_CN]115120
+msgid "旧的称谓"
+msgstr ""
+
+#: [zh_CN]115121
+msgid "新的称谓"
+msgstr ""
+
+#: [zh_CN]115122
+msgid "新的称谓可以输入3~10个字符，只能是字母、数字或者空格"
+msgstr ""
+
+#: [zh_CN]115123
+msgid "新的联盟阶级称谓修改成功"
+msgstr ""
+
+#: [zh_CN]115124
+msgid "查看联盟"
+msgstr ""
+
+#: [zh_CN]115125
+msgctxt "[zh_CN]115125"
+msgid "同意"
+msgstr ""
+
+#: [zh_CN]115126
+msgctxt "[zh_CN]115126"
+msgid "拒绝"
+msgstr ""
+
+#: [zh_CN]115127
+msgid "需要建造战争大厅才能使用联盟战争的功能"
+msgstr ""
+
+#: [zh_CN]115128
+msgid "需要加入联盟才能使用战争大厅的功能"
+msgstr ""
+
+#: [zh_CN]115129
+msgid "您的联盟很和平，当前没有任何和战争相关的信息"
+msgstr ""
+
+#: [zh_CN]115130
+msgid "集结中：{0}"
+msgstr ""
+
+#: [zh_CN]115131
+msgid "行军中：{0}"
+msgstr ""
+
+#: [zh_CN]115132
+msgid "集结时间"
+msgstr ""
+
+#: [zh_CN]115133
+msgctxt "[zh_CN]115133"
+msgid "分钟"
+msgstr ""
+
+#: [zh_CN]115134
+msgid "您的盟友必须在集结时间结束前将部队派往您的城市，集结时间结束时，整个军团就会开始进军。"
+msgstr ""
+
+#: [zh_CN]115135
+msgid "您必须设置一个集结时间，这样你的盟友才能有充分的行军时间参与到您创建的军团中。"
+msgstr ""
+
+#: [zh_CN]115136
+msgid "集结中"
+msgstr ""
+
+#: [zh_CN]115137
+msgctxt "[zh_CN]115137"
+msgid "查看"
+msgstr ""
+
+#: [zh_CN]115138
+msgid "战争详情"
+msgstr ""
+
+#: [zh_CN]115139
+msgid "我方集结中：{0}"
+msgstr ""
+
+#: [zh_CN]115140
+msgid "进攻部队：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]115141
+msgid "我的部队已经集结完毕"
+msgstr ""
+
+#: [zh_CN]115142
+msgid "加速行军"
+msgstr ""
+
+#: [zh_CN]115143
+msgid "投入兵力：{0}"
+msgstr ""
+
+#: [zh_CN]115144
+msgid "已集结"
+msgstr ""
+
+#: [zh_CN]115145
+msgid "点击加入军团一起打败敌人"
+msgstr ""
+
+#: [zh_CN]115146
+msgid "研究联盟科技可以开启更多的位置"
+msgstr ""
+
+#: [zh_CN]115147
+msgid "对方集结中：{0}"
+msgstr ""
+
+#: [zh_CN]115148
+msgid "防守部队：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]115149
+msgid "城墙援兵：{0}"
+msgstr ""
+
+#: [zh_CN]115150
+msgid "点击加入防守一起打败来犯的敌人"
+msgstr ""
+
+#: [zh_CN]115151
+msgctxt "[zh_CN]115151"
+msgid "士兵援助"
+msgstr ""
+
+#: [zh_CN]115152
+msgid "援助部队的容量"
+msgstr ""
+
+#: [zh_CN]115153
+msgid "派遣士兵帮助你的盟友来守卫他们的城市"
+msgstr ""
+
+#: [zh_CN]115154
+msgid "派遣"
+msgstr ""
+
+#: [zh_CN]115155
+msgid "援兵容纳数量：{0}/{1}"
+msgstr ""
+
+#: [zh_CN]115156
+msgid "援兵数量：{0}"
+msgstr ""
+
+#: [zh_CN]115157
+msgid "遣返"
+msgstr ""
+
+#: [zh_CN]115158
+msgid "只能创建一支联盟进攻队伍"
+msgstr ""
+
+#: [zh_CN]115159
+msgid "联盟科技"
+msgstr ""
+
+#: [zh_CN]115160
+msgid "联盟科技（{0}）"
+msgstr ""
+
+#: [zh_CN]115161
+msgid "第{0}层"
+msgstr ""
+
+#: [zh_CN]115162
+msgid "需要联盟科技（{0}）"
+msgstr ""
+
+#: [zh_CN]115163
+msgid "捐献所需的资源不足，请选择其他选项"
+msgstr ""
+
+#: [zh_CN]115164
+msgid "入盟24小时之内无法进行联盟科技的捐献"
+msgstr ""
+
+#: [zh_CN]115165
+msgctxt "[zh_CN]115165"
+msgid "研究"
+msgstr ""
+
+#: [zh_CN]115900
+msgctxt "[zh_CN]115900"
+msgid "全体邮件"
+msgstr ""
+
+#: [zh_CN]115901
+msgid "查看联盟成员"
+msgstr ""
+
+#: [zh_CN]115902
+msgid "联盟交易"
+msgstr ""
+
+#: [zh_CN]115903
+msgctxt "[zh_CN]115903"
+msgid "联盟帮助"
+msgstr ""
+
+#: [zh_CN]115904
+msgid "查看权限详情"
+msgstr ""
+
+#: [zh_CN]115905
+msgctxt "[zh_CN]115905"
+msgid "修改联盟宣言"
+msgstr ""
+
+#: [zh_CN]115906
+msgid "修改公开招募"
+msgstr ""
+
+#: [zh_CN]115907
+msgctxt "[zh_CN]115907"
+msgid "修改联盟名称"
+msgstr ""
+
+#: [zh_CN]115908
+msgctxt "[zh_CN]115908"
+msgid "修改联盟简称"
+msgstr ""
+
+#: [zh_CN]115909
+msgctxt "[zh_CN]115909"
+msgid "修改联盟旗帜"
+msgstr ""
+
+#: [zh_CN]115910
+msgid "修改阶级称谓"
+msgstr ""
+
+#: [zh_CN]115911
+msgid "编辑联盟公告"
+msgstr ""
+
+#: [zh_CN]115912
+msgid "邀请入盟"
+msgstr ""
+
+#: [zh_CN]115913
+msgctxt "[zh_CN]115913"
+msgid "解散联盟"
+msgstr ""
+
+#: [zh_CN]115914
+msgctxt "[zh_CN]115914"
+msgid "退出联盟"
+msgstr ""
+
+#: [zh_CN]115915
+msgctxt "[zh_CN]115915"
+msgid "踢出联盟"
+msgstr ""
+
+#: [zh_CN]115916
+msgctxt "[zh_CN]115916"
+msgid "盟主转让"
+msgstr ""
+
+#: [zh_CN]115917
+msgid "提升成员阶级"
+msgstr ""
+
+#: [zh_CN]115918
+msgid "降低成员阶级"
+msgstr ""
+
+#: [zh_CN]115919
+msgid "研究联盟科技"
+msgstr ""
+
+#: [zh_CN]116000
+msgid "这个能力是该英雄的特有能力，您确定要遗忘吗？"
+msgstr ""
+
+#: [zh_CN]116001
+msgid "英雄技能2名称"
+msgstr ""
+
+#: [zh_CN]116002
+msgctxt "[zh_CN]116002"
+msgid "横扫"
+msgstr ""
+
+#: [zh_CN]116003
+msgid "英雄技能4名称"
+msgstr ""
+
+#: [zh_CN]117000
+msgid "英雄技能1描述"
+msgstr ""
+
+#: [zh_CN]117001
+msgid "英雄技能2描述"
+msgstr ""
+
+#: [zh_CN]117002
+msgid "攻击周围的三个敌人"
+msgstr ""
+
+#: [zh_CN]117003
+msgid "英雄技能4描述"
+msgstr ""
+
+#: [zh_CN]120000
+msgid "国库"
+msgstr ""
+
+#: [zh_CN]120001
+msgid "利斧"
+msgstr ""
+
+#: [zh_CN]120002
+msgid "轮耕制度"
+msgstr ""
+
+#: [zh_CN]120003
+msgid "地窖"
+msgstr ""
+
+#: [zh_CN]120004
+msgid "双人锯"
+msgstr ""
+
+#: [zh_CN]120005
+msgid "兽耕"
+msgstr ""
+
+#: [zh_CN]120006
+msgid "鼓风炉"
+msgstr ""
+
+#: [zh_CN]120007
+msgid "矿车"
+msgstr ""
+
+#: [zh_CN]120008
+msgid "铁镐"
+msgstr ""
+
+#: [zh_CN]120009
+msgid "秘银提炼"
+msgstr ""
+
+#: [zh_CN]120010
+msgid "黄金提炼"
+msgstr ""
+
+#: [zh_CN]120011
+msgid "高级国库"
+msgstr ""
+
+#: [zh_CN]120012
+msgid "高级利斧"
+msgstr ""
+
+#: [zh_CN]120013
+msgid "高级轮耕制度"
+msgstr ""
+
+#: [zh_CN]120014
+msgid "高级地窖"
+msgstr ""
+
+#: [zh_CN]120015
+msgid "高级双人锯"
+msgstr ""
+
+#: [zh_CN]120016
+msgid "高级兽耕"
+msgstr ""
+
+#: [zh_CN]120017
+msgid "高级鼓风炉"
+msgstr ""
+
+#: [zh_CN]120018
+msgid "高级矿车"
+msgstr ""
+
+#: [zh_CN]120019
+msgid "高级铁镐"
+msgstr ""
+
+#: [zh_CN]120020
+msgid "高级秘银提炼"
+msgstr ""
+
+#: [zh_CN]120021
+msgid "高级黄金提炼"
+msgstr ""
+
+#: [zh_CN]120022
+msgid "木材专家"
+msgstr ""
+
+#: [zh_CN]120023
+msgid "农业专家"
+msgstr ""
+
+#: [zh_CN]120024
+msgid "铁矿专家"
+msgstr ""
+
+#: [zh_CN]120025
+msgid "秘银专家"
+msgstr ""
+
+#: [zh_CN]120026
+msgid "辎重车"
+msgstr ""
+
+#: [zh_CN]120027
+msgid "悬赏"
+msgstr ""
+
+#: [zh_CN]120028
+msgid "航海术"
+msgstr ""
+
+#: [zh_CN]120029
+msgid "土木工程"
+msgstr ""
+
+#: [zh_CN]120030
+msgid "压缩干粮"
+msgstr ""
+
+#: [zh_CN]120031
+msgid "医疗设施"
+msgstr ""
+
+#: [zh_CN]120032
+msgid "草药学"
+msgstr ""
+
+#: [zh_CN]120033
+msgid "高级辎重车"
+msgstr ""
+
+#: [zh_CN]120034
+msgid "高级悬赏"
+msgstr ""
+
+#: [zh_CN]120035
+msgid "高级航海术"
+msgstr ""
+
+#: [zh_CN]120036
+msgid "高级土木工程"
+msgstr ""
+
+#: [zh_CN]120037
+msgid "高级压缩干粮"
+msgstr ""
+
+#: [zh_CN]120038
+msgid "高级医疗设施"
+msgstr ""
+
+#: [zh_CN]120039
+msgid "高级草药学"
+msgstr ""
+
+#: [zh_CN]120040
+msgid "加固城墙"
+msgstr ""
+
+#: [zh_CN]120041
+msgid "射击孔"
+msgstr ""
+
+#: [zh_CN]120042
+msgid "城垛"
+msgstr ""
+
+#: [zh_CN]120043
+msgid "陷阱威力"
+msgstr ""
+
+#: [zh_CN]120044
+msgid "城防学"
+msgstr ""
+
+#: [zh_CN]120045
+msgctxt "[zh_CN]120045"
+msgid "开采"
+msgstr ""
+
+#: [zh_CN]120046
+msgid "火油"
+msgstr ""
+
+#: [zh_CN]120047
+msgid "巨木"
+msgstr ""
+
+#: [zh_CN]120048
+msgid "起重机"
+msgstr ""
+
+#: [zh_CN]120049
+msgid "急救术"
+msgstr ""
+
+#: [zh_CN]120050
+msgid "高级加固城墙"
+msgstr ""
+
+#: [zh_CN]120051
+msgid "高级射击孔"
+msgstr ""
+
+#: [zh_CN]120052
+msgid "高级城垛"
+msgstr ""
+
+#: [zh_CN]120053
+msgid "高级陷阱威力"
+msgstr ""
+
+#: [zh_CN]120054
+msgid "高级城防学"
+msgstr ""
+
+#: [zh_CN]120055
+msgid "高级碎石"
+msgstr ""
+
+#: [zh_CN]120056
+msgid "高级火油"
+msgstr ""
+
+#: [zh_CN]120057
+msgid "高级巨木"
+msgstr ""
+
+#: [zh_CN]120058
+msgid "高级起重机"
+msgstr ""
+
+#: [zh_CN]120059
+msgid "高级急救术"
+msgstr ""
+
+#: [zh_CN]120060
+msgctxt "[zh_CN]120060"
+msgid "募兵术"
+msgstr ""
+
+#: [zh_CN]120061
+msgid "剑术"
+msgstr ""
+
+#: [zh_CN]120062
+msgctxt "[zh_CN]120062"
+msgid "骑术"
+msgstr ""
+
+#: [zh_CN]120063
+msgid "箭术"
+msgstr ""
+
+#: [zh_CN]120064
+msgid "车术"
+msgstr ""
+
+#: [zh_CN]120065
+msgid "制图学"
+msgstr ""
+
+#: [zh_CN]120066
+msgid "鳞甲"
+msgstr ""
+
+#: [zh_CN]120067
+msgid "板甲"
+msgstr ""
+
+#: [zh_CN]120068
+msgid "锁甲"
+msgstr ""
+
+#: [zh_CN]120069
+msgid "装甲"
+msgstr ""
+
+#: [zh_CN]120070
+msgid "军团"
+msgstr ""
+
+#: [zh_CN]120071
+msgctxt "[zh_CN]120071"
+msgid "步兵体魄"
+msgstr ""
+
+#: [zh_CN]120072
+msgctxt "[zh_CN]120072"
+msgid "骑兵体魄"
+msgstr ""
+
+#: [zh_CN]120073
+msgid "弓兵体魄"
+msgstr ""
+
+#: [zh_CN]120074
+msgid "车兵体魄"
+msgstr ""
+
+#: [zh_CN]120075
+msgid "领导力"
+msgstr ""
+
+#: [zh_CN]120076
+msgid "中级军团"
+msgstr ""
+
+#: [zh_CN]120077
+msgid "中级剑术"
+msgstr ""
+
+#: [zh_CN]120078
+msgid "中级骑术"
+msgstr ""
+
+#: [zh_CN]120079
+msgid "中级箭术"
+msgstr ""
+
+#: [zh_CN]120080
+msgid "中级车术"
+msgstr ""
+
+#: [zh_CN]120081
+msgid "中级募兵术"
+msgstr ""
+
+#: [zh_CN]120082
+msgid "中级鳞甲"
+msgstr ""
+
+#: [zh_CN]120083
+msgid "中级板甲"
+msgstr ""
+
+#: [zh_CN]120084
+msgid "中级锁甲"
+msgstr ""
+
+#: [zh_CN]120085
+msgid "中级装甲"
+msgstr ""
+
+#: [zh_CN]120086
+msgid "中级制图学"
+msgstr ""
+
+#: [zh_CN]120087
+msgid "中级步兵体魄"
+msgstr ""
+
+#: [zh_CN]120088
+msgid "中级骑兵体魄"
+msgstr ""
+
+#: [zh_CN]120089
+msgid "中级弓兵体魄"
+msgstr ""
+
+#: [zh_CN]120090
+msgid "中级车兵体魄"
+msgstr ""
+
+#: [zh_CN]120091
+msgid "中级领导力"
+msgstr ""
+
+#: [zh_CN]120092
+msgid "高级军团"
+msgstr ""
+
+#: [zh_CN]120093
+msgid "高级剑术"
+msgstr ""
+
+#: [zh_CN]120094
+msgid "高级骑术"
+msgstr ""
+
+#: [zh_CN]120095
+msgid "高级箭术"
+msgstr ""
+
+#: [zh_CN]120096
+msgid "高级车术"
+msgstr ""
+
+#: [zh_CN]120097
+msgid "高级募兵术"
+msgstr ""
+
+#: [zh_CN]120098
+msgid "高级鳞甲"
+msgstr ""
+
+#: [zh_CN]120099
+msgid "高级板甲"
+msgstr ""
+
+#: [zh_CN]120100
+msgid "高级锁甲"
+msgstr ""
+
+#: [zh_CN]120101
+msgid "高级装甲"
+msgstr ""
+
+#: [zh_CN]120102
+msgid "高级制图学"
+msgstr ""
+
+#: [zh_CN]120103
+msgid "高级步兵体魄"
+msgstr ""
+
+#: [zh_CN]120104
+msgid "高级骑兵体魄"
+msgstr ""
+
+#: [zh_CN]120105
+msgid "高级弓兵体魄"
+msgstr ""
+
+#: [zh_CN]120106
+msgid "高级车兵体魄"
+msgstr ""
+
+#: [zh_CN]120107
+msgid "高级领导力"
+msgstr ""
+
+#: [zh_CN]120108
+msgid "终极军团"
+msgstr ""
+
+#: [zh_CN]120109
+msgctxt "[zh_CN]120109"
+msgid "民兵晋升"
+msgstr ""
+
+#: [zh_CN]120110
+msgctxt "[zh_CN]120110"
+msgid "骑手晋升"
+msgstr ""
+
+#: [zh_CN]120111
+msgctxt "[zh_CN]120111"
+msgid "短弓手晋升"
+msgstr ""
+
+#: [zh_CN]120112
+msgctxt "[zh_CN]120112"
+msgid "投石器晋升"
+msgstr ""
+
+#: [zh_CN]120113
+msgctxt "[zh_CN]120113"
+msgid "步兵晋升"
+msgstr ""
+
+#: [zh_CN]120114
+msgctxt "[zh_CN]120114"
+msgid "轻骑兵晋升"
+msgstr ""
+
+#: [zh_CN]120115
+msgctxt "[zh_CN]120115"
+msgid "长弓手晋升"
+msgstr ""
+
+#: [zh_CN]120116
+msgctxt "[zh_CN]120116"
+msgid "冲车晋升"
+msgstr ""
+
+#: [zh_CN]120117
+msgctxt "[zh_CN]120117"
+msgid "矛手晋升"
+msgstr ""
+
+#: [zh_CN]120118
+msgctxt "[zh_CN]120118"
+msgid "重骑兵晋升"
+msgstr ""
+
+#: [zh_CN]120119
+msgctxt "[zh_CN]120119"
+msgid "弩手晋升"
+msgstr ""
+
+#: [zh_CN]120120
+msgctxt "[zh_CN]120120"
+msgid "投石车晋升"
+msgstr ""
+
+#: [zh_CN]120121
+msgctxt "[zh_CN]120121"
+msgid "剑士晋升"
+msgstr ""
+
+#: [zh_CN]120122
+msgctxt "[zh_CN]120122"
+msgid "弓骑兵晋升"
+msgstr ""
+
+#: [zh_CN]120123
+msgctxt "[zh_CN]120123"
+msgid "劲弩手晋升"
+msgstr ""
+
+#: [zh_CN]120124
+msgctxt "[zh_CN]120124"
+msgid "攻城锤晋升"
+msgstr ""
+
+#: [zh_CN]120125
+msgctxt "[zh_CN]120125"
+msgid "枪兵晋升"
+msgstr ""
+
+#: [zh_CN]120126
+msgctxt "[zh_CN]120126"
+msgid "骑射手晋升"
+msgstr ""
+
+#: [zh_CN]120127
+msgctxt "[zh_CN]120127"
+msgid "精锐长弓手晋升"
+msgstr ""
+
+#: [zh_CN]120128
+msgctxt "[zh_CN]120128"
+msgid "重型投石车晋升"
+msgstr ""
+
+#: [zh_CN]120129
+msgctxt "[zh_CN]120129"
+msgid "贵族剑士晋升"
+msgstr ""
+
+#: [zh_CN]120130
+msgctxt "[zh_CN]120130"
+msgid "圣殿骑士晋升"
+msgstr ""
+
+#: [zh_CN]120131
+msgctxt "[zh_CN]120131"
+msgid "护卫射手晋升"
+msgstr ""
+
+#: [zh_CN]120132
+msgctxt "[zh_CN]120132"
+msgid "攻城车晋升"
+msgstr ""
+
+#: [zh_CN]120133
+msgctxt "[zh_CN]120133"
+msgid "近卫军晋升"
+msgstr ""
+
+#: [zh_CN]120134
+msgctxt "[zh_CN]120134"
+msgid "重装骑射手晋升"
+msgstr ""
+
+#: [zh_CN]120135
+msgctxt "[zh_CN]120135"
+msgid "重弩手晋升"
+msgstr ""
+
+#: [zh_CN]120136
+msgctxt "[zh_CN]120136"
+msgid "抛石机晋升"
+msgstr ""
+
+#: [zh_CN]120137
+msgctxt "[zh_CN]120137"
+msgid "重装长枪兵晋升"
+msgstr ""
+
+#: [zh_CN]120138
+msgctxt "[zh_CN]120138"
+msgid "皇家骑士晋升"
+msgstr ""
+
+#: [zh_CN]120139
+msgctxt "[zh_CN]120139"
+msgid "雄鹰射手晋升"
+msgstr ""
+
+#: [zh_CN]120140
+msgctxt "[zh_CN]120140"
+msgid "弩炮晋升"
+msgstr ""
+
+#: [zh_CN]120141
+msgctxt "[zh_CN]120141"
+msgid "戟兵晋升"
+msgstr ""
+
+#: [zh_CN]120142
+msgctxt "[zh_CN]120142"
+msgid "突骑射手晋升"
+msgstr ""
+
+#: [zh_CN]120143
+msgctxt "[zh_CN]120143"
+msgid "巨弩手晋升"
+msgstr ""
+
+#: [zh_CN]120144
+msgctxt "[zh_CN]120144"
+msgid "攻城塔晋升"
+msgstr ""
+
+#: [zh_CN]120145
+msgctxt "[zh_CN]120145"
+msgid "狂战士晋升"
+msgstr ""
+
+#: [zh_CN]120146
+msgctxt "[zh_CN]120146"
+msgid "战象晋升"
+msgstr ""
+
+#: [zh_CN]120147
+msgctxt "[zh_CN]120147"
+msgid "神射手晋升"
+msgstr ""
+
+#: [zh_CN]120148
+msgctxt "[zh_CN]120148"
+msgid "火炮晋升"
+msgstr ""
+
+#: [zh_CN]121000
+msgctxt "[zh_CN]121000"
+msgid "资源存储上限增加"
+msgstr ""
+
+#: [zh_CN]121001
+msgctxt "[zh_CN]121001"
+msgid "木材生产率提高"
+msgstr ""
+
+#: [zh_CN]121002
+msgctxt "[zh_CN]121002"
+msgid "粮食生产率提高"
+msgstr ""
+
+#: [zh_CN]121003
+msgctxt "[zh_CN]121003"
+msgid "地窖保护资源增加"
+msgstr ""
+
+#: [zh_CN]121004
+msgctxt "[zh_CN]121004"
+msgid "木材采集速度增快"
+msgstr ""
+
+#: [zh_CN]121005
+msgctxt "[zh_CN]121005"
+msgid "粮食采集速度增快"
+msgstr ""
+
+#: [zh_CN]121006
+msgctxt "[zh_CN]121006"
+msgid "铁矿生产率提高"
+msgstr ""
+
+#: [zh_CN]121007
+msgctxt "[zh_CN]121007"
+msgid "铁矿采集速度增快"
+msgstr ""
+
+#: [zh_CN]121008
+msgctxt "[zh_CN]121008"
+msgid "秘银生产率提高"
+msgstr ""
+
+#: [zh_CN]121009
+msgctxt "[zh_CN]121009"
+msgid "秘银采集速度增快"
+msgstr ""
+
+#: [zh_CN]121010
+msgctxt "[zh_CN]121010"
+msgid "金币采集速度增加"
+msgstr ""
+
+#: [zh_CN]121011
+msgctxt "[zh_CN]121011"
+msgid "资源存储上限增加"
+msgstr ""
+
+#: [zh_CN]121012
+msgctxt "[zh_CN]121012"
+msgid "木材生产率提高"
+msgstr ""
+
+#: [zh_CN]121013
+msgctxt "[zh_CN]121013"
+msgid "粮食生产率提高"
+msgstr ""
+
+#: [zh_CN]121014
+msgctxt "[zh_CN]121014"
+msgid "地窖保护资源增加"
+msgstr ""
+
+#: [zh_CN]121015
+msgctxt "[zh_CN]121015"
+msgid "木材采集速度增快"
+msgstr ""
+
+#: [zh_CN]121016
+msgctxt "[zh_CN]121016"
+msgid "粮食采集速度增快"
+msgstr ""
+
+#: [zh_CN]121017
+msgctxt "[zh_CN]121017"
+msgid "铁矿生产率提高"
+msgstr ""
+
+#: [zh_CN]121018
+msgctxt "[zh_CN]121018"
+msgid "铁矿采集速度增快"
+msgstr ""
+
+#: [zh_CN]121019
+msgctxt "[zh_CN]121019"
+msgid "秘银生产率提高"
+msgstr ""
+
+#: [zh_CN]121020
+msgctxt "[zh_CN]121020"
+msgid "秘银采集速度增快"
+msgstr ""
+
+#: [zh_CN]121021
+msgctxt "[zh_CN]121021"
+msgid "金币采集速度增加"
+msgstr ""
+
+#: [zh_CN]121022
+msgid "木材消耗减少"
+msgstr ""
+
+#: [zh_CN]121023
+msgctxt "[zh_CN]121023"
+msgid "粮食消耗减少"
+msgstr ""
+
+#: [zh_CN]121024
+msgid "铁矿消耗减少"
+msgstr ""
+
+#: [zh_CN]121025
+msgid "秘银消耗减少"
+msgstr ""
+
+#: [zh_CN]121026
+msgctxt "[zh_CN]121026"
+msgid "部队负重提高"
+msgstr ""
+
+#: [zh_CN]121027
+msgctxt "[zh_CN]121027"
+msgid "任务奖励提高"
+msgstr ""
+
+#: [zh_CN]121028
+msgctxt "[zh_CN]121028"
+msgid "时间礼包间隔缩短"
+msgstr ""
+
+#: [zh_CN]121029
+msgctxt "[zh_CN]121029"
+msgid "建筑建造速度加快"
+msgstr ""
+
+#: [zh_CN]121030
+msgctxt "[zh_CN]121030"
+msgid "部队消耗粮食降低"
+msgstr ""
+
+#: [zh_CN]121031
+msgctxt "[zh_CN]121031"
+msgid "伤兵数量上限提高"
+msgstr ""
+
+#: [zh_CN]121032
+msgctxt "[zh_CN]121032"
+msgid "伤兵回复速度加快"
+msgstr ""
+
+#: [zh_CN]121033
+msgctxt "[zh_CN]121033"
+msgid "部队负重提高"
+msgstr ""
+
+#: [zh_CN]121034
+msgctxt "[zh_CN]121034"
+msgid "任务奖励提高"
+msgstr ""
+
+#: [zh_CN]121035
+msgctxt "[zh_CN]121035"
+msgid "时间礼包间隔缩短"
+msgstr ""
+
+#: [zh_CN]121036
+msgctxt "[zh_CN]121036"
+msgid "建筑建造速度加快"
+msgstr ""
+
+#: [zh_CN]121037
+msgctxt "[zh_CN]121037"
+msgid "部队消耗粮食降低"
+msgstr ""
+
+#: [zh_CN]121038
+msgctxt "[zh_CN]121038"
+msgid "伤兵数量上限提高"
+msgstr ""
+
+#: [zh_CN]121039
+msgctxt "[zh_CN]121039"
+msgid "伤兵回复速度加快"
+msgstr ""
+
+#: [zh_CN]121040
+msgctxt "[zh_CN]121040"
+msgid "城防值增加"
+msgstr ""
+
+#: [zh_CN]121041
+msgctxt "[zh_CN]121041"
+msgid "守军攻击增加"
+msgstr ""
+
+#: [zh_CN]121042
+msgctxt "[zh_CN]121042"
+msgid "守军防御增加"
+msgstr ""
+
+#: [zh_CN]121043
+msgctxt "[zh_CN]121043"
+msgid "陷进攻击增加"
+msgstr ""
+
+#: [zh_CN]121044
+msgctxt "[zh_CN]121044"
+msgid "陷阱上限增加"
+msgstr ""
+
+#: [zh_CN]121045
+msgctxt "[zh_CN]121045"
+msgid "落石对步兵伤害提高"
+msgstr ""
+
+#: [zh_CN]121046
+msgctxt "[zh_CN]121046"
+msgid "火箭对骑兵伤害提高"
+msgstr ""
+
+#: [zh_CN]121047
+msgctxt "[zh_CN]121047"
+msgid "滚木对弓兵伤害提高"
+msgstr ""
+
+#: [zh_CN]121048
+msgctxt "[zh_CN]121048"
+msgid "陷阱建造速度加快"
+msgstr ""
+
+#: [zh_CN]121049
+msgctxt "[zh_CN]121049"
+msgid "出征战斗中，损失的士兵一定比例转化为伤兵"
+msgstr ""
+
+#: [zh_CN]121050
+msgctxt "[zh_CN]121050"
+msgid "城防值增加"
+msgstr ""
+
+#: [zh_CN]121051
+msgctxt "[zh_CN]121051"
+msgid "守军攻击增加"
+msgstr ""
+
+#: [zh_CN]121052
+msgctxt "[zh_CN]121052"
+msgid "守军防御增加"
+msgstr ""
+
+#: [zh_CN]121053
+msgctxt "[zh_CN]121053"
+msgid "陷进攻击增加"
+msgstr ""
+
+#: [zh_CN]121054
+msgctxt "[zh_CN]121054"
+msgid "陷阱上限增加"
+msgstr ""
+
+#: [zh_CN]121055
+msgctxt "[zh_CN]121055"
+msgid "落石对步兵伤害提高"
+msgstr ""
+
+#: [zh_CN]121056
+msgctxt "[zh_CN]121056"
+msgid "火箭对骑兵伤害提高"
+msgstr ""
+
+#: [zh_CN]121057
+msgctxt "[zh_CN]121057"
+msgid "滚木对弓兵伤害提高"
+msgstr ""
+
+#: [zh_CN]121058
+msgctxt "[zh_CN]121058"
+msgid "陷阱建造速度加快"
+msgstr ""
+
+#: [zh_CN]121059
+msgctxt "[zh_CN]121059"
+msgid "出征战斗中，损失的士兵一定比例转化为伤兵"
+msgstr ""
+
+#: [zh_CN]121060
+msgctxt "[zh_CN]121060"
+msgid "士兵训练速度增加"
+msgstr ""
+
+#: [zh_CN]121061
+msgctxt "[zh_CN]121061"
+msgid "步兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121062
+msgctxt "[zh_CN]121062"
+msgid "骑兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121063
+msgctxt "[zh_CN]121063"
+msgid "弓兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121064
+msgctxt "[zh_CN]121064"
+msgid "车兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121065
+msgctxt "[zh_CN]121065"
+msgid "行军速度提高"
+msgstr ""
+
+#: [zh_CN]121066
+msgctxt "[zh_CN]121066"
+msgid "步兵防御提高"
+msgstr ""
+
+#: [zh_CN]121067
+msgctxt "[zh_CN]121067"
+msgid "骑兵防御提高"
+msgstr ""
+
+#: [zh_CN]121068
+msgctxt "[zh_CN]121068"
+msgid "弓兵防御提高"
+msgstr ""
+
+#: [zh_CN]121069
+msgctxt "[zh_CN]121069"
+msgid "车兵防御提高"
+msgstr ""
+
+#: [zh_CN]121070
+msgctxt "[zh_CN]121070"
+msgid "出征部队上限增加1支"
+msgstr ""
+
+#: [zh_CN]121071
+msgctxt "[zh_CN]121071"
+msgid "步兵生命提高"
+msgstr ""
+
+#: [zh_CN]121072
+msgctxt "[zh_CN]121072"
+msgid "骑兵生命提高"
+msgstr ""
+
+#: [zh_CN]121073
+msgctxt "[zh_CN]121073"
+msgid "弓兵生命提高"
+msgstr ""
+
+#: [zh_CN]121074
+msgctxt "[zh_CN]121074"
+msgid "车兵生命提高"
+msgstr ""
+
+#: [zh_CN]121075
+msgctxt "[zh_CN]121075"
+msgid "单支部队兵力上限增加"
+msgstr ""
+
+#: [zh_CN]121076
+msgctxt "[zh_CN]121076"
+msgid "出征部队上限增加1支"
+msgstr ""
+
+#: [zh_CN]121077
+msgctxt "[zh_CN]121077"
+msgid "步兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121078
+msgctxt "[zh_CN]121078"
+msgid "骑兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121079
+msgctxt "[zh_CN]121079"
+msgid "弓兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121080
+msgctxt "[zh_CN]121080"
+msgid "车兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121081
+msgctxt "[zh_CN]121081"
+msgid "士兵训练速度增加"
+msgstr ""
+
+#: [zh_CN]121082
+msgctxt "[zh_CN]121082"
+msgid "步兵防御提高"
+msgstr ""
+
+#: [zh_CN]121083
+msgctxt "[zh_CN]121083"
+msgid "骑兵防御提高"
+msgstr ""
+
+#: [zh_CN]121084
+msgctxt "[zh_CN]121084"
+msgid "弓兵防御提高"
+msgstr ""
+
+#: [zh_CN]121085
+msgctxt "[zh_CN]121085"
+msgid "车兵防御提高"
+msgstr ""
+
+#: [zh_CN]121086
+msgctxt "[zh_CN]121086"
+msgid "行军速度提高"
+msgstr ""
+
+#: [zh_CN]121087
+msgctxt "[zh_CN]121087"
+msgid "步兵生命提高"
+msgstr ""
+
+#: [zh_CN]121088
+msgctxt "[zh_CN]121088"
+msgid "骑兵生命提高"
+msgstr ""
+
+#: [zh_CN]121089
+msgctxt "[zh_CN]121089"
+msgid "弓兵生命提高"
+msgstr ""
+
+#: [zh_CN]121090
+msgctxt "[zh_CN]121090"
+msgid "车兵生命提高"
+msgstr ""
+
+#: [zh_CN]121091
+msgctxt "[zh_CN]121091"
+msgid "单支部队兵力上限增加"
+msgstr ""
+
+#: [zh_CN]121092
+msgctxt "[zh_CN]121092"
+msgid "出征部队上限增加1支"
+msgstr ""
+
+#: [zh_CN]121093
+msgctxt "[zh_CN]121093"
+msgid "步兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121094
+msgctxt "[zh_CN]121094"
+msgid "骑兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121095
+msgctxt "[zh_CN]121095"
+msgid "弓兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121096
+msgctxt "[zh_CN]121096"
+msgid "车兵攻击提高"
+msgstr ""
+
+#: [zh_CN]121097
+msgctxt "[zh_CN]121097"
+msgid "士兵训练速度增加"
+msgstr ""
+
+#: [zh_CN]121098
+msgctxt "[zh_CN]121098"
+msgid "步兵防御提高"
+msgstr ""
+
+#: [zh_CN]121099
+msgctxt "[zh_CN]121099"
+msgid "骑兵防御提高"
+msgstr ""
+
+#: [zh_CN]121100
+msgctxt "[zh_CN]121100"
+msgid "弓兵防御提高"
+msgstr ""
+
+#: [zh_CN]121101
+msgctxt "[zh_CN]121101"
+msgid "车兵防御提高"
+msgstr ""
+
+#: [zh_CN]121102
+msgctxt "[zh_CN]121102"
+msgid "行军速度提高"
+msgstr ""
+
+#: [zh_CN]121103
+msgctxt "[zh_CN]121103"
+msgid "步兵生命提高"
+msgstr ""
+
+#: [zh_CN]121104
+msgctxt "[zh_CN]121104"
+msgid "骑兵生命提高"
+msgstr ""
+
+#: [zh_CN]121105
+msgctxt "[zh_CN]121105"
+msgid "弓兵生命提高"
+msgstr ""
+
+#: [zh_CN]121106
+msgctxt "[zh_CN]121106"
+msgid "车兵生命提高"
+msgstr ""
+
+#: [zh_CN]121107
+msgctxt "[zh_CN]121107"
+msgid "单支部队兵力上限增加"
+msgstr ""
+
+#: [zh_CN]121108
+msgctxt "[zh_CN]121108"
+msgid "出征部队上限增加1支"
+msgstr ""
+
+#: [zh_CN]121109
+msgctxt "[zh_CN]121109"
+msgid "民兵晋升"
+msgstr ""
+
+#: [zh_CN]121110
+msgctxt "[zh_CN]121110"
+msgid "骑手晋升"
+msgstr ""
+
+#: [zh_CN]121111
+msgctxt "[zh_CN]121111"
+msgid "短弓手晋升"
+msgstr ""
+
+#: [zh_CN]121112
+msgctxt "[zh_CN]121112"
+msgid "投石器晋升"
+msgstr ""
+
+#: [zh_CN]121113
+msgctxt "[zh_CN]121113"
+msgid "步兵晋升"
+msgstr ""
+
+#: [zh_CN]121114
+msgctxt "[zh_CN]121114"
+msgid "轻骑兵晋升"
+msgstr ""
+
+#: [zh_CN]121115
+msgctxt "[zh_CN]121115"
+msgid "长弓手晋升"
+msgstr ""
+
+#: [zh_CN]121116
+msgctxt "[zh_CN]121116"
+msgid "冲车晋升"
+msgstr ""
+
+#: [zh_CN]121117
+msgctxt "[zh_CN]121117"
+msgid "矛手晋升"
+msgstr ""
+
+#: [zh_CN]121118
+msgctxt "[zh_CN]121118"
+msgid "重骑兵晋升"
+msgstr ""
+
+#: [zh_CN]121119
+msgctxt "[zh_CN]121119"
+msgid "弩手晋升"
+msgstr ""
+
+#: [zh_CN]121120
+msgctxt "[zh_CN]121120"
+msgid "投石车晋升"
+msgstr ""
+
+#: [zh_CN]121121
+msgctxt "[zh_CN]121121"
+msgid "剑士晋升"
+msgstr ""
+
+#: [zh_CN]121122
+msgctxt "[zh_CN]121122"
+msgid "弓骑兵晋升"
+msgstr ""
+
+#: [zh_CN]121123
+msgctxt "[zh_CN]121123"
+msgid "劲弩手晋升"
+msgstr ""
+
+#: [zh_CN]121124
+msgctxt "[zh_CN]121124"
+msgid "攻城锤晋升"
+msgstr ""
+
+#: [zh_CN]121125
+msgctxt "[zh_CN]121125"
+msgid "枪兵晋升"
+msgstr ""
+
+#: [zh_CN]121126
+msgctxt "[zh_CN]121126"
+msgid "骑射手晋升"
+msgstr ""
+
+#: [zh_CN]121127
+msgctxt "[zh_CN]121127"
+msgid "精锐长弓手晋升"
+msgstr ""
+
+#: [zh_CN]121128
+msgctxt "[zh_CN]121128"
+msgid "重型投石车晋升"
+msgstr ""
+
+#: [zh_CN]121129
+msgctxt "[zh_CN]121129"
+msgid "贵族剑士晋升"
+msgstr ""
+
+#: [zh_CN]121130
+msgctxt "[zh_CN]121130"
+msgid "圣殿骑士晋升"
+msgstr ""
+
+#: [zh_CN]121131
+msgctxt "[zh_CN]121131"
+msgid "护卫射手晋升"
+msgstr ""
+
+#: [zh_CN]121132
+msgctxt "[zh_CN]121132"
+msgid "攻城车晋升"
+msgstr ""
+
+#: [zh_CN]121133
+msgctxt "[zh_CN]121133"
+msgid "近卫军晋升"
+msgstr ""
+
+#: [zh_CN]121134
+msgctxt "[zh_CN]121134"
+msgid "重装骑射手晋升"
+msgstr ""
+
+#: [zh_CN]121135
+msgctxt "[zh_CN]121135"
+msgid "重弩手晋升"
+msgstr ""
+
+#: [zh_CN]121136
+msgctxt "[zh_CN]121136"
+msgid "抛石机晋升"
+msgstr ""
+
+#: [zh_CN]121137
+msgctxt "[zh_CN]121137"
+msgid "重装长枪兵晋升"
+msgstr ""
+
+#: [zh_CN]121138
+msgctxt "[zh_CN]121138"
+msgid "皇家骑士晋升"
+msgstr ""
+
+#: [zh_CN]121139
+msgctxt "[zh_CN]121139"
+msgid "雄鹰射手晋升"
+msgstr ""
+
+#: [zh_CN]121140
+msgctxt "[zh_CN]121140"
+msgid "弩炮晋升"
+msgstr ""
+
+#: [zh_CN]121141
+msgctxt "[zh_CN]121141"
+msgid "戟兵晋升"
+msgstr ""
+
+#: [zh_CN]121142
+msgctxt "[zh_CN]121142"
+msgid "突骑射手晋升"
+msgstr ""
+
+#: [zh_CN]121143
+msgctxt "[zh_CN]121143"
+msgid "巨弩手晋升"
+msgstr ""
+
+#: [zh_CN]121144
+msgctxt "[zh_CN]121144"
+msgid "攻城塔晋升"
+msgstr ""
+
+#: [zh_CN]121145
+msgctxt "[zh_CN]121145"
+msgid "狂战士晋升"
+msgstr ""
+
+#: [zh_CN]121146
+msgctxt "[zh_CN]121146"
+msgid "战象晋升"
+msgstr ""
+
+#: [zh_CN]121147
+msgctxt "[zh_CN]121147"
+msgid "神射手晋升"
+msgstr ""
+
+#: [zh_CN]121148
+msgctxt "[zh_CN]121148"
+msgid "火炮晋升"
+msgstr ""
+
+#: [zh_CN]121986
+msgid "领主大人，当前有科技正在升级，您可以加速升级后再来升级本科技！"
+msgstr ""
+
+#: [zh_CN]121987
+msgid "已达最高级"
+msgstr ""
+
+#: [zh_CN]121988
+msgctxt "[zh_CN]121988"
+msgid "研究中"
+msgstr ""
+
+#: [zh_CN]121989
+msgid "需要科技：{0} Lv.{1}"
+msgstr ""
+
+#: [zh_CN]121990
+msgid "升级科技可以使你的帝国更加强大！"
+msgstr ""
+
+#: [zh_CN]121991
+msgid "军事技术"
+msgstr ""
+
+#: [zh_CN]121992
+msgctxt "[zh_CN]121992"
+msgid "兵种"
+msgstr ""
+
+#: [zh_CN]121993
+msgctxt "[zh_CN]121993"
+msgid "研究中"
+msgstr ""
+
+#: [zh_CN]121994
+msgctxt "[zh_CN]121994"
+msgid "研究"
+msgstr ""
+
+#: [zh_CN]121995
+msgid "当前等级：{0}"
+msgstr ""
+
+#: [zh_CN]121996
+msgid "下一等级：{0}"
+msgstr ""
+
+#: [zh_CN]121997
+msgctxt "[zh_CN]121997"
+msgid "资源"
+msgstr ""
+
+#: [zh_CN]121998
+msgid "城市发展"
+msgstr ""
+
+#: [zh_CN]121999
+msgid "城防"
+msgstr ""
+
+#: [zh_CN]122000
+msgctxt "[zh_CN]122000"
+msgid "进攻术"
+msgstr ""
+
+#: [zh_CN]122001
+msgctxt "[zh_CN]122001"
+msgid "防御术"
+msgstr ""
+
+#: [zh_CN]122002
+msgctxt "[zh_CN]122002"
+msgid "募兵术"
+msgstr ""
+
+#: [zh_CN]122003
+msgctxt "[zh_CN]122003"
+msgid "采集术"
+msgstr ""
+
+#: [zh_CN]122004
+msgctxt "[zh_CN]122004"
+msgid "寻宝术"
+msgstr ""
+
+#: [zh_CN]122005
+msgctxt "[zh_CN]122005"
+msgid "生产术"
+msgstr ""
+
+#: [zh_CN]122006
+msgctxt "[zh_CN]122006"
+msgid "机关术"
+msgstr ""
+
+#: [zh_CN]122007
+msgctxt "[zh_CN]122007"
+msgid "克敌术"
+msgstr ""
+
+#: [zh_CN]122008
+msgctxt "[zh_CN]122008"
+msgid "盾术"
+msgstr ""
+
+#: [zh_CN]122009
+msgid "枪术"
+msgstr ""
+
+#: [zh_CN]122010
+msgctxt "[zh_CN]122010"
+msgid "骑术"
+msgstr ""
+
+#: [zh_CN]122011
+msgctxt "[zh_CN]122011"
+msgid "骑射术"
+msgstr ""
+
+#: [zh_CN]122012
+msgctxt "[zh_CN]122012"
+msgid "弓术"
+msgstr ""
+
+#: [zh_CN]122013
+msgctxt "[zh_CN]122013"
+msgid "弩术"
+msgstr ""
+
+#: [zh_CN]122014
+msgctxt "[zh_CN]122014"
+msgid "投石术"
+msgstr ""
+
+#: [zh_CN]122015
+msgid "冲车术"
+msgstr ""
+
+#: [zh_CN]122016
+msgctxt "[zh_CN]122016"
+msgid "伏击"
+msgstr ""
+
+#: [zh_CN]122017
+msgctxt "[zh_CN]122017"
+msgid "冲刺"
+msgstr ""
+
+#: [zh_CN]122018
+msgctxt "[zh_CN]122018"
+msgid "迂回"
+msgstr ""
+
+#: [zh_CN]122019
+msgctxt "[zh_CN]122019"
+msgid "骑射"
+msgstr ""
+
+#: [zh_CN]122020
+msgctxt "[zh_CN]122020"
+msgid "火矢"
+msgstr ""
+
+#: [zh_CN]122021
+msgctxt "[zh_CN]122021"
+msgid "连射"
+msgstr ""
+
+#: [zh_CN]122022
+msgctxt "[zh_CN]122022"
+msgid "巨石"
+msgstr ""
+
+#: [zh_CN]122023
+msgctxt "[zh_CN]122023"
+msgid "陷阵"
+msgstr ""
+
+#: [zh_CN]122024
+msgid "虎啸"
+msgstr ""
+
+#: [zh_CN]122025
+msgctxt "[zh_CN]122025"
+msgid "擂鼓"
+msgstr ""
+
+#: [zh_CN]122026
+msgctxt "[zh_CN]122026"
+msgid "狂暴"
+msgstr ""
+
+#: [zh_CN]122027
+msgctxt "[zh_CN]122027"
+msgid "强健"
+msgstr ""
+
+#: [zh_CN]122028
+msgctxt "[zh_CN]122028"
+msgid "敏捷"
+msgstr ""
+
+#: [zh_CN]122029
+msgid "进攻大师"
+msgstr ""
+
+#: [zh_CN]122030
+msgid "防御大师"
+msgstr ""
+
+#: [zh_CN]122031
+msgid "募兵大师"
+msgstr ""
+
+#: [zh_CN]122032
+msgid "采集大师"
+msgstr ""
+
+#: [zh_CN]122033
+msgid "寻宝大师"
+msgstr ""
+
+#: [zh_CN]122034
+msgid "生产大师"
+msgstr ""
+
+#: [zh_CN]122035
+msgid "机关大师"
+msgstr ""
+
+#: [zh_CN]122036
+msgid "克敌大师"
+msgstr ""
+
+#: [zh_CN]122037
+msgid "步兵统帅"
+msgstr ""
+
+#: [zh_CN]122038
+msgid "骑兵统帅"
+msgstr ""
+
+#: [zh_CN]122039
+msgid "弓弩统帅"
+msgstr ""
+
+#: [zh_CN]122040
+msgid "战车统帅"
+msgstr ""
+
+#: [zh_CN]122041
+msgctxt "[zh_CN]122041"
+msgid "横扫千军"
+msgstr ""
+
+#: [zh_CN]122042
+msgctxt "[zh_CN]122042"
+msgid "千军破"
+msgstr ""
+
+#: [zh_CN]122043
+msgctxt "[zh_CN]122043"
+msgid "狮吼"
+msgstr ""
+
+#: [zh_CN]123000
+msgctxt "[zh_CN]123000"
+msgid "进攻术"
+msgstr ""
+
+#: [zh_CN]123001
+msgctxt "[zh_CN]123001"
+msgid "防御术"
+msgstr ""
+
+#: [zh_CN]123002
+msgctxt "[zh_CN]123002"
+msgid "募兵术"
+msgstr ""
+
+#: [zh_CN]123003
+msgctxt "[zh_CN]123003"
+msgid "采集术"
+msgstr ""
+
+#: [zh_CN]123004
+msgctxt "[zh_CN]123004"
+msgid "寻宝术"
+msgstr ""
+
+#: [zh_CN]123005
+msgctxt "[zh_CN]123005"
+msgid "生产术"
+msgstr ""
+
+#: [zh_CN]123006
+msgctxt "[zh_CN]123006"
+msgid "机关术"
+msgstr ""
+
+#: [zh_CN]123007
+msgctxt "[zh_CN]123007"
+msgid "克敌术"
+msgstr ""
+
+#: [zh_CN]123008
+msgid "盾术可以全面强化用盾步兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123009
+msgid "枪术可以全面强化用枪步兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123010
+msgid "骑术可以全面强化近战骑兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123011
+msgid "骑射术可以全面强化射箭骑兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123012
+msgid "弓术可以全面强化弓兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123013
+msgid "弩术可以全面强化弩兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123014
+msgid "投石术可以全面强化投石战车的作战能力"
+msgstr ""
+
+#: [zh_CN]123015
+msgid "冲车术可以全面强化冲锋战车的作战能力"
+msgstr ""
+
+#: [zh_CN]123016
+msgid "伏击是一个英雄技能，对弓兵和弩兵产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123017
+msgid "冲刺是一个英雄技能，对用盾步兵和近战骑兵产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123018
+msgid "迂回是一个英雄技能，对投石战车和弩兵产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123019
+msgid "骑射是一个英雄技能，对用枪步兵和近战骑兵产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123020
+msgid "火矢是一个英雄技能，对投石战车和冲锋战车产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123021
+msgid "连射是一个英雄技能，对用枪步兵和射箭骑兵产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123022
+msgid "巨石是一个英雄技能，对弓兵和投石战车产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123023
+msgid "陷阵是一个英雄技能，对用盾步兵和射箭骑兵产生额外的克制效果"
+msgstr ""
+
+#: [zh_CN]123024
+msgid "虎啸是一个辅助型的英雄技能，可以降低敌人的作战能力"
+msgstr ""
+
+#: [zh_CN]123025
+msgid "擂鼓是一个辅助型的英雄技能，可以提升己方的作战能力"
+msgstr ""
+
+#: [zh_CN]123026
+msgid "狂暴是一个被动技能，可以提高所有兵种的攻击和暴击属性"
+msgstr ""
+
+#: [zh_CN]123027
+msgid "强健是一个被动技能，可以提高所有兵种的防御和生命"
+msgstr ""
+
+#: [zh_CN]123028
+msgid "敏捷是一个被动技能，可以提高所有兵种的攻击、命中和闪避"
+msgstr ""
+
+#: [zh_CN]123029
+msgid "进攻大师可以提升你的部队在世界地图中的移动速度以及在各种战斗中的攻击力"
+msgstr ""
+
+#: [zh_CN]123030
+msgid "防御大师可以提升你的部队在各种战斗中的防御力，并且即使是在战斗失败也可以享有一些便利"
+msgstr ""
+
+#: [zh_CN]123031
+msgid "募兵大师可以全面提升各种部队的训练速度，同时也能提升伤兵的恢复速度"
+msgstr ""
+
+#: [zh_CN]123032
+msgid "采集大师可以全面提升各种资源的采集速度，并且可以提高部队的负重"
+msgstr ""
+
+#: [zh_CN]123033
+msgid "寻宝大师可以让你的部队在进行城堡遗迹探险时获得各种优势，并且更容易发现宝藏"
+msgstr ""
+
+#: [zh_CN]123034
+msgid "生产大师可以全面提升你的资源生产速度，并且可以降低部队的维护费用"
+msgstr ""
+
+#: [zh_CN]123035
+msgid "机关大师可以全面提升陷阱对敌人造成的伤害，并且可以加快陷阱的制造速度"
+msgstr ""
+
+#: [zh_CN]123036
+msgid "克敌大师可以降低敌人对你造成的伤害，并且在战斗胜利后获得更多的好处"
+msgstr ""
+
+#: [zh_CN]123037
+msgid "步兵统帅可以全面强化用盾步兵和用枪步兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123038
+msgid "骑兵统帅可以全面强化近战骑兵和射箭骑兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123039
+msgid "弓弩统帅可以全面强化弓兵和弩兵的作战能力"
+msgstr ""
+
+#: [zh_CN]123040
+msgid "战车统帅可以全面强化冲锋战车和投石战车的作战能力"
+msgstr ""
+
+#: [zh_CN]123041
+msgid "横扫千军是一个强力的英雄技能，可以在战斗中对敌人直接造成伤害"
+msgstr ""
+
+#: [zh_CN]123042
+msgid "千军破是一个强力的英雄技能，可以在战斗中对敌人直接造成伤害"
+msgstr ""
+
+#: [zh_CN]123043
+msgid "狮吼是一个辅助型的英雄技能，可以降低敌人的作战能力"
+msgstr ""
+
+#: [zh_CN]124000
+msgid "疾行"
+msgstr ""
+
+#: [zh_CN]124001
+msgctxt "[zh_CN]124001"
+msgid "攻城"
+msgstr ""
+
+#: [zh_CN]124002
+msgid "拔寨"
+msgstr ""
+
+#: [zh_CN]124003
+msgid "占田"
+msgstr ""
+
+#: [zh_CN]124004
+msgid "乱舞"
+msgstr ""
+
+#: [zh_CN]124005
+msgid "屠戮"
+msgstr ""
+
+#: [zh_CN]124006
+msgid "焚城"
+msgstr ""
+
+#: [zh_CN]124007
+msgid "护城"
+msgstr ""
+
+#: [zh_CN]124008
+msgid "捍卫"
+msgstr ""
+
+#: [zh_CN]124009
+msgid "固守"
+msgstr ""
+
+#: [zh_CN]124010
+msgid "鼓舞"
+msgstr ""
+
+#: [zh_CN]124011
+msgid "速归"
+msgstr ""
+
+#: [zh_CN]124012
+msgid "转移"
+msgstr ""
+
+#: [zh_CN]124013
+msgctxt "[zh_CN]124013"
+msgid "藏匿"
+msgstr ""
+
+#: [zh_CN]124014
+msgid "号召"
+msgstr ""
+
+#: [zh_CN]124015
+msgid "步兵征召"
+msgstr ""
+
+#: [zh_CN]124016
+msgid "骑兵征召"
+msgstr ""
+
+#: [zh_CN]124017
+msgid "弓弩兵征召"
+msgstr ""
+
+#: [zh_CN]124018
+msgid "车兵征召"
+msgstr ""
+
+#: [zh_CN]124019
+msgid "医院扩建"
+msgstr ""
+
+#: [zh_CN]124020
+msgid "手术"
+msgstr ""
+
+#: [zh_CN]124021
+msgid "运输"
+msgstr ""
+
+#: [zh_CN]124022
+msgid "锯木"
+msgstr ""
+
+#: [zh_CN]124023
+msgctxt "[zh_CN]124023"
+msgid "开采"
+msgstr ""
+
+#: [zh_CN]124024
+msgid "溶铁"
+msgstr ""
+
+#: [zh_CN]124025
+msgid "收粮"
+msgstr ""
+
+#: [zh_CN]124026
+msgid "淬银"
+msgstr ""
+
+#: [zh_CN]124027
+msgid "炼金"
+msgstr ""
+
+#: [zh_CN]124028
+msgid "推进"
+msgstr ""
+
+#: [zh_CN]124029
+msgid "宿敌"
+msgstr ""
+
+#: [zh_CN]124030
+msgid "避险"
+msgstr ""
+
+#: [zh_CN]124031
+msgctxt "[zh_CN]124031"
+msgid "搜索"
+msgstr ""
+
+#: [zh_CN]124032
+msgid "觅宝"
+msgstr ""
+
+#: [zh_CN]124033
+msgid "成长"
+msgstr ""
+
+#: [zh_CN]124034
+msgid "历练"
+msgstr ""
+
+#: [zh_CN]124035
+msgctxt "[zh_CN]124035"
+msgid "藏匿"
+msgstr ""
+
+#: [zh_CN]124036
+msgctxt "[zh_CN]124036"
+msgid "森林"
+msgstr ""
+
+#: [zh_CN]124037
+msgid "富矿"
+msgstr ""
+
+#: [zh_CN]124038
+msgid "深矿"
+msgstr ""
+
+#: [zh_CN]124039
+msgid "沃土"
+msgstr ""
+
+#: [zh_CN]124040
+msgid "商贾"
+msgstr ""
+
+#: [zh_CN]124041
+msgid "军纪"
+msgstr ""
+
+#: [zh_CN]124042
+msgid "深坑"
+msgstr ""
+
+#: [zh_CN]124043
+msgid "绊马"
+msgstr ""
+
+#: [zh_CN]124044
+msgid "迷烟"
+msgstr ""
+
+#: [zh_CN]124045
+msgctxt "[zh_CN]124045"
+msgid "巨石"
+msgstr ""
+
+#: [zh_CN]124046
+msgid "耐久"
+msgstr ""
+
+#: [zh_CN]124047
+msgid "固城"
+msgstr ""
+
+#: [zh_CN]124048
+msgid "技术"
+msgstr ""
+
+#: [zh_CN]124049
+msgid "识破"
+msgstr ""
+
+#: [zh_CN]124050
+msgid "迷雾"
+msgstr ""
+
+#: [zh_CN]124051
+msgid "迷惑"
+msgstr ""
+
+#: [zh_CN]124052
+msgid "肆掠"
+msgstr ""
+
+#: [zh_CN]124053
+msgid "强夺"
+msgstr ""
+
+#: [zh_CN]124054
+msgid "凯旋"
+msgstr ""
+
+#: [zh_CN]124055
+msgid "急救"
+msgstr ""
+
+#: [zh_CN]124056
+msgctxt "[zh_CN]124056"
+msgid "步兵强化"
+msgstr ""
+
+#: [zh_CN]124057
+msgid "铁盾"
+msgstr ""
+
+#: [zh_CN]124058
+msgctxt "[zh_CN]124058"
+msgid "长矛"
+msgstr ""
+
+#: [zh_CN]124059
+msgctxt "[zh_CN]124059"
+msgid "铁甲"
+msgstr ""
+
+#: [zh_CN]124060
+msgid "猛刺"
+msgstr ""
+
+#: [zh_CN]124061
+msgctxt "[zh_CN]124061"
+msgid "步兵体魄"
+msgstr ""
+
+#: [zh_CN]124062
+msgctxt "[zh_CN]124062"
+msgid "盾击"
+msgstr ""
+
+#: [zh_CN]124063
+msgctxt "[zh_CN]124063"
+msgid "横扫"
+msgstr ""
+
+#: [zh_CN]124064
+msgid "重击"
+msgstr ""
+
+#: [zh_CN]124065
+msgid "骑兵强化"
+msgstr ""
+
+#: [zh_CN]124066
+msgctxt "[zh_CN]124066"
+msgid "铁蹄"
+msgstr ""
+
+#: [zh_CN]124067
+msgid "游击"
+msgstr ""
+
+#: [zh_CN]124068
+msgctxt "[zh_CN]124068"
+msgid "闪避"
+msgstr ""
+
+#: [zh_CN]124069
+msgctxt "[zh_CN]124069"
+msgid "精准"
+msgstr ""
+
+#: [zh_CN]124070
+msgctxt "[zh_CN]124070"
+msgid "骑兵体魄"
+msgstr ""
+
+#: [zh_CN]124071
+msgid "冲锋"
+msgstr ""
+
+#: [zh_CN]124072
+msgid "偷袭"
+msgstr ""
+
+#: [zh_CN]124073
+msgid "破胆"
+msgstr ""
+
+#: [zh_CN]124074
+msgid "射术强化"
+msgstr ""
+
+#: [zh_CN]124075
+msgctxt "[zh_CN]124075"
+msgid "排箭"
+msgstr ""
+
+#: [zh_CN]124076
+msgctxt "[zh_CN]124076"
+msgid "守城"
+msgstr ""
+
+#: [zh_CN]124077
+msgctxt "[zh_CN]124077"
+msgid "铁箭"
+msgstr ""
+
+#: [zh_CN]124078
+msgid "劲弩"
+msgstr ""
+
+#: [zh_CN]124079
+msgid "弓弩体魄"
+msgstr ""
+
+#: [zh_CN]124080
+msgctxt "[zh_CN]124080"
+msgid "齐射"
+msgstr ""
+
+#: [zh_CN]124081
+msgctxt "[zh_CN]124081"
+msgid "贯射"
+msgstr ""
+
+#: [zh_CN]124082
+msgctxt "[zh_CN]124082"
+msgid "连射"
+msgstr ""
+
+#: [zh_CN]124083
+msgid "战车强化"
+msgstr ""
+
+#: [zh_CN]124084
+msgctxt "[zh_CN]124084"
+msgid "负重"
+msgstr ""
+
+#: [zh_CN]124085
+msgctxt "[zh_CN]124085"
+msgid "攻城"
+msgstr ""
+
+#: [zh_CN]124086
+msgctxt "[zh_CN]124086"
+msgid "巨石"
+msgstr ""
+
+#: [zh_CN]124087
+msgid "稳定"
+msgstr ""
+
+#: [zh_CN]124088
+msgid "牢固"
+msgstr ""
+
+#: [zh_CN]124089
+msgid "落石"
+msgstr ""
+
+#: [zh_CN]124090
+msgctxt "[zh_CN]124090"
+msgid "冲撞"
+msgstr ""
+
+#: [zh_CN]124091
+msgid "溅射"
+msgstr ""
+
+#: [zh_CN]124092
+msgctxt "[zh_CN]124092"
+msgid "横扫千军"
+msgstr ""
+
+#: [zh_CN]124093
+msgid "克制步兵"
+msgstr ""
+
+#: [zh_CN]124094
+msgid "克制骑兵"
+msgstr ""
+
+#: [zh_CN]124095
+msgid "克制弓弩兵"
+msgstr ""
+
+#: [zh_CN]124096
+msgid "克制车兵"
+msgstr ""
+
+#: [zh_CN]124097
+msgid "攻击强化"
+msgstr ""
+
+#: [zh_CN]124098
+msgctxt "[zh_CN]124098"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124099
+msgctxt "[zh_CN]124099"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124100
+msgid "残暴"
+msgstr ""
+
+#: [zh_CN]124101
+msgctxt "[zh_CN]124101"
+msgid "千军破"
+msgstr ""
+
+#: [zh_CN]124102
+msgid "克制近战"
+msgstr ""
+
+#: [zh_CN]124103
+msgid "克制远程"
+msgstr ""
+
+#: [zh_CN]124104
+msgid "近战破防"
+msgstr ""
+
+#: [zh_CN]124105
+msgid "远程破防"
+msgstr ""
+
+#: [zh_CN]124106
+msgid "暴击强化"
+msgstr ""
+
+#: [zh_CN]124107
+msgctxt "[zh_CN]124107"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124108
+msgctxt "[zh_CN]124108"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124109
+msgid "混乱"
+msgstr ""
+
+#: [zh_CN]124110
+msgctxt "[zh_CN]124110"
+msgid "狮吼"
+msgstr ""
+
+#: [zh_CN]124111
+msgid "减攻"
+msgstr ""
+
+#: [zh_CN]124112
+msgid "减防"
+msgstr ""
+
+#: [zh_CN]124113
+msgctxt "[zh_CN]124113"
+msgid "奋起"
+msgstr ""
+
+#: [zh_CN]124114
+msgid "威慑"
+msgstr ""
+
+#: [zh_CN]124115
+msgid "昂扬"
+msgstr ""
+
+#: [zh_CN]124116
+msgctxt "[zh_CN]124116"
+msgid "持久"
+msgstr ""
+
+#: [zh_CN]124117
+msgctxt "[zh_CN]124117"
+msgid "步兵强化"
+msgstr ""
+
+#: [zh_CN]124118
+msgctxt "[zh_CN]124118"
+msgid "盾术"
+msgstr ""
+
+#: [zh_CN]124119
+msgid "步兵生命"
+msgstr ""
+
+#: [zh_CN]124120
+msgctxt "[zh_CN]124120"
+msgid "铁甲"
+msgstr ""
+
+#: [zh_CN]124121
+msgid "减伤"
+msgstr ""
+
+#: [zh_CN]124122
+msgctxt "[zh_CN]124122"
+msgid "盾击"
+msgstr ""
+
+#: [zh_CN]124123
+msgid "枪兵强化"
+msgstr ""
+
+#: [zh_CN]124124
+msgctxt "[zh_CN]124124"
+msgid "长矛"
+msgstr ""
+
+#: [zh_CN]124125
+msgid "枪兵生命"
+msgstr ""
+
+#: [zh_CN]124126
+msgid "矛刺"
+msgstr ""
+
+#: [zh_CN]124127
+msgid "会心"
+msgstr ""
+
+#: [zh_CN]124128
+msgctxt "[zh_CN]124128"
+msgid "冲刺"
+msgstr ""
+
+#: [zh_CN]124129
+msgctxt "[zh_CN]124129"
+msgid "骑术"
+msgstr ""
+
+#: [zh_CN]124130
+msgctxt "[zh_CN]124130"
+msgid "铁蹄"
+msgstr ""
+
+#: [zh_CN]124131
+msgid "骑兵生命"
+msgstr ""
+
+#: [zh_CN]124132
+msgid "策马"
+msgstr ""
+
+#: [zh_CN]124133
+msgctxt "[zh_CN]124133"
+msgid "闪避"
+msgstr ""
+
+#: [zh_CN]124134
+msgid "践踏"
+msgstr ""
+
+#: [zh_CN]124135
+msgctxt "[zh_CN]124135"
+msgid "骑射术"
+msgstr ""
+
+#: [zh_CN]124136
+msgid "矿战强化"
+msgstr ""
+
+#: [zh_CN]124137
+msgid "骑射生命"
+msgstr ""
+
+#: [zh_CN]124138
+msgid "扬鞭"
+msgstr ""
+
+#: [zh_CN]124139
+msgctxt "[zh_CN]124139"
+msgid "精准"
+msgstr ""
+
+#: [zh_CN]124140
+msgid "落日箭"
+msgstr ""
+
+#: [zh_CN]124141
+msgctxt "[zh_CN]124141"
+msgid "弓术"
+msgstr ""
+
+#: [zh_CN]124142
+msgctxt "[zh_CN]124142"
+msgid "排箭"
+msgstr ""
+
+#: [zh_CN]124143
+msgid "弓兵生命"
+msgstr ""
+
+#: [zh_CN]124144
+msgctxt "[zh_CN]124144"
+msgid "铁箭"
+msgstr ""
+
+#: [zh_CN]124145
+msgctxt "[zh_CN]124145"
+msgid "瞄准"
+msgstr ""
+
+#: [zh_CN]124146
+msgctxt "[zh_CN]124146"
+msgid "齐射"
+msgstr ""
+
+#: [zh_CN]124147
+msgctxt "[zh_CN]124147"
+msgid "弩术"
+msgstr ""
+
+#: [zh_CN]124148
+msgctxt "[zh_CN]124148"
+msgid "守城"
+msgstr ""
+
+#: [zh_CN]124149
+msgid "弩兵生命"
+msgstr ""
+
+#: [zh_CN]124150
+msgid "重弩"
+msgstr ""
+
+#: [zh_CN]124151
+msgid "暴击"
+msgstr ""
+
+#: [zh_CN]124152
+msgctxt "[zh_CN]124152"
+msgid "贯射"
+msgstr ""
+
+#: [zh_CN]124153
+msgctxt "[zh_CN]124153"
+msgid "投石术"
+msgstr ""
+
+#: [zh_CN]124154
+msgctxt "[zh_CN]124154"
+msgid "负重"
+msgstr ""
+
+#: [zh_CN]124155
+msgid "投石生命"
+msgstr ""
+
+#: [zh_CN]124156
+msgctxt "[zh_CN]124156"
+msgid "巨石"
+msgstr ""
+
+#: [zh_CN]124157
+msgctxt "[zh_CN]124157"
+msgid "瞄准"
+msgstr ""
+
+#: [zh_CN]124158
+msgid "碎石"
+msgstr ""
+
+#: [zh_CN]124159
+msgid "战车掌握"
+msgstr ""
+
+#: [zh_CN]124160
+msgid "攻城术"
+msgstr ""
+
+#: [zh_CN]124161
+msgid "战车生命"
+msgstr ""
+
+#: [zh_CN]124162
+msgid "壁垒"
+msgstr ""
+
+#: [zh_CN]124163
+msgid "稳固"
+msgstr ""
+
+#: [zh_CN]124164
+msgctxt "[zh_CN]124164"
+msgid "冲撞"
+msgstr ""
+
+#: [zh_CN]124165
+msgctxt "[zh_CN]124165"
+msgid "伏击"
+msgstr ""
+
+#: [zh_CN]124166
+msgctxt "[zh_CN]124166"
+msgid "克制弓兵"
+msgstr ""
+
+#: [zh_CN]124167
+msgctxt "[zh_CN]124167"
+msgid "克制弩兵"
+msgstr ""
+
+#: [zh_CN]124168
+msgid "盾兵防御强化"
+msgstr ""
+
+#: [zh_CN]124169
+msgctxt "[zh_CN]124169"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124170
+msgctxt "[zh_CN]124170"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124171
+msgctxt "[zh_CN]124171"
+msgid "冲刺"
+msgstr ""
+
+#: [zh_CN]124172
+msgctxt "[zh_CN]124172"
+msgid "克制盾兵"
+msgstr ""
+
+#: [zh_CN]124173
+msgctxt "[zh_CN]124173"
+msgid "克制近战骑兵"
+msgstr ""
+
+#: [zh_CN]124174
+msgid "枪兵暴击强化"
+msgstr ""
+
+#: [zh_CN]124175
+msgctxt "[zh_CN]124175"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124176
+msgctxt "[zh_CN]124176"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124177
+msgctxt "[zh_CN]124177"
+msgid "迂回"
+msgstr ""
+
+#: [zh_CN]124178
+msgctxt "[zh_CN]124178"
+msgid "克制弩兵"
+msgstr ""
+
+#: [zh_CN]124179
+msgctxt "[zh_CN]124179"
+msgid "克制投石战车"
+msgstr ""
+
+#: [zh_CN]124180
+msgid "近战骑兵攻击强化"
+msgstr ""
+
+#: [zh_CN]124181
+msgctxt "[zh_CN]124181"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124182
+msgctxt "[zh_CN]124182"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124183
+msgctxt "[zh_CN]124183"
+msgid "骑射"
+msgstr ""
+
+#: [zh_CN]124184
+msgctxt "[zh_CN]124184"
+msgid "克制枪兵"
+msgstr ""
+
+#: [zh_CN]124185
+msgctxt "[zh_CN]124185"
+msgid "克制近战骑兵"
+msgstr ""
+
+#: [zh_CN]124186
+msgid "远程骑兵攻击强化"
+msgstr ""
+
+#: [zh_CN]124187
+msgctxt "[zh_CN]124187"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124188
+msgctxt "[zh_CN]124188"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124189
+msgctxt "[zh_CN]124189"
+msgid "火矢"
+msgstr ""
+
+#: [zh_CN]124190
+msgctxt "[zh_CN]124190"
+msgid "克制投石战车"
+msgstr ""
+
+#: [zh_CN]124191
+msgid "克制冲锋战车"
+msgstr ""
+
+#: [zh_CN]124192
+msgid "弓兵攻击强化"
+msgstr ""
+
+#: [zh_CN]124193
+msgctxt "[zh_CN]124193"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124194
+msgctxt "[zh_CN]124194"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124195
+msgctxt "[zh_CN]124195"
+msgid "连射"
+msgstr ""
+
+#: [zh_CN]124196
+msgctxt "[zh_CN]124196"
+msgid "克制枪兵"
+msgstr ""
+
+#: [zh_CN]124197
+msgctxt "[zh_CN]124197"
+msgid "克制射箭骑兵"
+msgstr ""
+
+#: [zh_CN]124198
+msgid "弩兵攻击强化"
+msgstr ""
+
+#: [zh_CN]124199
+msgctxt "[zh_CN]124199"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124200
+msgctxt "[zh_CN]124200"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124201
+msgctxt "[zh_CN]124201"
+msgid "巨石"
+msgstr ""
+
+#: [zh_CN]124202
+msgctxt "[zh_CN]124202"
+msgid "克制投石战车"
+msgstr ""
+
+#: [zh_CN]124203
+msgctxt "[zh_CN]124203"
+msgid "克制弓兵"
+msgstr ""
+
+#: [zh_CN]124204
+msgid "投石车兵攻击强化"
+msgstr ""
+
+#: [zh_CN]124205
+msgctxt "[zh_CN]124205"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124206
+msgctxt "[zh_CN]124206"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124207
+msgctxt "[zh_CN]124207"
+msgid "陷阵"
+msgstr ""
+
+#: [zh_CN]124208
+msgctxt "[zh_CN]124208"
+msgid "克制盾兵"
+msgstr ""
+
+#: [zh_CN]124209
+msgctxt "[zh_CN]124209"
+msgid "克制射箭骑兵"
+msgstr ""
+
+#: [zh_CN]124210
+msgid "冲锋战车攻击强化"
+msgstr ""
+
+#: [zh_CN]124211
+msgctxt "[zh_CN]124211"
+msgid "熟练"
+msgstr ""
+
+#: [zh_CN]124212
+msgctxt "[zh_CN]124212"
+msgid "威力加强"
+msgstr ""
+
+#: [zh_CN]124213
+msgctxt "[zh_CN]124213"
+msgid "擂鼓"
+msgstr ""
+
+#: [zh_CN]124214
+msgid "加攻"
+msgstr ""
+
+#: [zh_CN]124215
+msgid "加防"
+msgstr ""
+
+#: [zh_CN]124216
+msgctxt "[zh_CN]124216"
+msgid "奋起"
+msgstr ""
+
+#: [zh_CN]124217
+msgid "振奋"
+msgstr ""
+
+#: [zh_CN]124218
+msgctxt "[zh_CN]124218"
+msgid "持久"
+msgstr ""
+
+#: [zh_CN]124219
+msgid "重伤"
+msgstr ""
+
+#: [zh_CN]124220
+msgctxt "[zh_CN]124220"
+msgid "强化步兵"
+msgstr ""
+
+#: [zh_CN]124221
+msgctxt "[zh_CN]124221"
+msgid "强化骑兵"
+msgstr ""
+
+#: [zh_CN]124222
+msgctxt "[zh_CN]124222"
+msgid "强化弓弩"
+msgstr ""
+
+#: [zh_CN]124223
+msgctxt "[zh_CN]124223"
+msgid "强化战车"
+msgstr ""
+
+#: [zh_CN]124224
+msgid "抵抗"
+msgstr ""
+
+#: [zh_CN]124225
+msgctxt "[zh_CN]124225"
+msgid "狂暴"
+msgstr ""
+
+#: [zh_CN]124226
+msgid "坚韧"
+msgstr ""
+
+#: [zh_CN]124227
+msgctxt "[zh_CN]124227"
+msgid "强化步兵"
+msgstr ""
+
+#: [zh_CN]124228
+msgctxt "[zh_CN]124228"
+msgid "强化骑兵"
+msgstr ""
+
+#: [zh_CN]124229
+msgctxt "[zh_CN]124229"
+msgid "强化弓弩"
+msgstr ""
+
+#: [zh_CN]124230
+msgctxt "[zh_CN]124230"
+msgid "强化战车"
+msgstr ""
+
+#: [zh_CN]124231
+msgctxt "[zh_CN]124231"
+msgid "防御"
+msgstr ""
+
+#: [zh_CN]124232
+msgctxt "[zh_CN]124232"
+msgid "强健"
+msgstr ""
+
+#: [zh_CN]124233
+msgid "命中"
+msgstr ""
+
+#: [zh_CN]124234
+msgctxt "[zh_CN]124234"
+msgid "强化步兵"
+msgstr ""
+
+#: [zh_CN]124235
+msgctxt "[zh_CN]124235"
+msgid "强化骑兵"
+msgstr ""
+
+#: [zh_CN]124236
+msgctxt "[zh_CN]124236"
+msgid "强化弓弩"
+msgstr ""
+
+#: [zh_CN]124237
+msgctxt "[zh_CN]124237"
+msgid "强化战车"
+msgstr ""
+
+#: [zh_CN]124238
+msgid "伤害"
+msgstr ""
+
+#: [zh_CN]124239
+msgctxt "[zh_CN]124239"
+msgid "敏捷"
+msgstr ""
+
+#: [zh_CN]125000
+msgid "攻击城池、营地、资源点时，行军速度加快。"
+msgstr ""
+
+#: [zh_CN]125001
+msgid "攻城战时士兵攻击力提升。"
+msgstr ""
+
+#: [zh_CN]125002
+msgid "营地战斗时士兵攻击力提升。"
+msgstr ""
+
+#: [zh_CN]125003
+msgid "资源点战斗时士兵攻击力提升。"
+msgstr ""
+
+#: [zh_CN]125004
+msgid "攻城战斗中领主释放技能的几率提升。"
+msgstr ""
+
+#: [zh_CN]125005
+msgid "攻城时降低守方伤兵比例。"
+msgstr ""
+
+#: [zh_CN]125006
+msgid "攻破敌方城市后，提升敌方城市燃烧效果。"
+msgstr ""
+
+#: [zh_CN]125007
+msgid "守城战斗时士兵防御力增加。"
+msgstr ""
+
+#: [zh_CN]125008
+msgid "营地战斗时士兵防御力增加。"
+msgstr ""
+
+#: [zh_CN]125009
+msgid "资源战斗时士兵防御力增加。"
+msgstr ""
+
+#: [zh_CN]125010
+msgid "守城战斗时领主技能释放几率提高。"
+msgstr ""
+
+#: [zh_CN]125011
+msgid "防守营地失败后返回速度提升。"
+msgstr ""
+
+#: [zh_CN]125012
+msgid "资源点防守失败时也能携带回部分已采集资源。"
+msgstr ""
+
+#: [zh_CN]125013
+msgid "守城失败可以保护银币不被抢，百分比。"
+msgstr ""
+
+#: [zh_CN]125014
+msgid "兵营单次招募更多士兵。"
+msgstr ""
+
+#: [zh_CN]125015
+msgid "步兵训练速度提升。"
+msgstr ""
+
+#: [zh_CN]125016
+msgid "骑兵训练速度提升。"
+msgstr ""
+
+#: [zh_CN]125017
+msgid "弓弩兵训练速度提升。"
+msgstr ""
+
+#: [zh_CN]125018
+msgid "车兵训练速度提升。"
+msgstr ""
+
+#: [zh_CN]125019
+msgid "医院伤兵上限增加。"
+msgstr ""
+
+#: [zh_CN]125020
+msgid "伤兵治疗速度提升。"
+msgstr ""
+
+#: [zh_CN]125021
+msgid "部队负重增加。"
+msgstr ""
+
+#: [zh_CN]125022
+msgid "木材采集速度提升。"
+msgstr ""
+
+#: [zh_CN]125023
+msgid "秘银采集速度提升。"
+msgstr ""
+
+#: [zh_CN]125024
+msgid "铁矿采集速度提升。"
+msgstr ""
+
+#: [zh_CN]125025
+msgid "粮食采集速度提升。"
+msgstr ""
+
+#: [zh_CN]125026
+msgid "银币采集速度提升。"
+msgstr ""
+
+#: [zh_CN]125027
+msgid "金币采集速度提升。"
+msgstr ""
+
+#: [zh_CN]125028
+msgid "探险的行军速度提高。"
+msgstr ""
+
+#: [zh_CN]125029
+msgid "提高对遗迹守卫的伤害。"
+msgstr ""
+
+#: [zh_CN]125030
+msgid "降低探险遇到陷阱的几率。"
+msgstr ""
+
+#: [zh_CN]125031
+msgid "缩短探险时间间隔。"
+msgstr ""
+
+#: [zh_CN]125032
+msgid "提高获得宝物的概率。"
+msgstr ""
+
+#: [zh_CN]125033
+msgid "探险中获得的个人经验值提高。"
+msgstr ""
+
+#: [zh_CN]125034
+msgid "探险时获得的领主经验值提高。"
+msgstr ""
+
+#: [zh_CN]125035
+msgid "增加地窖的资源保护上限。"
+msgstr ""
+
+#: [zh_CN]125036
+msgid "城市的木材产量增加。"
+msgstr ""
+
+#: [zh_CN]125037
+msgid "城市的秘银产量增加。"
+msgstr ""
+
+#: [zh_CN]125038
+msgid "城市的铁矿产量增加。"
+msgstr ""
+
+#: [zh_CN]125039
+msgid "城市的粮食产量增加。"
+msgstr ""
+
+#: [zh_CN]125040
+msgid "城市的银币产量增加。"
+msgstr ""
+
+#: [zh_CN]125041
+msgid "降低维护费。"
+msgstr ""
+
+#: [zh_CN]125042
+msgid "提高陷阱对步兵伤害。"
+msgstr ""
+
+#: [zh_CN]125043
+msgid "提高陷阱对骑兵伤害。"
+msgstr ""
+
+#: [zh_CN]125044
+msgid "提高陷阱对弓兵伤害。"
+msgstr ""
+
+#: [zh_CN]125045
+msgid "提高陷阱对车兵伤害。"
+msgstr ""
+
+#: [zh_CN]125046
+msgid "降低陷阱的消耗数量。"
+msgstr ""
+
+#: [zh_CN]125047
+msgid "增加城防值。"
+msgstr ""
+
+#: [zh_CN]125048
+msgid "陷阱的制造速度更快。"
+msgstr ""
+
+#: [zh_CN]125049
+msgid "降低陷阱造成的伤害。"
+msgstr ""
+
+#: [zh_CN]125050
+msgid "降低箭塔造成的伤害。"
+msgstr ""
+
+#: [zh_CN]125051
+msgid "降低对方领主技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125052
+msgid "攻城战胜利后掠夺百分比提升。"
+msgstr ""
+
+#: [zh_CN]125053
+msgid "攻打资源点胜利后可掠夺对方已采集的资源。"
+msgstr ""
+
+#: [zh_CN]125054
+msgid "掠夺后返回行军速度增加。"
+msgstr ""
+
+#: [zh_CN]125055
+msgid "非守城战中也可以产生伤兵。"
+msgstr ""
+
+#: [zh_CN]125056
+msgid "增加所有步兵的攻击和防御。"
+msgstr ""
+
+#: [zh_CN]125057
+msgctxt "[zh_CN]125057"
+msgid "减少弓兵对用盾步兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125058
+msgid "增加用枪步兵对近战骑兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125059
+msgctxt "[zh_CN]125059"
+msgid "增加用盾步兵的防御。"
+msgstr ""
+
+#: [zh_CN]125060
+msgctxt "[zh_CN]125060"
+msgid "增加用枪步兵的暴击几率。"
+msgstr ""
+
+#: [zh_CN]125061
+msgid "增加所有步兵的生命。"
+msgstr ""
+
+#: [zh_CN]125062
+msgid "用盾步兵攻击时有几率释放盾击技能，造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125063
+msgid "用枪步兵攻击时有几率释放横扫技能，造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125064
+msgid "盾击和横扫技能伤害提高50%，有10%几率让敌人眩晕2回合不能移动和攻击。"
+msgstr ""
+
+#: [zh_CN]125065
+msgid "增加所有骑兵的攻击和防御。"
+msgstr ""
+
+#: [zh_CN]125066
+msgid "增加近战骑兵对用盾的步兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125067
+msgid "增加射箭骑兵在资源点战斗中的攻击。"
+msgstr ""
+
+#: [zh_CN]125068
+msgid "增加近战骑兵的闪避几率。"
+msgstr ""
+
+#: [zh_CN]125069
+msgctxt "[zh_CN]125069"
+msgid "增加射箭骑兵的命中和攻击。"
+msgstr ""
+
+#: [zh_CN]125070
+msgid "增加所有骑兵的生命。"
+msgstr ""
+
+#: [zh_CN]125071
+msgid "近战骑兵攻击时有几率释放技能冲锋，对敌人造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125072
+msgid "射箭骑兵攻击时有几率释放技能偷袭，对敌人造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125073
+msgid "冲锋和突袭技能伤害提高50%，有10%几率让敌人破胆3回合防御大幅下降。"
+msgstr ""
+
+#: [zh_CN]125074
+msgid "增加弓兵弩兵的攻击和防御。"
+msgstr ""
+
+#: [zh_CN]125075
+msgctxt "[zh_CN]125075"
+msgid "增加弓兵对用枪步兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125076
+msgid "增加弩兵在守城战中的攻击。"
+msgstr ""
+
+#: [zh_CN]125077
+msgctxt "[zh_CN]125077"
+msgid "增加弓兵造成的伤害。"
+msgstr ""
+
+#: [zh_CN]125078
+msgctxt "[zh_CN]125078"
+msgid "增加弩兵的攻击伤害。"
+msgstr ""
+
+#: [zh_CN]125079
+msgid "增加弓兵和弩兵的生命。"
+msgstr ""
+
+#: [zh_CN]125080
+msgid "弓兵部队攻击时有几率释放齐射技能，对敌人造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125081
+msgid "弩兵部队攻击时有几率释放贯射技能，对敌人造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125082
+msgctxt "[zh_CN]125082"
+msgid "使齐射和贯射可以对敌人造成2次伤害。"
+msgstr ""
+
+#: [zh_CN]125083
+msgid "增加所有战车的攻击和防御。"
+msgstr ""
+
+#: [zh_CN]125084
+msgctxt "[zh_CN]125084"
+msgid "增加投石战车的负重。"
+msgstr ""
+
+#: [zh_CN]125085
+msgid "增加冲锋战车部队在攻城战中的攻击。"
+msgstr ""
+
+#: [zh_CN]125086
+msgid "增加投石战车部队的伤害。"
+msgstr ""
+
+#: [zh_CN]125087
+msgctxt "[zh_CN]125087"
+msgid "减少陷阱对冲锋战车的攻击伤害。"
+msgstr ""
+
+#: [zh_CN]125088
+msgid "增加所有战车的生命。"
+msgstr ""
+
+#: [zh_CN]125089
+msgid "投石战车攻击时几率释放碎石技能，对敌人造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125090
+msgid "近战战车攻击时几率释放冲撞技能，对敌人造成大量伤害。提升技能等级可以提高技能伤害。"
+msgstr ""
+
+#: [zh_CN]125091
+msgctxt "[zh_CN]125091"
+msgid "使落石和冲撞技能多打击一个敌人。"
+msgstr ""
+
+#: [zh_CN]125092
+msgid "随机攻击2个敌方部队，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125093
+msgid "对所有步兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125094
+msgid "对所有骑兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125095
+msgid "对所有弓弩兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125096
+msgid "对所有车兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125097
+msgid "随机提高一支己方部队的攻击力，持续5回合。提升技能等级可以提高攻击力加成。"
+msgstr ""
+
+#: [zh_CN]125098
+msgid "提高横扫千军的释放几率。"
+msgstr ""
+
+#: [zh_CN]125099
+msgid "增加横扫千军技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125100
+msgctxt "[zh_CN]125100"
+msgid "横扫千军技能必定造成暴击效果。"
+msgstr ""
+
+#: [zh_CN]125101
+msgid "随机攻击3个敌方部队，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125102
+msgid "对所有近战兵种伤害提高，包括用盾步兵、用枪步兵、近战骑兵、冲锋战车。"
+msgstr ""
+
+#: [zh_CN]125103
+msgid "对所有远程兵种伤害提高，包括射箭骑兵、弓兵、弩兵、投石战车。"
+msgstr ""
+
+#: [zh_CN]125104
+msgid "被攻击的近战单位防御降低，持续3回合。提升技能可以提高被降低的防御。"
+msgstr ""
+
+#: [zh_CN]125105
+msgid "被攻击的远程单位防御降低，持续3回合。提升技能可以提高被降低的防御。"
+msgstr ""
+
+#: [zh_CN]125106
+msgid "随机提高一支己方部队的暴击，持续5回合。提升技能等级可以提高暴击几率。"
+msgstr ""
+
+#: [zh_CN]125107
+msgid "提高千军破的释放几率。"
+msgstr ""
+
+#: [zh_CN]125108
+msgid "增加千军破技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125109
+msgctxt "[zh_CN]125109"
+msgid "横扫千军技能有一定几率造成混乱效果，使其2回合内不能攻击和移动。"
+msgstr ""
+
+#: [zh_CN]125110
+msgid "降低敌将技能伤害，持续3回合。提高技能等级可以提高降低伤害的效果。"
+msgstr ""
+
+#: [zh_CN]125111
+msgid "狮吼可以随机减弱敌方部队的攻击。"
+msgstr ""
+
+#: [zh_CN]125112
+msgid "狮吼可以随机减弱敌方部队的防御。"
+msgstr ""
+
+#: [zh_CN]125113
+msgid "释放狮吼的几率提高。"
+msgstr ""
+
+#: [zh_CN]125114
+msgid "狮吼可以降低敌将释放技能的几率。"
+msgstr ""
+
+#: [zh_CN]125115
+msgid "释放狮吼后，增加自身技能释放几率，持续2回合。提高技能等级可以提高几率。"
+msgstr ""
+
+#: [zh_CN]125116
+msgid "增加狮吼的持续回合数。"
+msgstr ""
+
+#: [zh_CN]125117
+msgid "增加用盾步兵的攻击和防御。"
+msgstr ""
+
+#: [zh_CN]125118
+msgctxt "[zh_CN]125118"
+msgid "减少弓兵对用盾步兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125119
+msgid "增加用盾步兵的生命。"
+msgstr ""
+
+#: [zh_CN]125120
+msgctxt "[zh_CN]125120"
+msgid "增加用盾步兵的防御。"
+msgstr ""
+
+#: [zh_CN]125121
+msgid "减少用盾步兵受到的伤害。"
+msgstr ""
+
+#: [zh_CN]125122
+msgid "用盾步兵攻击时有一定几率释放盾击技能，造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125123
+msgid "增加用枪步兵的攻击。"
+msgstr ""
+
+#: [zh_CN]125124
+msgid "增加用枪步兵对所有骑兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125125
+msgid "增加用枪步兵的生命。"
+msgstr ""
+
+#: [zh_CN]125126
+msgctxt "[zh_CN]125126"
+msgid "增加用枪步兵的暴击几率。"
+msgstr ""
+
+#: [zh_CN]125127
+msgid "增加暴击伤害。"
+msgstr ""
+
+#: [zh_CN]125128
+msgid "枪兵攻击时有一定几率释放冲刺技能，造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125129
+msgid "增加骑兵的攻击。"
+msgstr ""
+
+#: [zh_CN]125130
+msgid "增加骑兵对所有步兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125131
+msgid "增加骑兵的生命。"
+msgstr ""
+
+#: [zh_CN]125132
+msgid "增加骑兵在地图上的行军速度。"
+msgstr ""
+
+#: [zh_CN]125133
+msgid "增加骑兵的闪避几率。"
+msgstr ""
+
+#: [zh_CN]125134
+msgid "骑兵攻击时有一定几率释放技能践踏，造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125135
+msgid "增加射箭骑兵的攻击。"
+msgstr ""
+
+#: [zh_CN]125136
+msgid "增加射箭骑兵在资源战中的攻击。"
+msgstr ""
+
+#: [zh_CN]125137
+msgid "增加射箭骑兵的生命。"
+msgstr ""
+
+#: [zh_CN]125138
+msgid "增加射箭骑兵在地图上的行军速度。"
+msgstr ""
+
+#: [zh_CN]125139
+msgctxt "[zh_CN]125139"
+msgid "增加射箭骑兵的命中和攻击。"
+msgstr ""
+
+#: [zh_CN]125140
+msgid "射箭骑兵攻击时有一定几率释放落日箭，对敌人造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125141
+msgid "增加弓兵的攻击。"
+msgstr ""
+
+#: [zh_CN]125142
+msgctxt "[zh_CN]125142"
+msgid "增加弓兵对用枪步兵的伤害。"
+msgstr ""
+
+#: [zh_CN]125143
+msgid "增加弓兵的生命。"
+msgstr ""
+
+#: [zh_CN]125144
+msgctxt "[zh_CN]125144"
+msgid "增加弓兵造成的伤害。"
+msgstr ""
+
+#: [zh_CN]125145
+msgid "增加弓兵的命中几率。"
+msgstr ""
+
+#: [zh_CN]125146
+msgid "弓兵部队攻击时有一定几率释放齐射技能，对敌人造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125147
+msgid "增加弩兵的攻击。"
+msgstr ""
+
+#: [zh_CN]125148
+msgid "增加弩兵部队在守城战中的攻击。"
+msgstr ""
+
+#: [zh_CN]125149
+msgid "增加弩兵的生命。"
+msgstr ""
+
+#: [zh_CN]125150
+msgctxt "[zh_CN]125150"
+msgid "增加弩兵的攻击伤害。"
+msgstr ""
+
+#: [zh_CN]125151
+msgid "增加弩兵的暴击几率和暴击伤害。"
+msgstr ""
+
+#: [zh_CN]125152
+msgid "弩兵部队攻击时有一定几率释放贯射技能，对敌人造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125153
+msgid "增加投石战车的攻击。"
+msgstr ""
+
+#: [zh_CN]125154
+msgctxt "[zh_CN]125154"
+msgid "增加投石战车的负重。"
+msgstr ""
+
+#: [zh_CN]125155
+msgid "增加投石战车的生命。"
+msgstr ""
+
+#: [zh_CN]125156
+msgid "增加投石战车的伤害。"
+msgstr ""
+
+#: [zh_CN]125157
+msgid "增加投石战车的命中。"
+msgstr ""
+
+#: [zh_CN]125158
+msgid "投石战车在攻击时几率释放碎石技能，随机对2个敌方部队造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125159
+msgid "增加冲锋战车的攻击。"
+msgstr ""
+
+#: [zh_CN]125160
+msgid "增加冲锋战车在攻城战中的攻击。"
+msgstr ""
+
+#: [zh_CN]125161
+msgid "增加冲锋战车的生命。"
+msgstr ""
+
+#: [zh_CN]125162
+msgid "增加冲锋战车的防御。"
+msgstr ""
+
+#: [zh_CN]125163
+msgctxt "[zh_CN]125163"
+msgid "减少陷阱对冲锋战车的攻击伤害。"
+msgstr ""
+
+#: [zh_CN]125164
+msgid "冲锋战车在攻击时几率释放冲撞，对敌人造成大量伤害。提高技能等级可以提高技能伤害和技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125165
+msgid "优先攻击远程部队，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125166
+msgctxt "[zh_CN]125166"
+msgid "对弓兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125167
+msgctxt "[zh_CN]125167"
+msgid "对弩兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125168
+msgid "释放技能后用盾步兵的防御力增加，持续3回合。提升技能可以提高增加的防御力。"
+msgstr ""
+
+#: [zh_CN]125169
+msgid "提高伏击的释放几率。"
+msgstr ""
+
+#: [zh_CN]125170
+msgid "增加伏击技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125171
+msgctxt "[zh_CN]125171"
+msgid "对前排敌人造成伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125172
+msgid "对用盾步兵造成额外伤害。"
+msgstr ""
+
+#: [zh_CN]125173
+msgid "对近战骑兵造成额外伤害。"
+msgstr ""
+
+#: [zh_CN]125174
+msgid "释放技能后所有用枪步兵的暴击率增加，持续3回合。提升技能可以提高暴击几率。"
+msgstr ""
+
+#: [zh_CN]125175
+msgid "提高冲刺的释放几率。"
+msgstr ""
+
+#: [zh_CN]125176
+msgid "增加冲刺技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125177
+msgctxt "[zh_CN]125177"
+msgid "对随机敌人造成伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125178
+msgctxt "[zh_CN]125178"
+msgid "对弩兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125179
+msgctxt "[zh_CN]125179"
+msgid "对投石战车伤害提高。"
+msgstr ""
+
+#: [zh_CN]125180
+msgid "释放技能后所有近战骑兵的攻击增加，持续3回合。提升技能可以提高增加的攻击力。"
+msgstr ""
+
+#: [zh_CN]125181
+msgid "提高迂回的释放几率。"
+msgstr ""
+
+#: [zh_CN]125182
+msgid "增加迂回技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125183
+msgctxt "[zh_CN]125183"
+msgid "对随机敌人造成伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125184
+msgctxt "[zh_CN]125184"
+msgid "对用枪步兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125185
+msgid "对近战骑兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125186
+msgid "释放技能后所有远程骑兵的攻击力增加，持续3回合。提升技能可以提高增加的攻击力。"
+msgstr ""
+
+#: [zh_CN]125187
+msgid "提高骑射的释放几率。"
+msgstr ""
+
+#: [zh_CN]125188
+msgid "增加骑射技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125189
+msgctxt "[zh_CN]125189"
+msgid "对随机敌人造成伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125190
+msgctxt "[zh_CN]125190"
+msgid "对投石战车伤害提高。"
+msgstr ""
+
+#: [zh_CN]125191
+msgid "对冲锋战车伤害提高。"
+msgstr ""
+
+#: [zh_CN]125192
+msgid "释放技能后所有弓兵的攻击力增加，持续3回合。提升技能可以提高增加的攻击力。"
+msgstr ""
+
+#: [zh_CN]125193
+msgid "提高火矢的释放几率。"
+msgstr ""
+
+#: [zh_CN]125194
+msgid "增加火矢技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125195
+msgid "对随机敌人造成2次伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125196
+msgctxt "[zh_CN]125196"
+msgid "对用枪步兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125197
+msgctxt "[zh_CN]125197"
+msgid "对射箭骑兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125198
+msgid "释放技能后所有弩兵的攻击力增加，持续3回合。提升技能可以提高增加的攻击力。"
+msgstr ""
+
+#: [zh_CN]125199
+msgid "提高连射的释放几率。"
+msgstr ""
+
+#: [zh_CN]125200
+msgid "增加连射技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125201
+msgctxt "[zh_CN]125201"
+msgid "对随机敌人造成伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125202
+msgctxt "[zh_CN]125202"
+msgid "对投石战车伤害提高。"
+msgstr ""
+
+#: [zh_CN]125203
+msgctxt "[zh_CN]125203"
+msgid "对弓兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125204
+msgid "释放技能后所有投石战车的攻击力增加，持续3回合。提升技能可以提高增加的攻击力。"
+msgstr ""
+
+#: [zh_CN]125205
+msgid "提高巨石的释放几率。"
+msgstr ""
+
+#: [zh_CN]125206
+msgid "增加巨石技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125207
+msgctxt "[zh_CN]125207"
+msgid "对前排敌人造成伤害，提升技能等级可以提升技能伤害。"
+msgstr ""
+
+#: [zh_CN]125208
+msgid "对用盾步兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125209
+msgctxt "[zh_CN]125209"
+msgid "对射箭骑兵伤害提高。"
+msgstr ""
+
+#: [zh_CN]125210
+msgid "释放技能后所有冲锋战车的攻击力增加，持续3回合。提升技能可以提高增加的攻击力。"
+msgstr ""
+
+#: [zh_CN]125211
+msgid "提高陷阵的释放几率。"
+msgstr ""
+
+#: [zh_CN]125212
+msgid "增加陷阵技能攻击的敌方部队数量。"
+msgstr ""
+
+#: [zh_CN]125213
+msgid "增加自身技能伤害，持续3回合。提高技能等级可以提高伤害。"
+msgstr ""
+
+#: [zh_CN]125214
+msgid "擂鼓可以随机提高一支己方部队的攻击。"
+msgstr ""
+
+#: [zh_CN]125215
+msgid "擂鼓可以随机提高一支己方部队的防御。"
+msgstr ""
+
+#: [zh_CN]125216
+msgid "释放擂鼓技能的几率提高。"
+msgstr ""
+
+#: [zh_CN]125217
+msgid "擂鼓可以提高自身的技能释放几率。"
+msgstr ""
+
+#: [zh_CN]125218
+msgid "增加擂鼓的持续回合数。"
+msgstr ""
+
+#: [zh_CN]125219
+msgid "全部队暴击伤害增加。"
+msgstr ""
+
+#: [zh_CN]125220
+msgctxt "[zh_CN]125220"
+msgid "增加所有步兵攻击。"
+msgstr ""
+
+#: [zh_CN]125221
+msgctxt "[zh_CN]125221"
+msgid "增加所有骑兵攻击。"
+msgstr ""
+
+#: [zh_CN]125222
+msgctxt "[zh_CN]125222"
+msgid "增加所有弓弩攻击。"
+msgstr ""
+
+#: [zh_CN]125223
+msgctxt "[zh_CN]125223"
+msgid "增加所有战车攻击。"
+msgstr ""
+
+#: [zh_CN]125224
+msgid "减少全部队受到的暴击几率。"
+msgstr ""
+
+#: [zh_CN]125225
+msgid "全部队暴击几率。"
+msgstr ""
+
+#: [zh_CN]125226
+msgid "减少部队受到的暴击伤害。"
+msgstr ""
+
+#: [zh_CN]125227
+msgid "增加所有步兵防御。"
+msgstr ""
+
+#: [zh_CN]125228
+msgid "增加所有骑兵防御。"
+msgstr ""
+
+#: [zh_CN]125229
+msgid "增加所有弓弩防御。"
+msgstr ""
+
+#: [zh_CN]125230
+msgid "增加所有战车防御。"
+msgstr ""
+
+#: [zh_CN]125231
+msgid "增加部队的防御。"
+msgstr ""
+
+#: [zh_CN]125232
+msgid "所有部队生命增加。"
+msgstr ""
+
+#: [zh_CN]125233
+msgid "增加部队的命中。"
+msgstr ""
+
+#: [zh_CN]125234
+msgctxt "[zh_CN]125234"
+msgid "增加所有步兵攻击。"
+msgstr ""
+
+#: [zh_CN]125235
+msgctxt "[zh_CN]125235"
+msgid "增加所有骑兵攻击。"
+msgstr ""
+
+#: [zh_CN]125236
+msgctxt "[zh_CN]125236"
+msgid "增加所有弓弩攻击。"
+msgstr ""
+
+#: [zh_CN]125237
+msgctxt "[zh_CN]125237"
+msgid "增加所有战车攻击。"
+msgstr ""
+
+#: [zh_CN]125238
+msgid "增加部队的攻击伤害。"
+msgstr ""
+
+#: [zh_CN]125239
+msgid "增加部队的闪避。"
+msgstr ""
+
+#: [zh_CN]126000
+msgid "行军速度均提高{0}"
+msgstr ""
+
+#: [zh_CN]126001
+msgid "攻城战时士兵的攻击力提升{0}"
+msgstr ""
+
+#: [zh_CN]126002
+msgid "营地战时士兵的攻击力提升{0}"
+msgstr ""
+
+#: [zh_CN]126003
+msgid "资源战时士兵的攻击力提升{0}"
+msgstr ""
+
+#: [zh_CN]126004
+msgid "攻城战时领主释放技能的几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126005
+msgid "攻城战时降低守方伤兵比例{0}"
+msgstr ""
+
+#: [zh_CN]126006
+msgid "攻破敌方城市后，敌方城市燃烧速度增加{0}"
+msgstr ""
+
+#: [zh_CN]126007
+msgid "守城战时士兵的防御力提升{0}"
+msgstr ""
+
+#: [zh_CN]126008
+msgid "营地战时士兵的防御力提升{0}"
+msgstr ""
+
+#: [zh_CN]126009
+msgid "资源战时士兵的防御力提升{0}"
+msgstr ""
+
+#: [zh_CN]126010
+msgid "守城战时领主释放技能的几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126011
+msgid "营地战失败时返回部队的速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126012
+msgid "资源点防守失败时可以携带会已采集资源的{0}"
+msgstr ""
+
+#: [zh_CN]126013
+msgid "守城失败时，{0}的银币不会被抢夺"
+msgstr ""
+
+#: [zh_CN]126014
+msgid "提升单次训练士兵时的数量上限{0}人"
+msgstr ""
+
+#: [zh_CN]126015
+msgid "步兵的训练速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126016
+msgid "骑兵的训练速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126017
+msgid "弓弩兵的训练速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126018
+msgid "战车兵的训练速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126019
+msgid "医院容纳伤兵的数量上限增加{0}人"
+msgstr ""
+
+#: [zh_CN]126020
+msgid "治疗伤兵的速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126021
+msgid "出征部队的负重增加{0}"
+msgstr ""
+
+#: [zh_CN]126022
+msgid "木材的采集速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126023
+msgid "秘银的采集速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126024
+msgid "铁矿的采集速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126025
+msgid "粮食的采集速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126026
+msgid "银币的采集速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126027
+msgid "金币的采集速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126028
+msgid "出兵探险时的行军速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126029
+msgid "对遗迹守卫的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126030
+msgid "探险遇到陷阱的几率降低{0}"
+msgstr ""
+
+#: [zh_CN]126031
+msgid "探险事件的触发时间间隔缩短{0}"
+msgstr ""
+
+#: [zh_CN]126032
+msgid "获得宝物的概率提高{0}"
+msgstr ""
+
+#: [zh_CN]126033
+msgid "探险中获得的个人经验值提高{0}"
+msgstr ""
+
+#: [zh_CN]126034
+msgid "探险时获得的领主经验值提高{0}"
+msgstr ""
+
+#: [zh_CN]126035
+msgid "增加地窖的资源保护上限{0}"
+msgstr ""
+
+#: [zh_CN]126036
+msgid "城市的木材产量提高{0}"
+msgstr ""
+
+#: [zh_CN]126037
+msgid "城市的秘银产量提高{0}"
+msgstr ""
+
+#: [zh_CN]126038
+msgid "城市的铁矿产量提高{0}"
+msgstr ""
+
+#: [zh_CN]126039
+msgid "城市的粮食产量提高{0}"
+msgstr ""
+
+#: [zh_CN]126040
+msgid "城市的银币产量提高{0}"
+msgstr ""
+
+#: [zh_CN]126041
+msgid "部队的维护费用降低{0}"
+msgstr ""
+
+#: [zh_CN]126042
+msgid "提高陷阱对用盾步兵的伤害{0}，对用枪步兵的伤害{1}"
+msgstr ""
+
+#: [zh_CN]126043
+msgid "提高陷阱对近战骑兵的伤害{0}，对射箭骑兵的伤害{1}"
+msgstr ""
+
+#: [zh_CN]126044
+msgid "提高陷阱对弓兵的伤害{0}，对弩兵的伤害{1}"
+msgstr ""
+
+#: [zh_CN]126045
+msgid "提高陷阱对近战车兵的伤害{0}，对投石车兵的伤害{1}"
+msgstr ""
+
+#: [zh_CN]126046
+msgid "降低陷阱的消耗数量{0}"
+msgstr ""
+
+#: [zh_CN]126047
+msgid "额外增加城防值上限{0}点"
+msgstr ""
+
+#: [zh_CN]126048
+msgid "陷阱的制造速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126049
+msgid "降低陷阱造成的伤害{0}"
+msgstr ""
+
+#: [zh_CN]126050
+msgid "降低箭塔造成的伤害{0}"
+msgstr ""
+
+#: [zh_CN]126051
+msgid "降低对方领主技能释放几率{0}"
+msgstr ""
+
+#: [zh_CN]126052
+msgid "攻城战胜利后掠夺的资源量提高{0}"
+msgstr ""
+
+#: [zh_CN]126053
+msgid "掠夺已采集资源的{0}"
+msgstr ""
+
+#: [zh_CN]126054
+msgid "攻城战胜利后返回的行军速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126055
+msgid "非守城战中也会产生{0}的伤兵"
+msgstr ""
+
+#: [zh_CN]126056
+msgid "增加所有步兵的攻击力{0}，防御力{1}"
+msgstr ""
+
+#: [zh_CN]126057
+msgctxt "[zh_CN]126057"
+msgid "弓兵对用盾步兵的伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126058
+msgid "用枪步兵对近战骑兵的伤害增加{0}"
+msgstr ""
+
+#: [zh_CN]126059
+msgid "用盾步兵的防御增加{0}"
+msgstr ""
+
+#: [zh_CN]126060
+msgid "用枪步兵的暴击几率增加{0}"
+msgstr ""
+
+#: [zh_CN]126061
+msgid "所有步兵的生命增加{0}"
+msgstr ""
+
+#: [zh_CN]126062
+msgid "盾击的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126063
+msgid "横扫的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126064
+msgid "盾击和横扫技能伤害提高{0}，有{1}几率让敌人眩晕2回合不能移动和攻击。"
+msgstr ""
+
+#: [zh_CN]126065
+msgid "所有骑兵的攻击和防御提高{0}"
+msgstr ""
+
+#: [zh_CN]126066
+msgid "近战骑兵对用盾的步兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126067
+msgid "射箭骑兵在资源点战斗中的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126068
+msgctxt "[zh_CN]126068"
+msgid "近战骑兵的闪避几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126069
+msgctxt "[zh_CN]126069"
+msgid "射箭骑兵的命中提高{0}，攻击提高{1}"
+msgstr ""
+
+#: [zh_CN]126070
+msgid "所有骑兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126071
+msgid "冲锋的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126072
+msgid "偷袭的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126073
+msgid "冲锋和突袭技能伤害提高{0}，有{1}几率让敌人破胆3回合防御大幅下降。"
+msgstr ""
+
+#: [zh_CN]126074
+msgid "弓弩兵的攻击提高{0}，防御提高{1}"
+msgstr ""
+
+#: [zh_CN]126075
+msgctxt "[zh_CN]126075"
+msgid "弓兵对用枪步兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126076
+msgid "弩兵在守城战中的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126077
+msgctxt "[zh_CN]126077"
+msgid "弓兵造成的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126078
+msgctxt "[zh_CN]126078"
+msgid "弩兵的攻击伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126079
+msgid "弓兵和弩兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126080
+msgid "齐射的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126081
+msgid "贯射的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126082
+msgctxt "[zh_CN]126082"
+msgid "使齐射和贯射可以对敌人造成2次伤害。"
+msgstr ""
+
+#: [zh_CN]126083
+msgid "所有战车的攻击提高{0}，防御提高{1}"
+msgstr ""
+
+#: [zh_CN]126084
+msgctxt "[zh_CN]126084"
+msgid "投石战车的负重提高{0}"
+msgstr ""
+
+#: [zh_CN]126085
+msgid "冲锋战车部队在攻城战中的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126086
+msgid "投石战车部队的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126087
+msgctxt "[zh_CN]126087"
+msgid "陷阱对冲锋战车的伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126088
+msgid "所有战车的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126089
+msgid "碎石的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126090
+msgid "冲撞的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126091
+msgctxt "[zh_CN]126091"
+msgid "使落石和冲撞技能多打击一个敌人。"
+msgstr ""
+
+#: [zh_CN]126092
+msgid "横扫千军的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126093
+msgid "对所有步兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126094
+msgid "对所有骑兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126095
+msgid "对所有弓弩兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126096
+msgid "对所有车兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126097
+msgid "己方部队的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126098
+msgid "横扫千军的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126099
+msgid "横扫千军的命中目标增加{0}"
+msgstr ""
+
+#: [zh_CN]126100
+msgctxt "[zh_CN]126100"
+msgid "横扫千军技能必定造成暴击效果。"
+msgstr ""
+
+#: [zh_CN]126101
+msgid "千军破的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126102
+msgid "对所有近战兵种的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126103
+msgid "对所有远程兵种的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126104
+msgid "被攻击的敌方近战单位防御力降低{0}"
+msgstr ""
+
+#: [zh_CN]126105
+msgid "被攻击的敌方远程单位防御力降低{0}"
+msgstr ""
+
+#: [zh_CN]126106
+msgid "己方部队的暴击几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126107
+msgid "千军破的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126108
+msgid "千军破的命中目标增加{0}"
+msgstr ""
+
+#: [zh_CN]126109
+msgctxt "[zh_CN]126109"
+msgid "横扫千军技能有一定几率造成混乱效果，使其2回合内不能攻击和移动。"
+msgstr ""
+
+#: [zh_CN]126110
+msgid "敌将的技能伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126111
+msgid "敌方部队的攻击力减少{0}"
+msgstr ""
+
+#: [zh_CN]126112
+msgid "敌方部队的防御力减少{0}"
+msgstr ""
+
+#: [zh_CN]126113
+msgid "狮吼的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126114
+msgid "敌将的技能释放几率降低{0}"
+msgstr ""
+
+#: [zh_CN]126115
+msgid "自己的技能释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126116
+msgid "狮吼的持续回合数增加{0}"
+msgstr ""
+
+#: [zh_CN]126117
+msgid "用盾步兵的攻击提高{0}，防御提高{1}"
+msgstr ""
+
+#: [zh_CN]126118
+msgctxt "[zh_CN]126118"
+msgid "弓兵对用盾步兵的伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126119
+msgid "用盾步兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126120
+msgid "用盾步兵的防御提高{0}"
+msgstr ""
+
+#: [zh_CN]126121
+msgid "用盾步兵受到的伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126122
+msgid "盾击的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126123
+msgid "用枪步兵的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126124
+msgid "用枪步兵对所有骑兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126125
+msgid "用枪步兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126126
+msgid "用枪步兵的暴击几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126127
+msgid "用枪步兵的暴击伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126128
+msgid "冲刺的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126129
+msgid "近战骑兵的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126130
+msgid "近战骑兵对所有步兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126131
+msgid "近战骑兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126132
+msgid "近战骑兵在地图上的行军速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126133
+msgctxt "[zh_CN]126133"
+msgid "近战骑兵的闪避几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126134
+msgid "践踏的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126135
+msgid "射箭骑兵的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126136
+msgid "射箭骑兵在资源战中的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126137
+msgid "射箭骑兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126138
+msgid "射箭骑兵在地图上的行军速度提高{0}"
+msgstr ""
+
+#: [zh_CN]126139
+msgctxt "[zh_CN]126139"
+msgid "射箭骑兵的命中提高{0}，攻击提高{1}"
+msgstr ""
+
+#: [zh_CN]126140
+msgid "落日箭的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126141
+msgid "弓兵的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126142
+msgctxt "[zh_CN]126142"
+msgid "弓兵对用枪步兵的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126143
+msgid "弓兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126144
+msgctxt "[zh_CN]126144"
+msgid "弓兵造成的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126145
+msgid "弓兵的命中几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126146
+msgid "齐射的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126147
+msgid "弩兵的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126148
+msgid "弩兵部队在守城战中的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126149
+msgid "弩兵的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126150
+msgctxt "[zh_CN]126150"
+msgid "弩兵的攻击伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126151
+msgid "弩兵的暴击几率提高{0}，暴击伤害提高{1}"
+msgstr ""
+
+#: [zh_CN]126152
+msgid "贯射的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126153
+msgid "投石战车的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126154
+msgctxt "[zh_CN]126154"
+msgid "投石战车的负重提高{0}"
+msgstr ""
+
+#: [zh_CN]126155
+msgid "投石战车的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126156
+msgid "投石战车的伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126157
+msgid "投石战车的命中提高{0}"
+msgstr ""
+
+#: [zh_CN]126158
+msgid "碎石的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126159
+msgid "冲锋战车的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126160
+msgid "冲锋战车在攻城战中的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126161
+msgid "冲锋战车的生命提高{0}"
+msgstr ""
+
+#: [zh_CN]126162
+msgid "冲锋战车的防御提高{0}"
+msgstr ""
+
+#: [zh_CN]126163
+msgctxt "[zh_CN]126163"
+msgid "陷阱对冲锋战车的伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126164
+msgid "冲撞的伤害提高{0}，释放几率提高{1}"
+msgstr ""
+
+#: [zh_CN]126165
+msgid "伏击的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126166
+msgctxt "[zh_CN]126166"
+msgid "对弓兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126167
+msgctxt "[zh_CN]126167"
+msgid "对弩兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126168
+msgid "用盾步兵的防御力提高{0}"
+msgstr ""
+
+#: [zh_CN]126169
+msgid "伏击的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126170
+msgid "伏击攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126171
+msgid "冲刺的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126172
+msgctxt "[zh_CN]126172"
+msgid "对用盾步兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126173
+msgctxt "[zh_CN]126173"
+msgid "对近战骑兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126174
+msgid "用枪步兵的暴击率提高{0}"
+msgstr ""
+
+#: [zh_CN]126175
+msgid "冲刺的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126176
+msgid "冲刺攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126177
+msgid "迂回的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126178
+msgctxt "[zh_CN]126178"
+msgid "对弩兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126179
+msgctxt "[zh_CN]126179"
+msgid "对投石战车伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126180
+msgid "近战骑兵的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126181
+msgid "迂回的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126182
+msgid "迂回攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126183
+msgid "骑射的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126184
+msgctxt "[zh_CN]126184"
+msgid "对用枪步兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126185
+msgctxt "[zh_CN]126185"
+msgid "对近战骑兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126186
+msgid "远程骑兵的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126187
+msgid "骑射的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126188
+msgid "骑射攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126189
+msgid "火矢的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126190
+msgctxt "[zh_CN]126190"
+msgid "对投石战车伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126191
+msgid "对冲锋战车伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126192
+msgid "弓兵的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126193
+msgid "火矢的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126194
+msgid "火矢攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126195
+msgid "连射的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126196
+msgctxt "[zh_CN]126196"
+msgid "对用枪步兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126197
+msgctxt "[zh_CN]126197"
+msgid "对射箭骑兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126198
+msgid "弩兵的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126199
+msgid "连射的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126200
+msgid "连射攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126201
+msgid "巨石的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126202
+msgctxt "[zh_CN]126202"
+msgid "对投石战车伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126203
+msgctxt "[zh_CN]126203"
+msgid "对弓兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126204
+msgid "投石战车的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126205
+msgid "巨石的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126206
+msgid "巨石攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126207
+msgid "陷阵的技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126208
+msgctxt "[zh_CN]126208"
+msgid "对用盾步兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126209
+msgctxt "[zh_CN]126209"
+msgid "对射箭骑兵伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126210
+msgid "冲锋战车的攻击力提高{0}"
+msgstr ""
+
+#: [zh_CN]126211
+msgid "陷阵的释放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126212
+msgid "陷阵攻击的敌军数量提高{0}"
+msgstr ""
+
+#: [zh_CN]126213
+msgid "自身技能伤害提高{0}"
+msgstr ""
+
+#: [zh_CN]126214
+msgid "己方部队的攻击提高{0}"
+msgstr ""
+
+#: [zh_CN]126215
+msgid "己方部队的防御提高{0}"
+msgstr ""
+
+#: [zh_CN]126216
+msgid "释放擂鼓技能的几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126217
+msgid "自身的技能施放几率提高{0}"
+msgstr ""
+
+#: [zh_CN]126218
+msgid "擂鼓效果的持续回合数增加{0}"
+msgstr ""
+
+#: [zh_CN]126219
+msgid "全部部队暴击伤害增加{0}"
+msgstr ""
+
+#: [zh_CN]126220
+msgctxt "[zh_CN]126220"
+msgid "所有步兵的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126221
+msgctxt "[zh_CN]126221"
+msgid "所有骑兵的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126222
+msgctxt "[zh_CN]126222"
+msgid "所有弓弩的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126223
+msgctxt "[zh_CN]126223"
+msgid "所有战车的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126224
+msgid "全部队受到的暴击几率降低{0}"
+msgstr ""
+
+#: [zh_CN]126225
+msgid "全部队暴击几率增加{0}"
+msgstr ""
+
+#: [zh_CN]126226
+msgid "部队受到的暴击伤害降低{0}"
+msgstr ""
+
+#: [zh_CN]126227
+msgid "所有步兵的防御增加{0}"
+msgstr ""
+
+#: [zh_CN]126228
+msgid "所有骑兵的防御增加{0}"
+msgstr ""
+
+#: [zh_CN]126229
+msgid "所有弓弩的防御增加{0}"
+msgstr ""
+
+#: [zh_CN]126230
+msgid "所有战车的防御增加{0}"
+msgstr ""
+
+#: [zh_CN]126231
+msgid "所有部队的防御增加{0}"
+msgstr ""
+
+#: [zh_CN]126232
+msgid "所有部队生命增加{0}"
+msgstr ""
+
+#: [zh_CN]126233
+msgid "所有部队的命中增加{0}"
+msgstr ""
+
+#: [zh_CN]126234
+msgctxt "[zh_CN]126234"
+msgid "所有步兵的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126235
+msgctxt "[zh_CN]126235"
+msgid "所有骑兵的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126236
+msgctxt "[zh_CN]126236"
+msgid "所有弓弩的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126237
+msgctxt "[zh_CN]126237"
+msgid "所有战车的攻击增加{0}"
+msgstr ""
+
+#: [zh_CN]126238
+msgid "所有部队的攻击伤害增加{0}"
+msgstr ""
+
+#: [zh_CN]126239
+msgid "所有部队的闪避增加{0}"
+msgstr ""
+
+#: [zh_CN]2000000
+msgid "建造{0}个农田,在乡村"
+msgstr ""
+
+#: [zh_CN]2000001
+msgid "在外城区域，可以建造农田，建造农田可以提高粮食产量。"
+msgstr ""
+
+#: [zh_CN]2000002
+msgid "升级农田至{0}级"
+msgstr ""
+
+#: [zh_CN]2000003
+msgid "升级农田可以提高粮食产量，多个农田的效果可以相互叠加。"
+msgstr ""
+
+#: [zh_CN]2000004
+msgid "建造{0}个伐木场"
+msgstr ""
+
+#: [zh_CN]2000005
+msgid "在外城区域，可以建造伐木场，建造伐木场可以提高木材产量。"
+msgstr ""
+
+#: [zh_CN]2000006
+msgid "升级伐木场至{0}级"
+msgstr ""
+
+#: [zh_CN]2000007
+msgid "升级伐木场可以提高木材产量，多个伐木场的效果可以相互叠加。"
+msgstr ""
+
+#: [zh_CN]2000008
+msgid "建造{0}个铁矿场"
+msgstr ""
+
+#: [zh_CN]2000009
+msgid "在外城区域，可以建造铁矿场，建造铁矿场可以提高铁矿产量。"
+msgstr ""
+
+#: [zh_CN]2000010
+msgid "升级铁矿场至{0}级"
+msgstr ""
+
+#: [zh_CN]2000011
+msgid "升级铁矿场可以提高铁矿产量，多个铁矿场的效果可以相互叠加。"
+msgstr ""
+
+#: [zh_CN]2000012
+msgid "建造{0}个秘银矿场"
+msgstr ""
+
+#: [zh_CN]2000013
+msgid "在外城区域，可以建造秘银矿场，建造秘银矿场可以提高秘银产量。"
+msgstr ""
+
+#: [zh_CN]2000014
+msgid "升级秘银矿场至{0}级"
+msgstr ""
+
+#: [zh_CN]2000015
+msgid "升级秘银矿场可以提高秘银产量，多个秘银矿场的效果可以相互叠加。"
+msgstr ""
+
+#: [zh_CN]2000016
+msgid "建造{0}个仓库"
+msgstr ""
+
+#: [zh_CN]2000017
+msgid "在内城区域，可以建造仓库。"
+msgstr ""
+
+#: [zh_CN]2000018
+msgid "升级仓库至{0}级"
+msgstr ""
+
+#: [zh_CN]2000019
+msgid "提高仓库存储量，仓库中的资源无法被掠夺。"
+msgstr ""
+
+#: [zh_CN]2000020
+msgid "粮食的基础产量达到{0}/h"
+msgstr ""
+
+#: [zh_CN]2000021
+msgid "木材的基础产量达到{0}/h"
+msgstr ""
+
+#: [zh_CN]2000022
+msgid "铁矿的基础产量达到{0}/h"
+msgstr ""
+
+#: [zh_CN]2000023
+msgid "秘银的基础产量达到{0}/h"
+msgstr ""
+
+#: [zh_CN]2000024
+msgid "建造农田{0}个"
+msgstr ""
+
+#: [zh_CN]2000025
+msgid "建造伐木场{0}个"
+msgstr ""
+
+#: [zh_CN]2000026
+msgid "建造铁矿场{0}个"
+msgstr ""
+
+#: [zh_CN]2000027
+msgid "建造秘银矿{0}个"
+msgstr ""
+
+#: [zh_CN]2000028
+msgid "在外城，开放{0}片资源区域"
+msgstr ""
+
+#: [zh_CN]2000029
+msgid "开放资源田，可以建造更多的资源田"
+msgstr ""
+
+#: [zh_CN]2000030
+msgid "建造{0}个兵营"
+msgstr ""
+
+#: [zh_CN]2000031
+msgid "在内城区域，可以建造兵营"
+msgstr ""
+
+#: [zh_CN]2000032
+msgid "升级兵营至{0}级"
+msgstr ""
+
+#: [zh_CN]2000033
+msgid "升级兵营可以解锁更多的步兵兵种。"
+msgstr ""
+
+#: [zh_CN]2000034
+msgid "建造{0}个马厩，在城市"
+msgstr ""
+
+#: [zh_CN]2000035
+msgid "在内城区域，可以建造马厩。"
+msgstr ""
+
+#: [zh_CN]2000036
+msgid "升级马厩至{0}级"
+msgstr ""
+
+#: [zh_CN]2000037
+msgid "升级马厩可以解锁更多的骑兵兵种。"
+msgstr ""
+
+#: [zh_CN]2000038
+msgid "建造{0}个靶场"
+msgstr ""
+
+#: [zh_CN]2000039
+msgid "在内城区域，可以建造靶场。"
+msgstr ""
+
+#: [zh_CN]2000040
+msgid "升级靶场至{0}级"
+msgstr ""
+
+#: [zh_CN]2000041
+msgid "升级靶场可以解锁更多的弓兵兵种。"
+msgstr ""
+
+#: [zh_CN]2000042
+msgid "建造{0}个战车工坊"
+msgstr ""
+
+#: [zh_CN]2000043
+msgid "在内城区域，可以建造战车工坊。"
+msgstr ""
+
+#: [zh_CN]2000044
+msgid "升级战车工坊至{0}级"
+msgstr ""
+
+#: [zh_CN]2000045
+msgid "升级战车工坊可以解锁更多的战车。"
+msgstr ""
+
+#: [zh_CN]2000046
+msgid "升级瞭望塔至{0}级"
+msgstr ""
+
+#: [zh_CN]2000047
+msgid "升级瞭望塔可以获得更多的敌情报告。"
+msgstr ""
+
+#: [zh_CN]2000048
+msgid "升级城墙至{0}级"
+msgstr ""
+
+#: [zh_CN]2000049
+msgid "升级城墙允许你建造更多的陷阱。"
+msgstr ""
+
+#: [zh_CN]2000050
+msgid "升级箭塔至{0}级"
+msgstr ""
+
+#: [zh_CN]2000051
+msgctxt "[zh_CN]2000051"
+msgid "升级箭塔可以获得更高的属性"
+msgstr ""
+
+#: [zh_CN]2000052
+msgid "建造{0}个校场"
+msgstr ""
+
+#: [zh_CN]2000053
+msgid "在内城区域，可以建造校场。"
+msgstr ""
+
+#: [zh_CN]2000054
+msgid "升级校场至{0}级"
+msgstr ""
+
+#: [zh_CN]2000055
+msgctxt "[zh_CN]2000055"
+msgid "升级校场可以提高行军规模"
+msgstr ""
+
+#: [zh_CN]2000056
+msgid "建造{0}个战争堡垒"
+msgstr ""
+
+#: [zh_CN]2000057
+msgid "在内城区域，可以建造战争堡垒。"
+msgstr ""
+
+#: [zh_CN]2000058
+msgid "升级战争堡垒至{0}级"
+msgstr ""
+
+#: [zh_CN]2000059
+msgid "升级战争堡垒可以制作更多的新陷阱"
+msgstr ""
+
+#: [zh_CN]2000060
+msgid "建造{0}个行军帐篷"
+msgstr ""
+
+#: [zh_CN]2000061
+msgid "在外城区域，可以建造行军帐篷。"
+msgstr ""
+
+#: [zh_CN]2000062
+msgid "升级行军帐篷至{0}级"
+msgstr ""
+
+#: [zh_CN]2000063
+msgctxt "[zh_CN]2000063"
+msgid "升级行军帐篷可以提升士兵的训练量和训练速度"
+msgstr ""
+
+#: [zh_CN]2000064
+msgid "建造{0}个急救帐篷"
+msgstr ""
+
+#: [zh_CN]2000065
+msgid "在外城区域，可以建造急救帐篷。"
+msgstr ""
+
+#: [zh_CN]2000066
+msgid "升级急救帐篷至{0}级"
+msgstr ""
+
+#: [zh_CN]2000067
+msgctxt "[zh_CN]2000067"
+msgid "升级急救帐篷可以提升可收治伤兵的数目"
+msgstr ""
+
+#: [zh_CN]2000068
+msgid "训练{0}个民兵"
+msgstr ""
+
+#: [zh_CN]2000069
+msgid "训练{0}个步兵"
+msgstr ""
+
+#: [zh_CN]2000070
+msgid "训练{0}个矛手"
+msgstr ""
+
+#: [zh_CN]2000071
+msgid "训练{0}个剑士"
+msgstr ""
+
+#: [zh_CN]2000072
+msgid "训练{0}个枪兵"
+msgstr ""
+
+#: [zh_CN]2000073
+msgid "训练{0}个贵族剑士"
+msgstr ""
+
+#: [zh_CN]2000074
+msgid "训练{0}个近卫军"
+msgstr ""
+
+#: [zh_CN]2000075
+msgid "训练{0}个重装长枪兵"
+msgstr ""
+
+#: [zh_CN]2000076
+msgid "训练{0}个戟兵"
+msgstr ""
+
+#: [zh_CN]2000077
+msgid "训练{0}个狂战士"
+msgstr ""
+
+#: [zh_CN]2000078
+msgid "训练{0}个骑手"
+msgstr ""
+
+#: [zh_CN]2000079
+msgid "训练{0}个轻骑兵"
+msgstr ""
+
+#: [zh_CN]2000080
+msgid "训练{0}个重骑兵"
+msgstr ""
+
+#: [zh_CN]2000081
+msgid "训练{0}个弓骑兵"
+msgstr ""
+
+#: [zh_CN]2000082
+msgid "训练{0}个骑射手"
+msgstr ""
+
+#: [zh_CN]2000083
+msgid "训练{0}个圣殿骑士"
+msgstr ""
+
+#: [zh_CN]2000084
+msgid "训练{0}个重装骑射手"
+msgstr ""
+
+#: [zh_CN]2000085
+msgid "训练{0}个皇家骑士"
+msgstr ""
+
+#: [zh_CN]2000086
+msgid "训练{0}个突骑射手"
+msgstr ""
+
+#: [zh_CN]2000087
+msgid "训练{0}个战象"
+msgstr ""
+
+#: [zh_CN]2000088
+msgid "训练{0}个短弓手"
+msgstr ""
+
+#: [zh_CN]2000089
+msgid "训练{0}个长弓手"
+msgstr ""
+
+#: [zh_CN]2000090
+msgid "训练{0}个弩手"
+msgstr ""
+
+#: [zh_CN]2000091
+msgid "训练{0}个劲弩手"
+msgstr ""
+
+#: [zh_CN]2000092
+msgid "训练{0}个精锐长弓手"
+msgstr ""
+
+#: [zh_CN]2000093
+msgid "训练{0}个护卫射手"
+msgstr ""
+
+#: [zh_CN]2000094
+msgid "训练{0}个重弩手"
+msgstr ""
+
+#: [zh_CN]2000095
+msgid "训练{0}个雄鹰射手"
+msgstr ""
+
+#: [zh_CN]2000096
+msgid "训练{0}个巨弩手"
+msgstr ""
+
+#: [zh_CN]2000097
+msgid "训练{0}个神射手"
+msgstr ""
+
+#: [zh_CN]2000098
+msgid "训练{0}个投石器"
+msgstr ""
+
+#: [zh_CN]2000099
+msgid "训练{0}个冲车"
+msgstr ""
+
+#: [zh_CN]2000100
+msgid "训练{0}个投石车"
+msgstr ""
+
+#: [zh_CN]2000101
+msgid "训练{0}个攻城锤"
+msgstr ""
+
+#: [zh_CN]2000102
+msgid "训练{0}个重型投石车"
+msgstr ""
+
+#: [zh_CN]2000103
+msgid "训练{0}个攻城车"
+msgstr ""
+
+#: [zh_CN]2000104
+msgid "训练{0}个抛石机"
+msgstr ""
+
+#: [zh_CN]2000105
+msgid "训练{0}个弩炮"
+msgstr ""
+
+#: [zh_CN]2000106
+msgid "训练{0}个攻城塔"
+msgstr ""
+
+#: [zh_CN]2000107
+msgid "训练{0}个火炮"
+msgstr ""
+
+#: [zh_CN]2000108
+msgid "在兵营中训练"
+msgstr ""
+
+#: [zh_CN]2000109
+msgid "在马厩中训练"
+msgstr ""
+
+#: [zh_CN]2000110
+msgid "在靶场中训练"
+msgstr ""
+
+#: [zh_CN]2000111
+msgid "在战车工坊中训练"
+msgstr ""
+
+#: [zh_CN]2000112
+msgid "建造{0}个陷阱"
+msgstr ""
+
+#: [zh_CN]2000113
+msgid "战争堡垒中可以建造陷阱"
+msgstr ""
+
+#: [zh_CN]2000114
+msgid "攻城胜利{0}次"
+msgstr ""
+
+#: [zh_CN]2000115
+msgid "世界中，攻打别人帝国并赢取胜利"
+msgstr ""
+
+#: [zh_CN]2000116
+msgid "防御成功{0}次"
+msgstr ""
+
+#: [zh_CN]2000117
+msgid "保卫帝国，击退敌人的进攻"
+msgstr ""
+
+#: [zh_CN]2000118
+msgid "升级大本营至{0}级"
+msgstr ""
+
+#: [zh_CN]2000119
+msgid "升级大本营可以解锁新的建筑和功能"
+msgstr ""
+
+#: [zh_CN]2000120
+msgid "建造{0}大使馆"
+msgstr ""
+
+#: [zh_CN]2000121
+msgid "在内城区域，可以建造大使馆。"
+msgstr ""
+
+#: [zh_CN]2000122
+msgid "升级大使馆至{0}级"
+msgstr ""
+
+#: [zh_CN]2000123
+msgid "在大使馆里，你可以与联盟成员进行交流"
+msgstr ""
+
+#: [zh_CN]2000124
+msgid "领主升级至{0}级"
+msgstr ""
+
+#: [zh_CN]2000125
+msgid "升级领主可以获得更多的能力点数"
+msgstr ""
+
+#: [zh_CN]2000126
+msgid "完成{0}个任务"
+msgstr ""
+
+#: [zh_CN]2000127
+msgid "努力完成任务，可使帝国更加强大"
+msgstr ""
+
+#: [zh_CN]2000128
+msgid "累计探险{0}分钟"
+msgstr ""
+
+#: [zh_CN]2000129
+msgid "累计探险{0}小时"
+msgstr ""
+
+#: [zh_CN]2000130
+msgid "世界中的城堡遗迹，可派部队去那里探险"
+msgstr ""
+
+#: [zh_CN]2000131
+msgid "建造{0}学院，在城市"
+msgstr ""
+
+#: [zh_CN]2000132
+msgid "在内城区域，可以建造学院。"
+msgstr ""
+
+#: [zh_CN]2000133
+msgid "升级学院至{0}级"
+msgstr ""
+
+#: [zh_CN]2000134
+msgctxt "[zh_CN]2000134"
+msgid "升级学院可以解锁新的科技"
+msgstr ""
+
+#: [zh_CN]2000135
+msgid "成功研究{0}次科技"
+msgstr ""
+
+#: [zh_CN]2000136
+msgid "在学院中，可以研究科技"
+msgstr ""
+
+#: [zh_CN]2000137
+msgid "建造{0}个行军帐篷,在乡村"
+msgstr ""
+
+#: [zh_CN]3000000
+msgid "继续"
+msgstr ""
+
+#: [zh_CN]3000001
+msgid "丹妮丝："
+msgstr ""
+
+#: [zh_CN]3000002
+msgid "丹妮丝"
+msgstr ""
+
+#: [zh_CN]3000003
+msgid "侦察兵"
+msgstr ""
+
+#: [zh_CN]3000004
+msgid "领主"
+msgstr ""
+
+#: [zh_CN]3000005
+msgid "战士们"
+msgstr ""
+
+#: [zh_CN]3000006
+msgid "冲锋！！！"
+msgstr ""
+
+#: [zh_CN]3000007
+msgid "步兵首领"
+msgstr ""
+
+#: [zh_CN]3000008
+msgid "骑兵首领"
+msgstr ""
+
+#: [zh_CN]3000009
+msgid "弓箭手首领"
+msgstr ""
+
+#: [zh_CN]3010111
+msgid "领主大人！敌人将要进攻,我们要尽快将帝国建设强大。"
+msgstr ""
+
+#: [zh_CN]3010211
+msgid "首先，需要一个农田。食物对于帝国发展来说是极其重要的！"
+msgstr ""
+
+#: [zh_CN]3010611
+msgid "点击按钮立即完成农田建造，每次看到它你都可以这么做。"
+msgstr ""
+
+#: [zh_CN]3010911
+msgid "领主大人，我们现在的目标是：继续建造两个农田，完成后，就能获得第一个成就奖励了。"
+msgstr ""
+
+#: [zh_CN]3011001
+msgid "推荐任务在这里，跟随它，帝国就会越来越强大。"
+msgstr ""
+
+#: [zh_CN]3011111
+msgid "领主，请不断完成推荐任务。你要多加努力，我们的帝国就看你的了。"
+msgstr ""
+
+#: [zh_CN]3020111
+msgid "恭喜！领主大人你完成了第一个成就，让我带你领奖吧。"
+msgstr ""
+
+#: [zh_CN]3020501
+msgid "新的目标。"
+msgstr ""
+
+#: [zh_CN]3056011
+msgid "领主，新目标是升级大本营，大本营是帝国的核心，升级它后可以增加更多战斗力。"
+msgstr ""
+
+#: [zh_CN]3021211
+msgid "看我没骗你吧，大本营成功升级，解锁了新建筑兵营。"
+msgstr ""
+
+#: [zh_CN]3021611
+msgid "兵营建造完毕，快打造自己的军队吧。"
+msgstr ""
+
+#: [zh_CN]3022111
+msgid "领主，我们现在财力充足，直接完成士兵的训练吧"
+msgstr ""
+
+#: [zh_CN]3050111
+msgid "啊哈，军队训练完毕，我们快去看看吧。"
+msgstr ""
+
+#: [zh_CN]3030111
+msgid "领主大人，现在我们有了军队。可以从世界中获得更多的资源。"
+msgstr ""
+
+#: [zh_CN]3030311
+msgid "这就是我们的世界，这里拥有许多的资源，我们可以获取它们。"
+msgstr ""
+
+#: [zh_CN]3030401
+msgid "看，一个伐木场，我们可派部队占领它并收集木材。"
+msgstr ""
+
+#: [zh_CN]3030501
+msgid "也可派部队去城堡遗迹中探险，会有丰厚奖励。"
+msgstr ""
+
+#: [zh_CN]3030611
+msgid "离自己城堡太远，可以通过这里快速返回。"
+msgstr ""
+
+#: [zh_CN]3030811
+msgid "部队收集木材需要一段时间，我们可以回城市继续发展。"
+msgstr ""
+
+#: [zh_CN]3030911
+msgid "好运！只要继续做推荐任务就可以增加战斗力。一个精彩的世界等待着你！"
+msgstr ""
+
+#: [zh_CN]3040111
+msgid "学院里可以研究很多厉害的科技，这可以加速帝国发展的重要手段。"
+msgstr ""
+
+#: [zh_CN]3040711
+msgid "请继续按照推荐任务发展帝国吧。好运，领主大人！"
+msgstr ""
+
+#: [zh_CN]3060111
+msgid "漂亮的工作，现在我们去领取任务奖励。"
+msgstr ""
+
+#: [zh_CN]3060211
+msgid "请注意看指示！"
+msgstr ""
+
+#: [zh_CN]3060411
+msgid "完成任务就可以获得奖励，跟着推荐任务，可以确保你的帝国获得足够的支持。"
+msgstr ""
+
+#: [zh_CN]3070211
+msgid "报告领主，敌人拒不投降。"
+msgstr ""
+
+#: [zh_CN]3070311
+msgid "那我们就让他们付出鲜血的代价！"
+msgstr ""
+
+#: [zh_CN]3070411
+msgid "领主，您的勇士们都准备好了！"
+msgstr ""
+
+#: [zh_CN]3070412
+msgid "等不及品尝他们的鲜血！"
+msgstr ""
+
+#: [zh_CN]3070511
+msgid "兄弟们，为了骑士的荣耀，夺回我们的家园！"
+msgstr ""
+
+#: [zh_CN]3070710
+msgid "1天后。。"
+msgstr ""
+
+#: [zh_CN]E000000
+msgid "操作无效，请再次尝试。"
+msgstr ""
+
+#: [zh_CN]E100000
+msgid "募兵令不足"
+msgstr ""
+
+#: [zh_CN]E100001
+msgid "金币不足"
+msgstr ""
+
+#: [zh_CN]E100002
+msgctxt "[zh_CN]E100002"
+msgid "资源不足"
+msgstr ""
+
+#: [zh_CN]E100003
+msgid "兵力不足"
+msgstr ""
+
+#: [zh_CN]E100004
+msgid "前置关卡尚未解锁，不能进行攻击"
+msgstr ""
+
+#: [zh_CN]E100005
+msgid "您的粮食不足，无法出战"
+msgstr ""
+
+#: [zh_CN]E100006
+msgid "战斗中不能使用募兵令募兵"
+msgstr ""
+
+#: [zh_CN]E100007
+msgid "粮食不足，不能募兵"
+msgstr ""
+
+#: [zh_CN]E100008
+msgid "此功能即将开放，敬请期待！"
+msgstr ""
+
+#: [zh_CN]E100009
+msgid "建筑队列已满，无法进行升级"
+msgstr ""
+
+#: [zh_CN]E100010
+msgid "没有可升级的建筑了"
+msgstr ""
+
+#: [zh_CN]E100011
+msgid "资源不足，无法升级建筑物"
+msgstr ""
+
+#: [zh_CN]E100012
+msgid "领主等级不足，不能继续升级建筑物"
+msgstr ""
+
+#: [zh_CN]E100013
+msgctxt "[zh_CN]E100013"
+msgid "升级完成"
+msgstr ""
+
+#: [zh_CN]E100014
+msgid "没有需要加速的建筑队列"
+msgstr ""
+
+#: [zh_CN]E100015
+msgid "您已经使用过一次加速了"
+msgstr ""
+
+#: [zh_CN]E100016
+msgid "该势力未开启，不能进行挑战"
+msgstr ""
+
+#: [zh_CN]E100017
+msgid "内政厅未开放，不能进行建筑物升级"
+msgstr ""
+
+#: [zh_CN]E100018
+msgid "所需资源不足，不能进行注资"
+msgstr ""
+
+#: [zh_CN]E100019
+msgid "同时只能进行一项科技的研究"
+msgstr ""
+
+#: [zh_CN]E100020
+msgid "购买次数不足"
+msgstr ""
+
+#: [zh_CN]E100021
+msgid "银币不足"
+msgstr ""
+
+#: [zh_CN]E100022
+msgctxt "[zh_CN]E100022"
+msgid "粮食不足"
+msgstr ""
+
+#: [zh_CN]E100023
+msgctxt "[zh_CN]E100023"
+msgid "粮食不足"
+msgstr ""
+
+#: [zh_CN]E100024
+msgid "镔铁不足"
+msgstr ""
+
+#: [zh_CN]E100025
+msgid "资源超过上限，无法兑换"
+msgstr ""
+
+#: [zh_CN]E100026
+msgid "未选中"
+msgstr ""
+
+#: [zh_CN]E100027
+msgid "是否花费{0}金币快速募兵？"
+msgstr ""
+
+#: [zh_CN]E100028
+msgid "国家功能暂未开放"
+msgstr ""
+
+#: [zh_CN]E100029
+msgid "你已使用过强化训练"
+msgstr ""
+
+#: [zh_CN]E100030
+msgid "金币消耗已经发生变化，请重新操作"
+msgstr ""
+
+#: [zh_CN]E100031
+msgid "英雄等级不可超过领主等级"
+msgstr ""
+
+#: [zh_CN]E100032
+msgid "没有合适的敌军，不能进行单挑"
+msgstr ""
+
+#: [zh_CN]E100033
+msgid "我方没有空闲的英雄，不能进行单挑"
+msgstr ""
+
+#: [zh_CN]E100034
+msgid "进行单挑需要消耗{0}金币，是否继续？"
+msgstr ""
+
+#: [zh_CN]E100035
+msgid "突进需要消耗{0}金币，是否继续？"
+msgstr ""
+
+#: [zh_CN]E100036
+msgid "没有未上阵的英雄，不能进行突进"
+msgstr ""
+
+#: [zh_CN]E100037
+msgid "战场优势不足，不能进行突进"
+msgstr ""
+
+#: [zh_CN]E100038
+msgid "没有可以突进的城市，不能进行突进"
+msgstr ""
+
+#: [zh_CN]E100039
+msgid "没有可以撤退的城市，不能进行撤退"
+msgstr ""
+
+#: [zh_CN]E100040
+msgid "没有未上阵的英雄，不能进行撤退"
+msgstr ""
+
+#: [zh_CN]E100041
+msgid "撤退会损失{0}士兵，是否继续？"
+msgstr ""
+
+#: [zh_CN]E100042
+msgid "支付失败"
+msgstr ""
+
+#: [zh_CN]E100043
+msgid "可攻击剩余次数不足，不能进行攻击"
+msgstr ""
+
+#: [zh_CN]E100044
+msgid "是否花费金币购买{0}点体力，您今天还有{1}次购买机会。"
+msgstr ""
+
+#: [zh_CN]E100045
+msgid "需要领主等级达到{0}级才可以使用"
+msgstr ""
+
+#: [zh_CN]E100046
+msgid "您今天购买体力的次数已经用完，请明天再试"
+msgstr ""
+
+#: [zh_CN]E100047
+msgid "体力不足，不能发起攻击"
+msgstr ""
+
+#: [zh_CN]E100048
+msgid "当前网络不可用，请重新加载！"
+msgstr ""
+
+#: [zh_CN]E100049
+msgid "请更新至最新版本，才能领取奖励"
+msgstr ""
+
+#: [zh_CN]E100050
+msgid "您的出征行为会结束您的免战状态，您的城市将不再被保护，是否继续？"
+msgstr ""
+
+#: [zh_CN]E100051
+msgid "您将迁往敌国领土，这样会对您产生一些不利影响，是否继续？"
+msgstr ""
+
+#: [zh_CN]E100052
+msgid "您将迁往战争地带，是否继续？"
+msgstr ""
+
+#: [zh_CN]E100053
+msgid "您的领主已经被流放，点击重建开始新的旅程。重建不会降低你的建筑物等级，只是重新选择一个地点而已。"
+msgstr ""
+
+#: [zh_CN]E100054
+msgid "联盟名称已存在"
+msgstr ""
+
+#: [zh_CN]E100055
+msgid "联盟简称已存在"
+msgstr ""
+
+#: [zh_CN]E100056
+msgid "您已加入联盟，不可再申请"
+msgstr ""
+
+#: [zh_CN]E100057
+msgid "申请加入的联盟不存在"
+msgstr ""
+
+#: [zh_CN]E100058
+msgid "已经申请过此联盟"
+msgstr ""
+
+#: [zh_CN]E100059
+msgid "您的权限不足，不能通过玩家的申请"
+msgstr ""
+
+#: [zh_CN]E100060
+msgid "您已经加入了一个联盟"
+msgstr ""
+
+#: [zh_CN]E100061
+msgid "你的联盟已解散"
+msgstr ""
+
+#: [zh_CN]E100062
+msgid "您的权限不足，不能发送联盟邀请"
+msgstr ""
+
+#: [zh_CN]E100063
+msgid "邀请的玩家已有联盟"
+msgstr ""
+
+#: [zh_CN]E100064
+msgid "您已经邀请过这个玩家"
+msgstr ""
+
+#: [zh_CN]E100065
+msgid "您所邀请的玩家已经加入其他联盟"
+msgstr ""
+
+#: [zh_CN]E100066
+msgid "您要加入的联盟已经解散"
+msgstr ""
+
+#: [zh_CN]E100067
+msgid "没有来自该联盟的邀请"
+msgstr ""
+
+#: [zh_CN]E100068
+msgid "您未加入联盟，暂时无法使用联盟聊天频道"
+msgstr ""
+
+#: [zh_CN]E100069
+msgid "服务器维护中，请稍后登录！"
+msgstr ""
+
+#: [zh_CN]E100070
+msgid "联盟成员已满"
+msgstr ""
+
+#: [zh_CN]E100071
+msgid "帮助信息已更新，点击确定后重试"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_info
+msgctxt "[zh_CN]building_clickbtn_info"
+msgid "信息"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_upgrade
+msgctxt "[zh_CN]building_clickbtn_upgrade"
+msgid "升级"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_collect
+msgctxt "[zh_CN]building_clickbtn_collect"
+msgid "收集"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_remove
+msgid "清除"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_train
+msgctxt "[zh_CN]building_clickbtn_train"
+msgid "训练"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_speedup
+msgid "立即完成"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_wallselectline
+msgid "选中一排"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_upgrade_allwall
+msgid "批量升级"
+msgstr ""
+
+#: [zh_CN]info_panel_upgrade_allwall
+msgid "对所有选中的{0}个城墙批量升级"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_view
+msgctxt "[zh_CN]building_clickbtn_view"
+msgid "查看"
+msgstr ""
+
+#: [zh_CN]building_clickbtn_sell
+msgid "卖"
+msgstr ""
+
+#: [zh_CN]info_panel_hitpoints
+msgid "生命值"
+msgstr ""
+
+#: [zh_CN]info_panel_capacity
+msgid "容量"
+msgstr ""
+
+#: [zh_CN]info_panel_produce_rate
+msgid "产率"
+msgstr ""
+
+#: [zh_CN]info_panel_per_hour
+msgid "每小时"
+msgstr ""
+
+#: [zh_CN]pve_npc_name
+msgid "第{0}关"
+msgstr ""
+
+#: [zh_CN]pve_hidden_npc_name
+msgid "隐藏第{0}关"
+msgstr ""
+
+#: [zh_CN]cancel_btn_label
+msgctxt "[zh_CN]cancel_btn_label"
+msgid "取消"
+msgstr ""
+
+#: [zh_CN]dialog_message_exit_confirm
+msgid "退出游戏？"
+msgstr ""
+
+#: [zh_CN]login_error_client_ver_must
+msgid "发现新版本，请到%1$s市场进行更新!"
+msgstr ""
+
+#: [zh_CN]confirm
+msgid "确定"
+msgstr ""
